@@ -1,0 +1,30 @@
+{
+  "ticker": "RELIANCE.NS",
+  "retrieved_at": "2026-10-26T20:05:28.148447+00:00",
+  "purpose": "Coverage audit only; no snapshot values enter training",
+  "quarterly": {
+    "periods": [
+      "2026-06-30 00:00:00",
+      "2026-03-31 00:00:00",
+      "2025-12-31 00:00:00",
+      "2025-06-30 00:00:00",
+      "2025-03-31 00:00:00"
+    ],
+    "rows": 37,
+    "has_diluted_eps": true,
+    "limitation": "Statement period columns are not historical as-published release timestamps"
+  },
+  "yearly": {
+    "periods": [
+      "2026-03-31 00:00:00",
+      "2025-03-31 00:00:00",
+      "2024-03-31 00:00:00",
+      "2023-03-31 00:00:00",
+      "2022-03-31 00:00:00"
+    ],
+    "rows": 50,
+    "has_diluted_eps": true,
+    "limitation": "Statement period columns are not historical as-published release timestamps"
+  },
+  "decision": "Do not backfill current P/E or current/restated EPS into past training rows. Acquire historical publications first."
+}

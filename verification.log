@@ -1,0 +1,50 @@
+Stocks: 15 downloaded rows: 96769
+Discarded 1 rows with incomplete OHLCV from RELIANCE.NS_2000-01-01_to_2026-10-27.csv
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 35
+Usable rows after feature engineering: 6383
+Features created: 35
+Usable rows after feature engineering: 6383
+artifacts\pooled_extended\h1\report.json OK 2026-10-23 1
+Features created: 35
+Usable rows after feature engineering: 6383
+Features created: 35
+Usable rows after feature engineering: 6383
+artifacts\pooled_extended\h21\report.json OK 2026-10-23 21
+Features created: 35
+Usable rows after feature engineering: 6383
+Features created: 35
+Usable rows after feature engineering: 6383
+artifacts\pooled_extended\h252\report.json OK 2026-10-23 252
+Features created: 18
+Usable rows after feature engineering: 6436
+Features created: 18
+Usable rows after feature engineering: 6436
+artifacts\pooled_original\h1\report.json OK 2026-10-23 1
+Features created: 18
+Usable rows after feature engineering: 6436
+Features created: 18
+Usable rows after feature engineering: 6436
+artifacts\pooled_original\h21\report.json OK 2026-10-23 21
+Features created: 18
+Usable rows after feature engineering: 6436
+Features created: 18
+Usable rows after feature engineering: 6436
+artifacts\pooled_original\h252\report.json OK 2026-10-23 252
+Features created: 35
+Usable rows after feature engineering: 6383
+Features created: 35
+Usable rows after feature engineering: 6383
+artifacts\unseen_stocks\h1\report.json OK 2026-10-23 1
+Features created: 35
+Usable rows after feature engineering: 6383
+Features created: 35
+Usable rows after feature engineering: 6383
+artifacts\unseen_stocks\h21\report.json OK 2026-10-23 21
+Features created: 35
+Usable rows after feature engineering: 6383
+Features created: 35
+Usable rows after feature engineering: 6383
+artifacts\unseen_stocks\h252\report.json OK 2026-10-23 252
+All artifact reload, boundary, and latest-row inference checks passed.

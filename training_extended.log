@@ -1,0 +1,360 @@
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2000-01-03 to 2025-12-30
+Valid rows: 6484
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2020-01-01 to 2021-12-30
+Valid rows: 498
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 35
+Usable rows after feature engineering: 6381
+Features created: 35
+Usable rows after feature engineering: 5761
+Features created: 35
+Usable rows after feature engineering: 6382
+Features created: 35
+Usable rows after feature engineering: 6382
+Features created: 35
+Usable rows after feature engineering: 5761
+Features created: 35
+Usable rows after feature engineering: 6382
+Features created: 35
+Usable rows after feature engineering: 6383
+Features created: 35
+Usable rows after feature engineering: 5740
+Features created: 35
+Usable rows after feature engineering: 5501
+Features created: 35
+Usable rows after feature engineering: 6382
+Features created: 35
+Usable rows after feature engineering: 6382
+Features created: 35
+Usable rows after feature engineering: 6382
+Features created: 35
+Usable rows after feature engineering: 6382
+Features created: 35
+Usable rows after feature engineering: 5538
+Features created: 35
+Usable rows after feature engineering: 6382
+h=1 trial=1/24 CV RMSE=0.018810
+h=1 trial=2/24 CV RMSE=0.018812
+h=1 trial=3/24 CV RMSE=0.018812
+h=1 trial=4/24 CV RMSE=0.018805
+h=1 trial=5/24 CV RMSE=0.018807
+h=1 trial=6/24 CV RMSE=0.018805
+h=1 trial=7/24 CV RMSE=0.018807
+h=1 trial=8/24 CV RMSE=0.018802
+h=1 trial=9/24 CV RMSE=0.018803
+h=1 trial=10/24 CV RMSE=0.018806
+h=1 trial=11/24 CV RMSE=0.018807
+h=1 trial=12/24 CV RMSE=0.018808
+h=1 trial=13/24 CV RMSE=0.018804
+h=1 trial=14/24 CV RMSE=0.018813
+h=1 trial=15/24 CV RMSE=0.018806
+h=1 trial=16/24 CV RMSE=0.018802
+h=1 trial=17/24 CV RMSE=0.018808
+h=1 trial=18/24 CV RMSE=0.018812
+h=1 trial=19/24 CV RMSE=0.018805
+h=1 trial=20/24 CV RMSE=0.018810
+h=1 trial=21/24 CV RMSE=0.018809
+h=1 trial=22/24 CV RMSE=0.018806
+h=1 trial=23/24 CV RMSE=0.018812
+h=1 trial=24/24 CV RMSE=0.018812
+{
+  "horizon": 1,
+  "test_metrics": {
+    "xgboost": {
+      "mae": 0.010807572888933241,
+      "rmse": 0.015125981910120637,
+      "directional_accuracy": 0.5076758466691478,
+      "r2": -0.0013004612902127732,
+      "price_mae": 19.072217676894844,
+      "price_mape": 0.0108104235314505
+    },
+    "zero_return": {
+      "mae": 0.010795909289212377,
+      "rmse": 0.015121747267185208,
+      "directional_accuracy": 0.003256419799032378,
+      "r2": -0.0007398951838364365
+    },
+    "historical_mean": {
+      "mae": 0.01080181457539633,
+      "rmse": 0.015118343019004056,
+      "directional_accuracy": 0.506698920729438,
+      "r2": -0.0002893674190811435
+    },
+    "historical_median": {
+      "mae": 0.010794328771878343,
+      "rmse": 0.015117824674937965,
+      "directional_accuracy": 0.506698920729438,
+      "r2": -0.00022077720799251743
+    }
+  },
+  "output": "artifacts\\pooled_extended\\h1"
+}
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2000-01-03 to 2025-12-30
+Valid rows: 6484
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2020-01-01 to 2021-12-30
+Valid rows: 498
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 35
+Usable rows after feature engineering: 6361
+Features created: 35
+Usable rows after feature engineering: 5741
+Features created: 35
+Usable rows after feature engineering: 6362
+Features created: 35
+Usable rows after feature engineering: 6362
+Features created: 35
+Usable rows after feature engineering: 5741
+Features created: 35
+Usable rows after feature engineering: 6362
+Features created: 35
+Usable rows after feature engineering: 6363
+Features created: 35
+Usable rows after feature engineering: 5720
+Features created: 35
+Usable rows after feature engineering: 5481
+Features created: 35
+Usable rows after feature engineering: 6362
+Features created: 35
+Usable rows after feature engineering: 6362
+Features created: 35
+Usable rows after feature engineering: 6362
+Features created: 35
+Usable rows after feature engineering: 6362
+Features created: 35
+Usable rows after feature engineering: 5518
+Features created: 35
+Usable rows after feature engineering: 6362
+h=21 trial=1/24 CV RMSE=0.084867
+h=21 trial=2/24 CV RMSE=0.084884
+h=21 trial=3/24 CV RMSE=0.084891
+h=21 trial=4/24 CV RMSE=0.084873
+h=21 trial=5/24 CV RMSE=0.084911
+h=21 trial=6/24 CV RMSE=0.084947
+h=21 trial=7/24 CV RMSE=0.084899
+h=21 trial=8/24 CV RMSE=0.084903
+h=21 trial=9/24 CV RMSE=0.084904
+h=21 trial=10/24 CV RMSE=0.084885
+h=21 trial=11/24 CV RMSE=0.084882
+h=21 trial=12/24 CV RMSE=0.084906
+h=21 trial=13/24 CV RMSE=0.084927
+h=21 trial=14/24 CV RMSE=0.084884
+h=21 trial=15/24 CV RMSE=0.084886
+h=21 trial=16/24 CV RMSE=0.084915
+h=21 trial=17/24 CV RMSE=0.084881
+h=21 trial=18/24 CV RMSE=0.084889
+h=21 trial=19/24 CV RMSE=0.084948
+h=21 trial=20/24 CV RMSE=0.084879
+h=21 trial=21/24 CV RMSE=0.084924
+h=21 trial=22/24 CV RMSE=0.084878
+h=21 trial=23/24 CV RMSE=0.084881
+h=21 trial=24/24 CV RMSE=0.084881
+{
+  "horizon": 21,
+  "test_metrics": {
+    "xgboost": {
+      "mae": 0.052335868554436324,
+      "rmse": 0.0672652768085719,
+      "directional_accuracy": 0.5538309114927344,
+      "r2": -0.004240785973853134,
+      "price_mae": 94.77339205524702,
+      "price_mape": 0.0526966285084684
+    },
+    "zero_return": {
+      "mae": 0.05260642946130732,
+      "rmse": 0.06761361724674282,
+      "directional_accuracy": 0.00033025099075297226,
+      "r2": -0.014668854546505683
+    },
+    "historical_mean": {
+      "mae": 0.052366417413007245,
+      "rmse": 0.0674141081176308,
+      "directional_accuracy": 0.5538309114927344,
+      "r2": -0.008689673375867457
+    },
+    "historical_median": {
+      "mae": 0.05257718952890061,
+      "rmse": 0.06767536530990763,
+      "directional_accuracy": 0.5538309114927344,
+      "r2": -0.016522991282528432
+    }
+  },
+  "output": "artifacts\\pooled_extended\\h21"
+}
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2000-01-03 to 2025-12-30
+Valid rows: 6484
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2020-01-01 to 2021-12-30
+Valid rows: 498
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 35
+Usable rows after feature engineering: 6131
+Features created: 35
+Usable rows after feature engineering: 5511
+Features created: 35
+Usable rows after feature engineering: 6132
+Features created: 35
+Usable rows after feature engineering: 6132
+Features created: 35
+Usable rows after feature engineering: 5511
+Features created: 35
+Usable rows after feature engineering: 6132
+Features created: 35
+Usable rows after feature engineering: 6133
+Features created: 35
+Usable rows after feature engineering: 5490
+Features created: 35
+Usable rows after feature engineering: 5251
+Features created: 35
+Usable rows after feature engineering: 6132
+Features created: 35
+Usable rows after feature engineering: 6132
+Features created: 35
+Usable rows after feature engineering: 6132
+Features created: 35
+Usable rows after feature engineering: 6132
+Features created: 35
+Usable rows after feature engineering: 5288
+Features created: 35
+Usable rows after feature engineering: 6132
+h=252 trial=1/24 CV RMSE=0.250861
+h=252 trial=2/24 CV RMSE=0.248618
+h=252 trial=3/24 CV RMSE=0.248296
+h=252 trial=4/24 CV RMSE=0.251232
+h=252 trial=5/24 CV RMSE=0.253509
+h=252 trial=6/24 CV RMSE=0.252593
+h=252 trial=7/24 CV RMSE=0.250214
+h=252 trial=8/24 CV RMSE=0.253566
+h=252 trial=9/24 CV RMSE=0.251521
+h=252 trial=10/24 CV RMSE=0.252121
+h=252 trial=11/24 CV RMSE=0.250599
+h=252 trial=12/24 CV RMSE=0.253098
+h=252 trial=13/24 CV RMSE=0.253144
+h=252 trial=14/24 CV RMSE=0.250433
+h=252 trial=15/24 CV RMSE=0.252255
+h=252 trial=16/24 CV RMSE=0.251969
+h=252 trial=17/24 CV RMSE=0.250424
+h=252 trial=18/24 CV RMSE=0.248596
+h=252 trial=19/24 CV RMSE=0.253719
+h=252 trial=20/24 CV RMSE=0.250668
+h=252 trial=21/24 CV RMSE=0.252104
+h=252 trial=22/24 CV RMSE=0.250493
+h=252 trial=23/24 CV RMSE=0.248585
+h=252 trial=24/24 CV RMSE=0.248604
+{
+  "horizon": 252,
+  "test_metrics": {
+    "xgboost": {
+      "mae": 0.16037023080461094,
+      "rmse": 0.20648751152798875,
+      "directional_accuracy": 0.7180773131973403,
+      "r2": -0.024210725206136763,
+      "price_mae": 277.044699290302,
+      "price_mape": 0.16987734849110434
+    },
+    "zero_return": {
+      "mae": 0.1860259916313475,
+      "rmse": 0.23057960063220767,
+      "directional_accuracy": 0.0,
+      "r2": -0.2771546935128819
+    },
+    "historical_mean": {
+      "mae": 0.16435090946425696,
+      "rmse": 0.21264611614734946,
+      "directional_accuracy": 0.7180773131973403,
+      "r2": -0.08621713242467832
+    },
+    "historical_median": {
+      "mae": 0.16528557328369836,
+      "rmse": 0.21386243545811995,
+      "directional_accuracy": 0.7180773131973403,
+      "r2": -0.09867882644614956
+    }
+  },
+  "output": "artifacts\\pooled_extended\\h252"
+}

@@ -1,0 +1,4097 @@
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6434
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Features created: 18
+Usable rows after feature engineering: 5747
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5811
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Features created: 18
+Usable rows after feature engineering: 3734
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6430
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6249
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Features created: 18
+Usable rows after feature engineering: 5735
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6436
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Features created: 18
+Usable rows after feature engineering: 5565
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Features created: 18
+Usable rows after feature engineering: 5790
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Features created: 18
+Usable rows after feature engineering: 5552
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Features created: 18
+Usable rows after feature engineering: 5216
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5811
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Features created: 18
+Usable rows after feature engineering: 4490
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Features created: 18
+Usable rows after feature engineering: 6061
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Features created: 18
+Usable rows after feature engineering: 5538
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Features created: 18
+Usable rows after feature engineering: 4765
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Features created: 18
+Usable rows after feature engineering: 5779
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+core h=1 trial=1/16 CV=0.019079
+core h=1 trial=2/16 CV=0.019084
+core h=1 trial=3/16 CV=0.019074
+core h=1 trial=4/16 CV=0.019084
+core h=1 trial=5/16 CV=0.019084
+core h=1 trial=6/16 CV=0.019078
+core h=1 trial=7/16 CV=0.019085
+core h=1 trial=8/16 CV=0.019084
+core h=1 trial=9/16 CV=0.019083
+core h=1 trial=10/16 CV=0.019076
+core h=1 trial=11/16 CV=0.019077
+core h=1 trial=12/16 CV=0.019084
+core h=1 trial=13/16 CV=0.019083
+core h=1 trial=14/16 CV=0.019084
+core h=1 trial=15/16 CV=0.019079
+core h=1 trial=16/16 CV=0.019080
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6434
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Features created: 18
+Usable rows after feature engineering: 5747
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5811
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Features created: 18
+Usable rows after feature engineering: 3734
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6430
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6249
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Features created: 18
+Usable rows after feature engineering: 5735
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6436
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Features created: 18
+Usable rows after feature engineering: 5565
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Features created: 18
+Usable rows after feature engineering: 5790
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Features created: 18
+Usable rows after feature engineering: 5552
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Features created: 18
+Usable rows after feature engineering: 5216
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5811
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Features created: 18
+Usable rows after feature engineering: 4490
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Features created: 18
+Usable rows after feature engineering: 6061
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Features created: 18
+Usable rows after feature engineering: 5538
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Features created: 18
+Usable rows after feature engineering: 4765
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Features created: 18
+Usable rows after feature engineering: 5779
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+statistics h=1 trial=1/16 CV=0.019085
+statistics h=1 trial=2/16 CV=0.019085
+statistics h=1 trial=3/16 CV=0.019084
+statistics h=1 trial=4/16 CV=0.019085
+statistics h=1 trial=5/16 CV=0.019083
+statistics h=1 trial=6/16 CV=0.019084
+statistics h=1 trial=7/16 CV=0.019085
+statistics h=1 trial=8/16 CV=0.019085
+statistics h=1 trial=9/16 CV=0.019084
+statistics h=1 trial=10/16 CV=0.019084
+statistics h=1 trial=11/16 CV=0.019085
+statistics h=1 trial=12/16 CV=0.019086
+statistics h=1 trial=13/16 CV=0.019084
+statistics h=1 trial=14/16 CV=0.019084
+statistics h=1 trial=15/16 CV=0.019085
+statistics h=1 trial=16/16 CV=0.019085
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6434
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Features created: 18
+Usable rows after feature engineering: 5747
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5811
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Features created: 18
+Usable rows after feature engineering: 3734
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6430
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6249
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Features created: 18
+Usable rows after feature engineering: 5735
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6436
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Features created: 18
+Usable rows after feature engineering: 5565
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Features created: 18
+Usable rows after feature engineering: 5790
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Features created: 18
+Usable rows after feature engineering: 5552
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Features created: 18
+Usable rows after feature engineering: 5216
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5811
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Features created: 18
+Usable rows after feature engineering: 4490
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Features created: 18
+Usable rows after feature engineering: 6061
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Features created: 18
+Usable rows after feature engineering: 5538
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Features created: 18
+Usable rows after feature engineering: 4765
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Features created: 18
+Usable rows after feature engineering: 5779
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+statistics_mode h=1 trial=1/16 CV=0.019085
+statistics_mode h=1 trial=2/16 CV=0.019085
+statistics_mode h=1 trial=3/16 CV=0.019084
+statistics_mode h=1 trial=4/16 CV=0.019085
+statistics_mode h=1 trial=5/16 CV=0.019083
+statistics_mode h=1 trial=6/16 CV=0.019084
+statistics_mode h=1 trial=7/16 CV=0.019085
+statistics_mode h=1 trial=8/16 CV=0.019085
+statistics_mode h=1 trial=9/16 CV=0.019084
+statistics_mode h=1 trial=10/16 CV=0.019084
+statistics_mode h=1 trial=11/16 CV=0.019085
+statistics_mode h=1 trial=12/16 CV=0.019086
+statistics_mode h=1 trial=13/16 CV=0.019085
+statistics_mode h=1 trial=14/16 CV=0.019084
+statistics_mode h=1 trial=15/16 CV=0.019085
+statistics_mode h=1 trial=16/16 CV=0.019085
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6434
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Features created: 18
+Usable rows after feature engineering: 5747
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5811
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Features created: 18
+Usable rows after feature engineering: 3734
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6430
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6249
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Features created: 18
+Usable rows after feature engineering: 5735
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6436
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Features created: 18
+Usable rows after feature engineering: 5565
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Features created: 18
+Usable rows after feature engineering: 5790
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Features created: 18
+Usable rows after feature engineering: 5552
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Features created: 18
+Usable rows after feature engineering: 5216
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5811
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Features created: 18
+Usable rows after feature engineering: 4490
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Features created: 18
+Usable rows after feature engineering: 6061
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Features created: 18
+Usable rows after feature engineering: 5538
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Features created: 18
+Usable rows after feature engineering: 4765
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Features created: 18
+Usable rows after feature engineering: 5779
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+statistics_dividends h=1 trial=1/16 CV=0.019084
+statistics_dividends h=1 trial=2/16 CV=0.019085
+statistics_dividends h=1 trial=3/16 CV=0.019084
+statistics_dividends h=1 trial=4/16 CV=0.019085
+statistics_dividends h=1 trial=5/16 CV=0.019083
+statistics_dividends h=1 trial=6/16 CV=0.019082
+statistics_dividends h=1 trial=7/16 CV=0.019082
+statistics_dividends h=1 trial=8/16 CV=0.019084
+statistics_dividends h=1 trial=9/16 CV=0.019084
+statistics_dividends h=1 trial=10/16 CV=0.019084
+statistics_dividends h=1 trial=11/16 CV=0.019083
+statistics_dividends h=1 trial=12/16 CV=0.019084
+statistics_dividends h=1 trial=13/16 CV=0.019085
+statistics_dividends h=1 trial=14/16 CV=0.019084
+statistics_dividends h=1 trial=15/16 CV=0.019083
+statistics_dividends h=1 trial=16/16 CV=0.019084
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6434
+Features created: 18
+Usable rows after feature engineering: 6434
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Features created: 18
+Usable rows after feature engineering: 5747
+Features created: 18
+Usable rows after feature engineering: 5747
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5811
+Features created: 18
+Usable rows after feature engineering: 5811
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6435
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6424
+Features created: 18
+Usable rows after feature engineering: 6424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Features created: 18
+Usable rows after feature engineering: 6435
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Features created: 18
+Usable rows after feature engineering: 3734
+Features created: 18
+Usable rows after feature engineering: 3734
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6435
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6430
+Features created: 18
+Usable rows after feature engineering: 6430
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6249
+Features created: 18
+Usable rows after feature engineering: 6249
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Features created: 18
+Usable rows after feature engineering: 5735
+Features created: 18
+Usable rows after feature engineering: 5735
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5812
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Features created: 18
+Usable rows after feature engineering: 5812
+Features created: 18
+Usable rows after feature engineering: 5812
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6436
+Features created: 18
+Usable rows after feature engineering: 6436
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Features created: 18
+Usable rows after feature engineering: 5565
+Features created: 18
+Usable rows after feature engineering: 5565
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Features created: 18
+Usable rows after feature engineering: 5790
+Features created: 18
+Usable rows after feature engineering: 5790
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Features created: 18
+Usable rows after feature engineering: 5552
+Features created: 18
+Usable rows after feature engineering: 5552
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Features created: 18
+Usable rows after feature engineering: 5216
+Features created: 18
+Usable rows after feature engineering: 5216
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6435
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5811
+Features created: 18
+Usable rows after feature engineering: 5811
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Features created: 18
+Usable rows after feature engineering: 4490
+Features created: 18
+Usable rows after feature engineering: 4490
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6435
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Features created: 18
+Usable rows after feature engineering: 6435
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Features created: 18
+Usable rows after feature engineering: 6061
+Features created: 18
+Usable rows after feature engineering: 6061
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Features created: 18
+Usable rows after feature engineering: 5538
+Features created: 18
+Usable rows after feature engineering: 5538
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Features created: 18
+Usable rows after feature engineering: 4765
+Features created: 18
+Usable rows after feature engineering: 4765
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Features created: 18
+Usable rows after feature engineering: 6435
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Features created: 18
+Usable rows after feature engineering: 5779
+Features created: 18
+Usable rows after feature engineering: 5779
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6435
+Features created: 18
+Usable rows after feature engineering: 6435
+original h=1 trial=1/16 CV=0.019086
+original h=1 trial=2/16 CV=0.019084
+original h=1 trial=3/16 CV=0.019084
+original h=1 trial=4/16 CV=0.019082
+original h=1 trial=5/16 CV=0.019083
+original h=1 trial=6/16 CV=0.019087
+original h=1 trial=7/16 CV=0.019084
+original h=1 trial=8/16 CV=0.019086
+original h=1 trial=9/16 CV=0.019083
+original h=1 trial=10/16 CV=0.019085
+original h=1 trial=11/16 CV=0.019087
+original h=1 trial=12/16 CV=0.019084
+original h=1 trial=13/16 CV=0.019084
+original h=1 trial=14/16 CV=0.019083
+original h=1 trial=15/16 CV=0.019086
+original h=1 trial=16/16 CV=0.019086
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6414
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Features created: 18
+Usable rows after feature engineering: 5727
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5791
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6404
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Features created: 18
+Usable rows after feature engineering: 3714
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6410
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6229
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Features created: 18
+Usable rows after feature engineering: 5715
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6416
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Features created: 18
+Usable rows after feature engineering: 5545
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Features created: 18
+Usable rows after feature engineering: 5770
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Features created: 18
+Usable rows after feature engineering: 5532
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Features created: 18
+Usable rows after feature engineering: 5196
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5791
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Features created: 18
+Usable rows after feature engineering: 4470
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Features created: 18
+Usable rows after feature engineering: 6041
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Features created: 18
+Usable rows after feature engineering: 5518
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Features created: 18
+Usable rows after feature engineering: 4745
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Features created: 18
+Usable rows after feature engineering: 5759
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+core h=21 trial=1/16 CV=0.086403
+core h=21 trial=2/16 CV=0.086420
+core h=21 trial=3/16 CV=0.086408
+core h=21 trial=4/16 CV=0.086253
+core h=21 trial=5/16 CV=0.086251
+core h=21 trial=6/16 CV=0.086410
+core h=21 trial=7/16 CV=0.086406
+core h=21 trial=8/16 CV=0.086413
+core h=21 trial=9/16 CV=0.086248
+core h=21 trial=10/16 CV=0.086402
+core h=21 trial=11/16 CV=0.086404
+core h=21 trial=12/16 CV=0.086415
+core h=21 trial=13/16 CV=0.086252
+core h=21 trial=14/16 CV=0.086268
+core h=21 trial=15/16 CV=0.086397
+core h=21 trial=16/16 CV=0.086407
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6414
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Features created: 18
+Usable rows after feature engineering: 5727
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5791
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6404
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Features created: 18
+Usable rows after feature engineering: 3714
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6410
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6229
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Features created: 18
+Usable rows after feature engineering: 5715
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6416
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Features created: 18
+Usable rows after feature engineering: 5545
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Features created: 18
+Usable rows after feature engineering: 5770
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Features created: 18
+Usable rows after feature engineering: 5532
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Features created: 18
+Usable rows after feature engineering: 5196
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5791
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Features created: 18
+Usable rows after feature engineering: 4470
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Features created: 18
+Usable rows after feature engineering: 6041
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Features created: 18
+Usable rows after feature engineering: 5518
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Features created: 18
+Usable rows after feature engineering: 4745
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Features created: 18
+Usable rows after feature engineering: 5759
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+statistics h=21 trial=1/16 CV=0.086401
+statistics h=21 trial=2/16 CV=0.086415
+statistics h=21 trial=3/16 CV=0.086408
+statistics h=21 trial=4/16 CV=0.086250
+statistics h=21 trial=5/16 CV=0.086248
+statistics h=21 trial=6/16 CV=0.086401
+statistics h=21 trial=7/16 CV=0.086408
+statistics h=21 trial=8/16 CV=0.086414
+statistics h=21 trial=9/16 CV=0.086243
+statistics h=21 trial=10/16 CV=0.086400
+statistics h=21 trial=11/16 CV=0.086403
+statistics h=21 trial=12/16 CV=0.086420
+statistics h=21 trial=13/16 CV=0.086248
+statistics h=21 trial=14/16 CV=0.086257
+statistics h=21 trial=15/16 CV=0.086396
+statistics h=21 trial=16/16 CV=0.086402
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6414
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Features created: 18
+Usable rows after feature engineering: 5727
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5791
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6404
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Features created: 18
+Usable rows after feature engineering: 3714
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6410
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6229
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Features created: 18
+Usable rows after feature engineering: 5715
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6416
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Features created: 18
+Usable rows after feature engineering: 5545
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Features created: 18
+Usable rows after feature engineering: 5770
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Features created: 18
+Usable rows after feature engineering: 5532
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Features created: 18
+Usable rows after feature engineering: 5196
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5791
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Features created: 18
+Usable rows after feature engineering: 4470
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Features created: 18
+Usable rows after feature engineering: 6041
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Features created: 18
+Usable rows after feature engineering: 5518
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Features created: 18
+Usable rows after feature engineering: 4745
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Features created: 18
+Usable rows after feature engineering: 5759
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+statistics_mode h=21 trial=1/16 CV=0.086401
+statistics_mode h=21 trial=2/16 CV=0.086417
+statistics_mode h=21 trial=3/16 CV=0.086414
+statistics_mode h=21 trial=4/16 CV=0.086248
+statistics_mode h=21 trial=5/16 CV=0.086247
+statistics_mode h=21 trial=6/16 CV=0.086401
+statistics_mode h=21 trial=7/16 CV=0.086416
+statistics_mode h=21 trial=8/16 CV=0.086402
+statistics_mode h=21 trial=9/16 CV=0.086242
+statistics_mode h=21 trial=10/16 CV=0.086401
+statistics_mode h=21 trial=11/16 CV=0.086403
+statistics_mode h=21 trial=12/16 CV=0.086413
+statistics_mode h=21 trial=13/16 CV=0.086248
+statistics_mode h=21 trial=14/16 CV=0.086258
+statistics_mode h=21 trial=15/16 CV=0.086396
+statistics_mode h=21 trial=16/16 CV=0.086404
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6414
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Features created: 18
+Usable rows after feature engineering: 5727
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5791
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6404
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Features created: 18
+Usable rows after feature engineering: 3714
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6410
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6229
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Features created: 18
+Usable rows after feature engineering: 5715
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6416
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Features created: 18
+Usable rows after feature engineering: 5545
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Features created: 18
+Usable rows after feature engineering: 5770
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Features created: 18
+Usable rows after feature engineering: 5532
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Features created: 18
+Usable rows after feature engineering: 5196
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5791
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Features created: 18
+Usable rows after feature engineering: 4470
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Features created: 18
+Usable rows after feature engineering: 6041
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Features created: 18
+Usable rows after feature engineering: 5518
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Features created: 18
+Usable rows after feature engineering: 4745
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Features created: 18
+Usable rows after feature engineering: 5759
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+statistics_dividends h=21 trial=1/16 CV=0.086420
+statistics_dividends h=21 trial=2/16 CV=0.086424
+statistics_dividends h=21 trial=3/16 CV=0.086407
+statistics_dividends h=21 trial=4/16 CV=0.086244
+statistics_dividends h=21 trial=5/16 CV=0.086255
+statistics_dividends h=21 trial=6/16 CV=0.086422
+statistics_dividends h=21 trial=7/16 CV=0.086405
+statistics_dividends h=21 trial=8/16 CV=0.086416
+statistics_dividends h=21 trial=9/16 CV=0.086245
+statistics_dividends h=21 trial=10/16 CV=0.086399
+statistics_dividends h=21 trial=11/16 CV=0.086412
+statistics_dividends h=21 trial=12/16 CV=0.086424
+statistics_dividends h=21 trial=13/16 CV=0.086248
+statistics_dividends h=21 trial=14/16 CV=0.086265
+statistics_dividends h=21 trial=15/16 CV=0.086417
+statistics_dividends h=21 trial=16/16 CV=0.086416
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6414
+Features created: 18
+Usable rows after feature engineering: 6414
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Features created: 18
+Usable rows after feature engineering: 5727
+Features created: 18
+Usable rows after feature engineering: 5727
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5791
+Features created: 18
+Usable rows after feature engineering: 5791
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6404
+Features created: 18
+Usable rows after feature engineering: 6404
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Features created: 18
+Usable rows after feature engineering: 6415
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Features created: 18
+Usable rows after feature engineering: 3714
+Features created: 18
+Usable rows after feature engineering: 3714
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6410
+Features created: 18
+Usable rows after feature engineering: 6410
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6229
+Features created: 18
+Usable rows after feature engineering: 6229
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Features created: 18
+Usable rows after feature engineering: 5715
+Features created: 18
+Usable rows after feature engineering: 5715
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Features created: 18
+Usable rows after feature engineering: 5792
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6416
+Features created: 18
+Usable rows after feature engineering: 6416
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Features created: 18
+Usable rows after feature engineering: 5545
+Features created: 18
+Usable rows after feature engineering: 5545
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Features created: 18
+Usable rows after feature engineering: 5770
+Features created: 18
+Usable rows after feature engineering: 5770
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Features created: 18
+Usable rows after feature engineering: 5532
+Features created: 18
+Usable rows after feature engineering: 5532
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Features created: 18
+Usable rows after feature engineering: 5196
+Features created: 18
+Usable rows after feature engineering: 5196
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5791
+Features created: 18
+Usable rows after feature engineering: 5791
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Features created: 18
+Usable rows after feature engineering: 4470
+Features created: 18
+Usable rows after feature engineering: 4470
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Features created: 18
+Usable rows after feature engineering: 6415
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Features created: 18
+Usable rows after feature engineering: 6041
+Features created: 18
+Usable rows after feature engineering: 6041
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Features created: 18
+Usable rows after feature engineering: 5518
+Features created: 18
+Usable rows after feature engineering: 5518
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Features created: 18
+Usable rows after feature engineering: 4745
+Features created: 18
+Usable rows after feature engineering: 4745
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Features created: 18
+Usable rows after feature engineering: 5759
+Features created: 18
+Usable rows after feature engineering: 5759
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Features created: 18
+Usable rows after feature engineering: 6415
+original h=21 trial=1/16 CV=0.086382
+original h=21 trial=2/16 CV=0.086367
+original h=21 trial=3/16 CV=0.086390
+original h=21 trial=4/16 CV=0.086235
+original h=21 trial=5/16 CV=0.086248
+original h=21 trial=6/16 CV=0.086387
+original h=21 trial=7/16 CV=0.086389
+original h=21 trial=8/16 CV=0.086410
+original h=21 trial=9/16 CV=0.086236
+original h=21 trial=10/16 CV=0.086398
+original h=21 trial=11/16 CV=0.086392
+original h=21 trial=12/16 CV=0.086410
+original h=21 trial=13/16 CV=0.086233
+original h=21 trial=14/16 CV=0.086245
+original h=21 trial=15/16 CV=0.086379
+original h=21 trial=16/16 CV=0.086394
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6184
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Features created: 18
+Usable rows after feature engineering: 5497
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5561
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6174
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Features created: 18
+Usable rows after feature engineering: 3484
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6180
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 5999
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Features created: 18
+Usable rows after feature engineering: 5485
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6186
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Features created: 18
+Usable rows after feature engineering: 5315
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Features created: 18
+Usable rows after feature engineering: 5540
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Features created: 18
+Usable rows after feature engineering: 5302
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Features created: 18
+Usable rows after feature engineering: 4966
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5561
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Features created: 18
+Usable rows after feature engineering: 4240
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Features created: 18
+Usable rows after feature engineering: 5811
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Features created: 18
+Usable rows after feature engineering: 5288
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Features created: 18
+Usable rows after feature engineering: 4515
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Features created: 18
+Usable rows after feature engineering: 5529
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+core h=252 trial=1/16 CV=0.266930
+core h=252 trial=2/16 CV=0.267966
+core h=252 trial=3/16 CV=0.266870
+core h=252 trial=4/16 CV=0.260607
+core h=252 trial=5/16 CV=0.259848
+core h=252 trial=6/16 CV=0.266749
+core h=252 trial=7/16 CV=0.267606
+core h=252 trial=8/16 CV=0.267792
+core h=252 trial=9/16 CV=0.260044
+core h=252 trial=10/16 CV=0.266168
+core h=252 trial=11/16 CV=0.266861
+core h=252 trial=12/16 CV=0.267766
+core h=252 trial=13/16 CV=0.260714
+core h=252 trial=14/16 CV=0.260656
+core h=252 trial=15/16 CV=0.266883
+core h=252 trial=16/16 CV=0.266846
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6184
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Features created: 18
+Usable rows after feature engineering: 5497
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5561
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6174
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Features created: 18
+Usable rows after feature engineering: 3484
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6180
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 5999
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Features created: 18
+Usable rows after feature engineering: 5485
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6186
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Features created: 18
+Usable rows after feature engineering: 5315
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Features created: 18
+Usable rows after feature engineering: 5540
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Features created: 18
+Usable rows after feature engineering: 5302
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Features created: 18
+Usable rows after feature engineering: 4966
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5561
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Features created: 18
+Usable rows after feature engineering: 4240
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Features created: 18
+Usable rows after feature engineering: 5811
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Features created: 18
+Usable rows after feature engineering: 5288
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Features created: 18
+Usable rows after feature engineering: 4515
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Features created: 18
+Usable rows after feature engineering: 5529
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+statistics h=252 trial=1/16 CV=0.266264
+statistics h=252 trial=2/16 CV=0.266531
+statistics h=252 trial=3/16 CV=0.266283
+statistics h=252 trial=4/16 CV=0.260113
+statistics h=252 trial=5/16 CV=0.259894
+statistics h=252 trial=6/16 CV=0.266280
+statistics h=252 trial=7/16 CV=0.266310
+statistics h=252 trial=8/16 CV=0.266327
+statistics h=252 trial=9/16 CV=0.259808
+statistics h=252 trial=10/16 CV=0.265957
+statistics h=252 trial=11/16 CV=0.266155
+statistics h=252 trial=12/16 CV=0.266358
+statistics h=252 trial=13/16 CV=0.260475
+statistics h=252 trial=14/16 CV=0.260273
+statistics h=252 trial=15/16 CV=0.266460
+statistics h=252 trial=16/16 CV=0.266399
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6184
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Features created: 18
+Usable rows after feature engineering: 5497
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5561
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6174
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Features created: 18
+Usable rows after feature engineering: 3484
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6180
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 5999
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Features created: 18
+Usable rows after feature engineering: 5485
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6186
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Features created: 18
+Usable rows after feature engineering: 5315
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Features created: 18
+Usable rows after feature engineering: 5540
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Features created: 18
+Usable rows after feature engineering: 5302
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Features created: 18
+Usable rows after feature engineering: 4966
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5561
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Features created: 18
+Usable rows after feature engineering: 4240
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Features created: 18
+Usable rows after feature engineering: 5811
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Features created: 18
+Usable rows after feature engineering: 5288
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Features created: 18
+Usable rows after feature engineering: 4515
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Features created: 18
+Usable rows after feature engineering: 5529
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+statistics_mode h=252 trial=1/16 CV=0.265980
+statistics_mode h=252 trial=2/16 CV=0.266117
+statistics_mode h=252 trial=3/16 CV=0.265625
+statistics_mode h=252 trial=4/16 CV=0.259809
+statistics_mode h=252 trial=5/16 CV=0.259721
+statistics_mode h=252 trial=6/16 CV=0.265740
+statistics_mode h=252 trial=7/16 CV=0.265795
+statistics_mode h=252 trial=8/16 CV=0.265827
+statistics_mode h=252 trial=9/16 CV=0.259570
+statistics_mode h=252 trial=10/16 CV=0.265484
+statistics_mode h=252 trial=11/16 CV=0.265753
+statistics_mode h=252 trial=12/16 CV=0.265681
+statistics_mode h=252 trial=13/16 CV=0.260268
+statistics_mode h=252 trial=14/16 CV=0.260184
+statistics_mode h=252 trial=15/16 CV=0.265847
+statistics_mode h=252 trial=16/16 CV=0.265816
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6184
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Features created: 18
+Usable rows after feature engineering: 5497
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5561
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6174
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Features created: 18
+Usable rows after feature engineering: 3484
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6180
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 5999
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Features created: 18
+Usable rows after feature engineering: 5485
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6186
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Features created: 18
+Usable rows after feature engineering: 5315
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Features created: 18
+Usable rows after feature engineering: 5540
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Features created: 18
+Usable rows after feature engineering: 5302
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Features created: 18
+Usable rows after feature engineering: 4966
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5561
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Features created: 18
+Usable rows after feature engineering: 4240
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Features created: 18
+Usable rows after feature engineering: 5811
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Features created: 18
+Usable rows after feature engineering: 5288
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Features created: 18
+Usable rows after feature engineering: 4515
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Features created: 18
+Usable rows after feature engineering: 5529
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+statistics_dividends h=252 trial=1/16 CV=0.268700
+statistics_dividends h=252 trial=2/16 CV=0.269164
+statistics_dividends h=252 trial=3/16 CV=0.268412
+statistics_dividends h=252 trial=4/16 CV=0.263392
+statistics_dividends h=252 trial=5/16 CV=0.263553
+statistics_dividends h=252 trial=6/16 CV=0.268844
+statistics_dividends h=252 trial=7/16 CV=0.268996
+statistics_dividends h=252 trial=8/16 CV=0.269072
+statistics_dividends h=252 trial=9/16 CV=0.263514
+statistics_dividends h=252 trial=10/16 CV=0.269666
+statistics_dividends h=252 trial=11/16 CV=0.268775
+statistics_dividends h=252 trial=12/16 CV=0.268992
+statistics_dividends h=252 trial=13/16 CV=0.263373
+statistics_dividends h=252 trial=14/16 CV=0.263502
+statistics_dividends h=252 trial=15/16 CV=0.268751
+statistics_dividends h=252 trial=16/16 CV=0.268538
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6184
+Features created: 18
+Usable rows after feature engineering: 6184
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Features created: 18
+Usable rows after feature engineering: 5497
+Features created: 18
+Usable rows after feature engineering: 5497
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5561
+Features created: 18
+Usable rows after feature engineering: 5561
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6174
+Features created: 18
+Usable rows after feature engineering: 6174
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Features created: 18
+Usable rows after feature engineering: 6185
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Features created: 18
+Usable rows after feature engineering: 3484
+Features created: 18
+Usable rows after feature engineering: 3484
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6180
+Features created: 18
+Usable rows after feature engineering: 6180
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 5999
+Features created: 18
+Usable rows after feature engineering: 5999
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Features created: 18
+Usable rows after feature engineering: 5485
+Features created: 18
+Usable rows after feature engineering: 5485
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Features created: 18
+Usable rows after feature engineering: 5562
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6186
+Features created: 18
+Usable rows after feature engineering: 6186
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Features created: 18
+Usable rows after feature engineering: 5315
+Features created: 18
+Usable rows after feature engineering: 5315
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Features created: 18
+Usable rows after feature engineering: 5540
+Features created: 18
+Usable rows after feature engineering: 5540
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Features created: 18
+Usable rows after feature engineering: 5302
+Features created: 18
+Usable rows after feature engineering: 5302
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Features created: 18
+Usable rows after feature engineering: 4966
+Features created: 18
+Usable rows after feature engineering: 4966
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5561
+Features created: 18
+Usable rows after feature engineering: 5561
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Features created: 18
+Usable rows after feature engineering: 4240
+Features created: 18
+Usable rows after feature engineering: 4240
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Features created: 18
+Usable rows after feature engineering: 6185
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Features created: 18
+Usable rows after feature engineering: 5811
+Features created: 18
+Usable rows after feature engineering: 5811
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Features created: 18
+Usable rows after feature engineering: 5288
+Features created: 18
+Usable rows after feature engineering: 5288
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Features created: 18
+Usable rows after feature engineering: 4515
+Features created: 18
+Usable rows after feature engineering: 4515
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Features created: 18
+Usable rows after feature engineering: 5529
+Features created: 18
+Usable rows after feature engineering: 5529
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Features created: 18
+Usable rows after feature engineering: 6185
+original h=252 trial=1/16 CV=0.262661
+original h=252 trial=2/16 CV=0.262684
+original h=252 trial=3/16 CV=0.262980
+original h=252 trial=4/16 CV=0.257671
+original h=252 trial=5/16 CV=0.257543
+original h=252 trial=6/16 CV=0.262243
+original h=252 trial=7/16 CV=0.262221
+original h=252 trial=8/16 CV=0.262405
+original h=252 trial=9/16 CV=0.257417
+original h=252 trial=10/16 CV=0.263757
+original h=252 trial=11/16 CV=0.262421
+original h=252 trial=12/16 CV=0.262421
+original h=252 trial=13/16 CV=0.257969
+original h=252 trial=14/16 CV=0.258005
+original h=252 trial=15/16 CV=0.262710
+original h=252 trial=16/16 CV=0.262706
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+{
+  "1": {
+    "family": "core",
+    "cv_rmse": 0.01907379666565937,
+    "model_path": "C:\\Users\\Siddhant\\NightEye\\artifacts\\reduced_v2\\core\\h1\\model.joblib"
+  },
+  "21": {
+    "family": "original",
+    "cv_rmse": 0.08623281233722908,
+    "model_path": "C:\\Users\\Siddhant\\NightEye\\artifacts\\reduced_v2\\original\\h21\\model.joblib"
+  },
+  "252": {
+    "family": "original",
+    "cv_rmse": 0.2574169513277732,
+    "model_path": "C:\\Users\\Siddhant\\NightEye\\artifacts\\reduced_v2\\original\\h252\\model.joblib"
+  }
+}

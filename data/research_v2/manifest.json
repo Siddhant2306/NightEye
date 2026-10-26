@@ -1,0 +1,416 @@
+{
+  "provider": "Yahoo Finance via yfinance",
+  "retrieved_at": "2026-10-26T19:59:38.604453+00:00",
+  "raw_prices_split_adjusted_by_provider": true,
+  "adjusted_ohlc": true,
+  "dividend_event_convention": "ex-date, observed cash only; not announcement forecasts",
+  "holdout_tickers": [
+    "ASIANPAINT.NS",
+    "BAJFINANCE.NS",
+    "NTPC.NS",
+    "TITAN.NS",
+    "COALINDIA.NS"
+  ],
+  "records": [
+    {
+      "ticker": "RELIANCE.NS",
+      "rows": 6685,
+      "start": "2000-01-03 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 27,
+      "prices_sha256": "0f22ab710419cb646cc2d8eab262a1086d20e7ed2509eeb206e487cc2b7a2dea",
+      "actions_sha256": "6f05ddce0021836651075ae418f25ba5abb476872f07976a64ce61e7edaf122a"
+    },
+    {
+      "ticker": "TCS.NS",
+      "rows": 6006,
+      "start": "2002-08-12 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 90,
+      "prices_sha256": "512f6fef4153cdea2c89dedee0c2a25dbc39d201b7ec40f8219c1c1ef799c142",
+      "actions_sha256": "c2a78fecd876c366bdfd5bf837e264411c9f3517effe8298b440a5fed8e314c0"
+    },
+    {
+      "ticker": "INFY.NS",
+      "rows": 6688,
+      "start": "2000-01-03 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 54,
+      "prices_sha256": "3c188d9fbe9ecc04866b8da7f47b22e33b16125c0431ae0ae7421391b35f8b0d",
+      "actions_sha256": "d395dbf47625aa67586be3c03220306337de08064415532791f9223e51db19d5"
+    },
+    {
+      "ticker": "HDFCBANK.NS",
+      "rows": 6688,
+      "start": "2000-01-03 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 28,
+      "prices_sha256": "4d6c85d3ff1231883594349ed66b41333bd9f12728696fbd82b0548e6d8575f8",
+      "actions_sha256": "b62a6a7938bc0eab84b98fecbeb0d9fbd34965c5306c45b0a85a60a72da47b0b"
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "rows": 6035,
+      "start": "2002-07-01 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 24,
+      "prices_sha256": "8e00e275104bcd0f6dfe965c23e0588368f2a05fad289bd2f4ef1b0e10d5b6ef",
+      "actions_sha256": "fa87353d34dc21a35bbc4e910c09d332946a65d3ca9f67b80501b698f8cc640f"
+    },
+    {
+      "ticker": "SBIN.NS",
+      "rows": 6686,
+      "start": "2000-01-03 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 27,
+      "prices_sha256": "1a10f5cc12aedd010917bcc171846b719a955c10ab7585d6e8f46a2a03452dbb",
+      "actions_sha256": "294832333a9e0357a309efaeac9e280e3b7de100a457cabd30bd3283fbc29294"
+    },
+    {
+      "ticker": "ITC.NS",
+      "rows": 6685,
+      "start": "2000-01-03 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 33,
+      "prices_sha256": "2208900b76bd31602f82819470a46ac647c03fb1e76638c6ae3dcdb6321e7882",
+      "actions_sha256": "d9937e92ce7f21f0e2af8644e6187ed21d1a0d623b30a8b7dd4ca775f579c1dd"
+    },
+    {
+      "ticker": "LT.NS",
+      "rows": 6038,
+      "start": "2002-07-01 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 29,
+      "prices_sha256": "2550449e815f16c844dbe2da1d5d873cfc0fbf53d290a57c76ffac89dfa72a9b",
+      "actions_sha256": "3c54f6aa420a2e46330c76ee2e990497578e20aab7ba33f1efb8dc2e24a2d971"
+    },
+    {
+      "ticker": "HINDUNILVR.NS",
+      "rows": 6688,
+      "start": "2000-01-03 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 56,
+      "prices_sha256": "61d201e2e9e91a506ee5eafb687eeebeefdef7f0a32b2d43ce1e11ba24a8791c",
+      "actions_sha256": "7de6004dc5286f6f50688c685983668f1d889f09500f11d260af26624303b719"
+    },
+    {
+      "ticker": "MARUTI.NS",
+      "rows": 5771,
+      "start": "2003-07-09 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 23,
+      "prices_sha256": "36a89ca168701181fc119793c871f0a0d5c23645696dfd443597ebe731740887",
+      "actions_sha256": "9b46b21ac0d8d4ae1cfebf01b2908df658b94c7affd211aabacfb2c716dcb247"
+    },
+    {
+      "ticker": "SUNPHARMA.NS",
+      "rows": 6688,
+      "start": "2000-01-03 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 34,
+      "prices_sha256": "e9f34f04717d692e8a49b514900d7850e37db4c5e98146541a78b2863a470c73",
+      "actions_sha256": "ae6c32712b4a9958a83a1c53b553c3cbdd54f2174026967ba77532ba27bc9b12"
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "rows": 6688,
+      "start": "2000-01-03 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 27,
+      "prices_sha256": "956083ed02f6555068f88085583e2508754ad81e1eefdfdc6d386484375c1fa4",
+      "actions_sha256": "890caccce8c1d28c33c56c29714fca13a2f4cda6355b9564b85d66b6e72826f6"
+    },
+    {
+      "ticker": "BHARTIARTL.NS",
+      "rows": 6035,
+      "start": "2002-07-01 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 18,
+      "prices_sha256": "b9566a1430d8cd184c5f9120da8e7212d4174e515ed23223a010820e1fb2d3a4",
+      "actions_sha256": "38b43bf6b8f0ad22c4f1c562deb624838ce2144bc6deac8b6af8feb1f8d1a4a3"
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "rows": 6688,
+      "start": "2000-01-03 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 38,
+      "prices_sha256": "0a1c44adb6d3cc8e8b12b00a4da7038c79a11c1fdbd47eff79d0a8361aba57b0",
+      "actions_sha256": "c414f06a224a3b4afc5c4ed70775b2120db69223ef30dca905651940e5a4c24c"
+    },
+    {
+      "ticker": "AXISBANK.NS",
+      "rows": 6685,
+      "start": "2000-01-03 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 24,
+      "prices_sha256": "05f57efcc97daa87e69aaab4c81190a81ff22c8d154af53e9378f9fdf1efa817",
+      "actions_sha256": "2a7ff58c8e4a74add7ef070fe1081f24a81072752981f7d94a9bf6bcad5e9697"
+    },
+    {
+      "ticker": "ASIANPAINT.NS",
+      "rows": 6035,
+      "start": "2002-07-01 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 51,
+      "prices_sha256": "950586da6f15bd31162f57a46070ee95cd77d0b02c9f3f83f4479440f68a3726",
+      "actions_sha256": "19c2c3d7d67748ace3b58fcd0892a1ce5e6b4821832434476dd51adef2b3ebeb"
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "rows": 6035,
+      "start": "2002-07-01 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 26,
+      "prices_sha256": "a28057550ff80410f657ba29e1f0a00ee1b1875d0c0d96314926b1334cf2eb06",
+      "actions_sha256": "b8cad7c099f8b3f5fe685cf3dbebb8979ea7954d198f043a1fe66fe470e2378e"
+    },
+    {
+      "ticker": "NTPC.NS",
+      "rows": 5424,
+      "start": "2004-11-05 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 47,
+      "prices_sha256": "3565ea7980b4b97cbab7b4d94b4e85dbb699ccacf98ce2e8b39243ab7e0b5725",
+      "actions_sha256": "7fb4ba9b17c1e5bac87b056df7f9b73bbc689ec044d133eaf7d3f132d942fbd9"
+    },
+    {
+      "ticker": "TITAN.NS",
+      "rows": 6688,
+      "start": "2000-01-03 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 22,
+      "prices_sha256": "12155f0bd25e1d3733518cf03632b6a1ff8f11c4c0ac39a48248d4bf3d0d73f1",
+      "actions_sha256": "a5a1129bf77eece21ed22483735ced937f9e5f7ca666ee880143008a1fff08e9"
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "rows": 3938,
+      "start": "2010-11-04 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 34,
+      "prices_sha256": "8de23a3bf81769ef40d1afd07ae328b34118d96fdfbea9701a563a4e72b1c5d4",
+      "actions_sha256": "28a6233174153e3a1f45ef326d7f8882e2341e7f4c4265364fe10ad66484cefd"
+    },
+    {
+      "ticker": "BAJAJFINSV.NS",
+      "rows": 6004,
+      "start": "2002-08-12 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 19,
+      "prices_sha256": "066a8fa3caeb394e4c1989135e7d0ef8ede6ff8d59540f0ca0e1a4cf8d1eaee5",
+      "actions_sha256": "975f110e39639c67aabd42d19a32d9876cef9cc110b72d0d5a20cf034a161ca1"
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "rows": 4697,
+      "start": "2007-10-05 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 44,
+      "prices_sha256": "87f228ca1c64f7f6419f908843933453f56083021cd48209d4d9077642104014",
+      "actions_sha256": "a0efb94f95a6674e0bcba38927810892036479d330316edaa9c69b7f02b608a3"
+    },
+    {
+      "ticker": "ONGC.NS",
+      "rows": 6685,
+      "start": "2000-01-03 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 65,
+      "prices_sha256": "ac2d1e333168a1bd37d7ccb180a15f672d48efa49c9689fbe849d31320d2de7f",
+      "actions_sha256": "47d29de4534f1383dfea374993f2c386b930d634122f021388e580f3f555eeea"
+    },
+    {
+      "ticker": "JSWSTEEL.NS",
+      "rows": 5815,
+      "start": "2003-05-08 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 22,
+      "prices_sha256": "1dd1d559bef4e3b493e3788a0738f7a6f9e71a5b4a24104225b11474cda0bc71",
+      "actions_sha256": "b6ddcd3a080133331ccf55da5efde07ccb42a5a69c87cf6a4c2093a378ec3070"
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "rows": 6009,
+      "start": "2002-08-12 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 90,
+      "prices_sha256": "6b886329a6ebbaa830c99a59231eb0c3751f9cb3f77963c7d6244b072a1706d7",
+      "actions_sha256": "2796e1ec60ce3b9320aee2b7606539414440ffbc6a4ea2c4f64118a4a7ef4d11"
+    },
+    {
+      "ticker": "TECHM.NS",
+      "rows": 4972,
+      "start": "2006-08-28 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 28,
+      "prices_sha256": "1a15dfd9ac7c5f1fc5e5055ff408efefbe389a35b9d51aa014990c76f42ec25e",
+      "actions_sha256": "b70aacdfb4f6364e4e81e4225955f245513f693db0a7f34589c03472314dfaa1"
+    },
+    {
+      "ticker": "ULTRACEMCO.NS",
+      "rows": 6005,
+      "start": "2002-08-12 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 23,
+      "prices_sha256": "4e5bf8fc7faecee45b5c38c5d66b9b9a168c442bd9f5dea972065215eb9bb39e",
+      "actions_sha256": "b617c0d8d797ba9179e8a8a0760d280c0644a2e75e2d882a1edc9ded19d5181d"
+    },
+    {
+      "ticker": "GRASIM.NS",
+      "rows": 6035,
+      "start": "2002-07-01 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 25,
+      "prices_sha256": "648e9c39177dfb57d193f40bf4f6e783f7fdca9488978d75e91dd8d34e44b8ba",
+      "actions_sha256": "a6df102389ec46010f8f9cb02bb202508de51af7790e8710d172318135bc0982"
+    },
+    {
+      "ticker": "CIPLA.NS",
+      "rows": 6687,
+      "start": "2000-01-03 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 28,
+      "prices_sha256": "88a230ce7c121749c897d5062992d403eff2cea8861f1038b02872e2d1dbe369",
+      "actions_sha256": "1ccdf4dac31ae90b8679646132d0c3f7788a173fea8cbac5adf8f52297a2f57b"
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "rows": 6685,
+      "start": "2000-01-03 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 24,
+      "prices_sha256": "b9c2aca396c2e95ff857f65249a9dba3b24e4e5ceb39cefdab2f605801b6a0af",
+      "actions_sha256": "0a77cfffb3b2eef66a320b08595cd9c087c10becec124da5acb3bb53390f53f2"
+    },
+    {
+      "ticker": "EICHERMOT.NS",
+      "rows": 6685,
+      "start": "2000-01-03 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 27,
+      "prices_sha256": "e0f8176283c48e822c23c3b93c98b191a957f76531a81424d8a92b3975558d3b",
+      "actions_sha256": "2969f8dafb049feb118500bcfe89546893aca70615ec300375cbf228fcd7ecc2"
+    },
+    {
+      "ticker": "HEROMOTOCO.NS",
+      "rows": 6035,
+      "start": "2002-07-01 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 39,
+      "prices_sha256": "9b6dd97ccca1ab7e9db9f21768e0c1d1c7a393de4986865cadd65a8110ee7c53",
+      "actions_sha256": "c34aded12775e874f34d901e9627c9fd3cde531ea0490e8d37ca404d4e893bad"
+    },
+    {
+      "ticker": "BPCL.NS",
+      "rows": 6685,
+      "start": "2000-01-03 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 45,
+      "prices_sha256": "f2e5658aa291fc4c5e4475788f763a4ad676a28531b3dd831b7de0de11d0cb9d",
+      "actions_sha256": "54f9625132fd0931188214a64a150bdea4c607b39e677edb95ed07f7fcbc0d5b"
+    },
+    {
+      "ticker": "INDUSINDBK.NS",
+      "rows": 6036,
+      "start": "2002-07-01 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 23,
+      "prices_sha256": "9bdc4c971597f67c9bef8ef44b5565e90307bb149dcbb57fe1edfa22f5ec6fbd",
+      "actions_sha256": "220d3c8e8c8fa9e4263b2269ea8086c234f1858cdee28f70a67d0d9c6a202080"
+    },
+    {
+      "ticker": "HINDALCO.NS",
+      "rows": 6688,
+      "start": "2000-01-03 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 28,
+      "prices_sha256": "53e7c170f4b22b5efd0521d4024e101aa15d8dde085b3ca91c879863cd89adc7",
+      "actions_sha256": "9c8480ad83a7a95f14e5297a2abc0f70cf02796870e991f8323cc6ac9e3a681d"
+    },
+    {
+      "ticker": "BRITANNIA.NS",
+      "rows": 6688,
+      "start": "2000-01-03 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 29,
+      "prices_sha256": "e639f2ade60f83ab0b60452ddd159ab09d23692cf282fcd8564313bc72494af6",
+      "actions_sha256": "19fb4558327cc624c7ca7e481a17453f6eaa8264c1c32909c904306a2b28f5d2"
+    },
+    {
+      "ticker": "DABUR.NS",
+      "rows": 6035,
+      "start": "2002-07-01 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 48,
+      "prices_sha256": "b1e2ecc3eb61860498befe52c2715066366a279b7cbef9f094bb5c3f6f2b07c5",
+      "actions_sha256": "6f24f5cd5c17c3198e76d848f2f16eef66035780d85f874a7e21e0f4b9e8b808"
+    },
+    {
+      "ticker": "GAIL.NS",
+      "rows": 6685,
+      "start": "2000-01-03 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 49,
+      "prices_sha256": "e9e05227fec7f176d7f98ea2cc1b2d9b34e62189175b5dce907d7fa9bf3f0d26",
+      "actions_sha256": "620baa9b4a17d33a1d93e339c0365a2cdbf166b3a3e02547b5f261d190ddbc4c"
+    },
+    {
+      "ticker": "PIDILITIND.NS",
+      "rows": 6035,
+      "start": "2002-07-01 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 26,
+      "prices_sha256": "c82631f3b83b879f707d05dde3239d509ab076a7c11009e09d5bfbeea114d192",
+      "actions_sha256": "0ff48e233fb2977fd75335cb65b9ad8293bda469b537590859064aa0f1dc441b"
+    },
+    {
+      "ticker": "SHREECEM.NS",
+      "rows": 6295,
+      "start": "2001-07-02 00:00:00",
+      "end": "2026-10-23 00:00:00",
+      "incomplete_rows_removed": 1,
+      "dividend_events": 42,
+      "prices_sha256": "7e7a9359088513a1200cb973638175898159e8ba9e6e7bd52e32ccb3d55c7455",
+      "actions_sha256": "5910562706fc6ffcbda973d6449066a7e0509ac6454b43c4d9efe57dbfe30694"
+    }
+  ]
+}

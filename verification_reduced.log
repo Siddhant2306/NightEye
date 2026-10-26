@@ -1,0 +1,39 @@
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+core h=1: boundaries, reloaded predictions, inverse scaling, inference OK
+core h=21: boundaries, reloaded predictions, inverse scaling, inference OK
+core h=252: boundaries, reloaded predictions, inverse scaling, inference OK
+Features created: 18
+Usable rows after feature engineering: 6435
+Features created: 18
+Usable rows after feature engineering: 6436
+original h=1: boundaries, reloaded predictions, inverse scaling, inference OK
+Features created: 18
+Usable rows after feature engineering: 6415
+Features created: 18
+Usable rows after feature engineering: 6436
+original h=21: boundaries, reloaded predictions, inverse scaling, inference OK
+Features created: 18
+Usable rows after feature engineering: 6185
+Features created: 18
+Usable rows after feature engineering: 6436
+original h=252: boundaries, reloaded predictions, inverse scaling, inference OK
+statistics h=1: boundaries, reloaded predictions, inverse scaling, inference OK
+statistics h=21: boundaries, reloaded predictions, inverse scaling, inference OK
+statistics h=252: boundaries, reloaded predictions, inverse scaling, inference OK
+statistics_dividends h=1: boundaries, reloaded predictions, inverse scaling, inference OK
+statistics_dividends h=21: boundaries, reloaded predictions, inverse scaling, inference OK
+statistics_dividends h=252: boundaries, reloaded predictions, inverse scaling, inference OK
+statistics_mode h=1: boundaries, reloaded predictions, inverse scaling, inference OK
+statistics_mode h=21: boundaries, reloaded predictions, inverse scaling, inference OK
+statistics_mode h=252: boundaries, reloaded predictions, inverse scaling, inference OK
+{
+  "verified_models": 15,
+  "common_samples": true,
+  "holdout_exclusion": true,
+  "purged_boundaries": true,
+  "inverse_scaling": true,
+  "native_reload": true,
+  "latest_row_inference": true,
+  "validation_only_family_selection": true
+}
