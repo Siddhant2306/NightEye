@@ -1,0 +1,117 @@
+C:\Users\Siddhant\miniconda3\envs\NightEye\Lib\site-packages\yfinance\utils.py:568: Pandas4Warning: The inplace keyword in DataFrame.sort_index is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details.
+  quotes.sort_index(inplace=True)
+C:\Users\Siddhant\miniconda3\envs\NightEye\Lib\site-packages\yfinance\utils.py:585: Pandas4Warning: The inplace keyword in DataFrame.set_index is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details.
+  dividends.set_index("date", inplace=True)
+C:\Users\Siddhant\miniconda3\envs\NightEye\Lib\site-packages\yfinance\utils.py:587: Pandas4Warning: The inplace keyword in DataFrame.sort_index is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details.
+  dividends.sort_index(inplace=True)
+C:\Users\Siddhant\miniconda3\envs\NightEye\Lib\site-packages\yfinance\utils.py:604: Pandas4Warning: The inplace keyword in DataFrame.set_index is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details.
+  splits.set_index("date", inplace=True)
+C:\Users\Siddhant\miniconda3\envs\NightEye\Lib\site-packages\yfinance\utils.py:606: Pandas4Warning: The inplace keyword in DataFrame.sort_index is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details.
+  splits.sort_index(inplace=True)
+C:\Users\Siddhant\miniconda3\envs\NightEye\Lib\site-packages\yfinance\multi.py:220: Pandas4Warning: The inplace keyword in DataFrame.rename is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details.
+  data.rename(columns=ctx.isins, inplace=True)
+C:\Users\Siddhant\miniconda3\envs\NightEye\Lib\site-packages\yfinance\multi.py:224: Pandas4Warning: The inplace keyword in DataFrame.sort_index is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details.
+  data.sort_index(level=0, axis=1, inplace=True)
+{
+  "ticker": "RELIANCE.NS",
+  "retrieved_at": "2026-10-31T21:14:53.260239+00:00",
+  "provider": "Yahoo Finance via yfinance; official Nifty context refresh",
+  "status": "READY",
+  "fundamentals": "Copied frozen as-published filings, not automatically refreshed; age/missingness retained",
+  "limitations": [
+    "Public EOD feed, not an exchange tick feed or broker execution price",
+    "Provider-adjusted historical series may be revised",
+    "No orders or account access"
+  ],
+  "context_refresh": [
+    {
+      "series": "market_prices",
+      "latest": "2026-10-30",
+      "success": true
+    },
+    {
+      "series": "energy_prices",
+      "latest": "2026-10-30",
+      "success": true
+    },
+    {
+      "series": "market_valuation",
+      "latest": "2026-10-30",
+      "success": true
+    }
+  ],
+  "freshness": {
+    "ready": true,
+    "issues": [],
+    "latest_stock_bar": "2026-10-30",
+    "eligible_context_dates": {
+      "market_prices": "2026-10-29",
+      "energy_prices": "2026-10-29",
+      "market_valuation": "2026-10-29"
+    }
+  },
+  "files_sha256": {
+    "provider_raw.csv": "876dcd1e44da165ab2e0af4a9931d956d1365736b4b51594e843b402ceffe778",
+    "RELIANCE.NS.csv": "8beb3db02c9c1e9e6c1b65b2941917a5425856bc4534d84a93c8433b280701d0",
+    "context\\fundamentals\\ASIANPAINT.NS.csv": "8e1d0325b5be5e9cefa92e5b4006e9126115f06d928f2727fa1de85e31ca599c",
+    "context\\fundamentals\\AXISBANK.NS.csv": "17f5c14665b31526b52fc5db1a5e7251ce8f70404d1f9e2eed205ec977e1ca7d",
+    "context\\fundamentals\\BAJAJFINSV.NS.csv": "e31eca27e7d7c285fec9db5dca07ab603b22efd0697093bf52c79357e9dc4392",
+    "context\\fundamentals\\BAJFINANCE.NS.csv": "324111e2e9abf31c1e388cd2b39822462a737decbbad6ae47f1376c827647636",
+    "context\\fundamentals\\BHARTIARTL.NS.csv": "50e34b7eb069bf5fd1f5b0fd0074ec6d4c2b085bf388b823b60614490ff932cf",
+    "context\\fundamentals\\BPCL.NS.csv": "65880526886a1d9b9d27721d2d0e4d4d5ad640f568f8a7eb427c0b9b266fee88",
+    "context\\fundamentals\\BRITANNIA.NS.csv": "4d744b5d5563211004486bfa55c736f472045165553c3da0244dd2620f130481",
+    "context\\fundamentals\\CIPLA.NS.csv": "e05aa596452af579145ff206bdded8b6c1fbcd9c717b0620a98d05754d8cc18e",
+    "context\\fundamentals\\COALINDIA.NS.csv": "7259e5ebfecae60f182dc13f189e718cc65f5fb69bd15fee5f4339705dce60a3",
+    "context\\fundamentals\\DABUR.NS.csv": "4ff2c445028e294287ed10ee97b2187aa5e1c38748387827a22d4bef85c65fc2",
+    "context\\fundamentals\\DRREDDY.NS.csv": "a8e06ee1ac16e3c36afecdebef167416b2f84f6c055f1e40893b63be5aa9d932",
+    "context\\fundamentals\\EICHERMOT.NS.csv": "890f9913d8a359dff353d7e120000e400a4efca9b368ed268ff32acdf9c6e0ab",
+    "context\\fundamentals\\GAIL.NS.csv": "15d5a0da21f2a2a35b82493c2851d41521a7a3861d4b3d793c7afe5efc43e6ec",
+    "context\\fundamentals\\GRASIM.NS.csv": "bcaba6785fcc704d30075c3444008709bcd3239acf7628c7f7a6e648b77d4fad",
+    "context\\fundamentals\\HCLTECH.NS.csv": "624d260a96194edbabf8f75a18a472931a37de120c651763add57188a21ac8c1",
+    "context\\fundamentals\\HDFCBANK.NS.csv": "b80bbd476cd45215c5e3c41deca7d2f0a5403b9c99a0f389c5a8b4b63bbae5e8",
+    "context\\fundamentals\\HEROMOTOCO.NS.csv": "0c22d068bcb020d1f970c1581e63e73355eb5ce3ef89482475669cda7bc2ccbf",
+    "context\\fundamentals\\HINDALCO.NS.csv": "e35f3f5f2eceb0f8d08edec1bf8153568914bd88af97a05ac7e3e8010e84cc14",
+    "context\\fundamentals\\HINDUNILVR.NS.csv": "45ab8b4c1207f2317010a14d3a10703a9d40398df2a5c6730260afbd95c7ab39",
+    "context\\fundamentals\\ICICIBANK.NS.csv": "eacd40da3bc8d2f0d5de615c056bb67abd408b7f38a103f8ff521c3456eb41a5",
+    "context\\fundamentals\\INDUSINDBK.NS.csv": "deab844814bd14d7e8544cc05decd1e36f3d24d8ceea36fff9bacfe3c76f9319",
+    "context\\fundamentals\\INFY.NS.csv": "3ba6619d411fc3e8483941234cf1e46da4e881425f65792305c8eacb0a8723e0",
+    "context\\fundamentals\\ITC.NS.csv": "ec5568a61c3f7fcd6cff9f6527523f1c56692a1860eae8829bd9296d1b93fdef",
+    "context\\fundamentals\\JSWSTEEL.NS.csv": "7fd03e37e82e2c317af5c080ecd66ec77de2e75d779c1f9a6470f17acdc18532",
+    "context\\fundamentals\\LT.NS.csv": "077e6b79faeafc0eaa14627769bb2b1e37634daa06cf2e7a6bd9ae1b61f12923",
+    "context\\fundamentals\\MARUTI.NS.csv": "49b333eb33401c3d9c32f87bac2a14aadae125e0607f7162a1914a881dfd05d6",
+    "context\\fundamentals\\NTPC.NS.csv": "db2086dbfe3bb327968ae86bb7761c780bb1a0a6fdfaf56ec405930f0d526fa8",
+    "context\\fundamentals\\ONGC.NS.csv": "741b82d79bde0f196a6e956e6afb6b6e07028613aa8db8e913ef5242736dab8d",
+    "context\\fundamentals\\PIDILITIND.NS.csv": "9908ef871888a3b606e30b5a38ac1d85c6ed8a8840f36dae8f89e6c21c4c88d6",
+    "context\\fundamentals\\POWERGRID.NS.csv": "5d3fe02c9fae8c83c71f2eb7271026ccd2bd96086d9829cec509d33e5a18007f",
+    "context\\fundamentals\\RELIANCE.NS.csv": "b774acb296318c493464981484a6b292fe9f42a46b4527a3a5e5ec31e7065f36",
+    "context\\fundamentals\\SBIN.NS.csv": "301a86851909929489dd0022c08d76b11009bb81b46a6185f24de04ff96d07f6",
+    "context\\fundamentals\\SHREECEM.NS.csv": "689a4f4d1e936afa9d3bc9bfc67a6f7a286df60e35052438e5c9667ce2f3b95c",
+    "context\\fundamentals\\SUNPHARMA.NS.csv": "2ab30b31373d0f82d8e2b741749e75ccf50e5476b5364ec219dcff5c79695fb9",
+    "context\\fundamentals\\TATASTEEL.NS.csv": "699e3d863d9b217799c6a5f56b7148d234329df840ccd3f7a31eaacce61e3df4",
+    "context\\fundamentals\\TCS.NS.csv": "700dc12672e4e458019c94d86bbf6506db34027fefcfdc0954119de7af3299f9",
+    "context\\fundamentals\\TECHM.NS.csv": "2df3b7563051e2b09e3fd1fbf7fe8858796f6a6666f5cc0cac6b5e97311b41e0",
+    "context\\fundamentals\\TITAN.NS.csv": "197e58abafdaebbdd032452e9119291cf309c4f9affd0bd19a0b48b8b27b61b2",
+    "context\\fundamentals\\ULTRACEMCO.NS.csv": "0e9e3f204e2982c55a652119783b76884dd9b81b71a07bf49ac8323b56638c3a",
+    "context\\fundamentals\\WIPRO.NS.csv": "30764f683021de3936c2c75bc7d278cd1a6e347a6fcd6df6fd9c202844099101",
+    "context\\indices\\auto_prices.csv": "85ee31e38cd7b93ce7f2767511425d4722a5370528a5f986558cfe6a1323416f",
+    "context\\indices\\bank_prices.csv": "7822c4ad59f7670cb4bcdfbabf31940c8fbf3bf3ce1797bb5bfa1d4979e8800a",
+    "context\\indices\\consumer_prices.csv": "b3fe58e9d08b2454fd336d2c9e77f49ba22811b7fe613a9e2d19859a0ef7fe70",
+    "context\\indices\\energy_prices.csv": "cea1f4056b077e61c46861c9f88a840928e9273627aa2d480097952ba4b0043f",
+    "context\\indices\\financial_prices.csv": "67b97dd646fb0f057bae0bc5bd327c7dd30a7268ec7fee11e46b2f790e13408b",
+    "context\\indices\\fmcg_prices.csv": "d88d450d1183004ccc129076e6452caae67862501637d86d16474f4a074c0d37",
+    "context\\indices\\infra_prices.csv": "c6c0e450af4d7b0b31f54a4a55e3c8d182b10bae4f945a84bc9beb6ff3a2a545",
+    "context\\indices\\it_prices.csv": "2579ea17108fa21b9d986f728628e660e4b710b4bbcc6dcd61862ddf245df92a",
+    "context\\indices\\market_prices.csv": "c97965b9c35fa39d2a34d45133caf42ca46f362d83c9322b09e460903bafec96",
+    "context\\indices\\market_valuation.csv": "25a993a30ca4223dea8e7c61ac07dbd4fe2efdd14116223abecb0fea57c60780",
+    "context\\indices\\materials_prices.csv": "96e078d18d7e4afdb7a3e07a385b8da8202845808bd93543bb7024a3c8e06565",
+    "context\\indices\\metal_prices.csv": "828e9c7fbc23f66f149030dd65a4c34f5bd5b194102feb6f8e3bf8ac3714da73",
+    "context\\indices\\pharma_prices.csv": "49321e11911365af0630eea254aee9d38dca22d412daf5d1d3ec56c92ea62a89"
+  }
+}

@@ -1,0 +1,10 @@
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Saved 1 / lstm: 1190.52, NO_SIGNAL
+Features created: 18
+Usable rows after feature engineering: 6436
+Saved 21 / lstm: 1192.88, UP
+Features created: 18
+Usable rows after feature engineering: 6436
+Saved 252 / lstm: 1468.52, UP
+Overview: C:\Users\Siddhant\NightEye\artifacts\forecasting\reliance_lstm_v1\index.html

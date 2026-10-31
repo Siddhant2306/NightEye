@@ -1,0 +1,12 @@
+Data range: 2016-01-01 to 2026-10-30
+Valid rows: 2675
+{
+  "forecasts": 9,
+  "matured": 0,
+  "pending": 9,
+  "invalid": 0,
+  "by_algorithm_horizon": [],
+  "rmse": null,
+  "direction_accuracy": null,
+  "caveat": "Pooled summary is descriptive; compare horizons/algorithms separately, and do not treat overlapping outcomes as independent"
+}

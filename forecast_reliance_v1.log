@@ -1,0 +1,17 @@
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Saved 1 / xgboost: 1190.74, NO_SIGNAL
+Saved 1 / lightgbm: 1190.87, NO_SIGNAL
+Features created: 18
+Usable rows after feature engineering: 6436
+Saved 21 / xgboost: 1205.43, UP
+Features created: 18
+Usable rows after feature engineering: 6436
+Saved 21 / lightgbm: 1202.18, UP
+Features created: 18
+Usable rows after feature engineering: 6436
+Saved 252 / xgboost: 1649.06, UP
+Features created: 18
+Usable rows after feature engineering: 6436
+Saved 252 / lightgbm: 1650.83, UP
+Overview: C:\Users\Siddhant\NightEye\artifacts\forecasting\reliance_overview_v1\index.html

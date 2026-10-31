@@ -1,0 +1,75 @@
+Verified xgboost h1: 19360 test predictions
+Verified lightgbm h1: 19360 test predictions
+Verified xgboost h21: 18481 test predictions
+Verified lightgbm h21: 18481 test predictions
+Verified xgboost h252: 9281 test predictions
+Verified lightgbm h252: 9281 test predictions
+{
+  "protected_files": 94,
+  "protected_unchanged": true,
+  "source_prices_unchanged": true,
+  "context_unchanged": true,
+  "saved_bundles_reloaded": 6,
+  "checks": [
+    {
+      "horizon": 1,
+      "algorithm": "xgboost",
+      "full_test_rows": 19360,
+      "train_labels_before_calibration": true,
+      "calibration_labels_before_test": true,
+      "joblib_predictions_reproduced": true,
+      "residual_bank_reproduced": true,
+      "interval_predictions_reproduced": true
+    },
+    {
+      "horizon": 1,
+      "algorithm": "lightgbm",
+      "full_test_rows": 19360,
+      "train_labels_before_calibration": true,
+      "calibration_labels_before_test": true,
+      "joblib_predictions_reproduced": true,
+      "residual_bank_reproduced": true,
+      "interval_predictions_reproduced": true
+    },
+    {
+      "horizon": 21,
+      "algorithm": "xgboost",
+      "full_test_rows": 18481,
+      "train_labels_before_calibration": true,
+      "calibration_labels_before_test": true,
+      "joblib_predictions_reproduced": true,
+      "residual_bank_reproduced": true,
+      "interval_predictions_reproduced": true
+    },
+    {
+      "horizon": 21,
+      "algorithm": "lightgbm",
+      "full_test_rows": 18481,
+      "train_labels_before_calibration": true,
+      "calibration_labels_before_test": true,
+      "joblib_predictions_reproduced": true,
+      "residual_bank_reproduced": true,
+      "interval_predictions_reproduced": true
+    },
+    {
+      "horizon": 252,
+      "algorithm": "xgboost",
+      "full_test_rows": 9281,
+      "train_labels_before_calibration": true,
+      "calibration_labels_before_test": true,
+      "joblib_predictions_reproduced": true,
+      "residual_bank_reproduced": true,
+      "interval_predictions_reproduced": true
+    },
+    {
+      "horizon": 252,
+      "algorithm": "lightgbm",
+      "full_test_rows": 9281,
+      "train_labels_before_calibration": true,
+      "calibration_labels_before_test": true,
+      "joblib_predictions_reproduced": true,
+      "residual_bank_reproduced": true,
+      "interval_predictions_reproduced": true
+    }
+  ]
+}
