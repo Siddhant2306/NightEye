@@ -95,11 +95,11 @@ def metrics(frame):
     return report
 
 
-def evaluate_family(args, horizon, family):
+def evaluate_family(args, horizon, family, prepared=None, fold_edges=None):
     out = args.output/family/f'h{horizon}'
     if out.exists():
         raise ValueError(f'{out} exists; choose a new output directory')
-    data, columns, sources = panel(args.data_dir, horizon, family, args.fundamentals_dir)
+    data, columns, sources = prepared if prepared is not None else panel(args.data_dir, horizon, family, args.fundamentals_dir)
     missing_holdouts = set(args.holdout_tickers) - set(data.ticker.unique())
     if missing_holdouts:
         raise ValueError(f'Missing holdout histories: {sorted(missing_holdouts)}')
@@ -110,7 +110,7 @@ def evaluate_family(args, horizon, family):
     if development.empty or test.empty:
         raise ValueError('Empty training/test data')
     dates = development.index.unique().sort_values()
-    edges = [dates[int(len(dates)*p)] for p in [.55, .70, .85]] + [test_start]
+    edges = [pd.Timestamp(d) for d in fold_edges] if fold_edges else [dates[int(len(dates)*p)] for p in [.55, .70, .85]] + [test_start]
     trials = []
     for i, params in enumerate(candidates(args.trials)):
         folds, trees = [], []
@@ -172,6 +172,8 @@ def evaluate_family(args, horizon, family):
     model.save_model(out/'model.ubj')
     joblib.dump(dict(model=model, feature_cols=columns, horizon=horizon, feature_family=family,
                      target_center=center, target_scale=scale, train_end=str(fit.index.max()),
+                     feature_builder=getattr(args, 'feature_builder', 'reduced_v2'),
+                     context_dir=str(args.context_dir) if getattr(args, 'context_dir', None) else None,
                      requires_actions=family in ['statistics_dividends', 'statistics_fundamentals']), out/'model.joblib')
     pd.Series(model.feature_importances_, index=columns).sort_values(ascending=False).to_csv(out/'feature_importance.csv')
     return report

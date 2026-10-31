@@ -1,0 +1,864 @@
+$(document).ready(function () {
+    if ($("#selectedindexdetail").text = "Nifty 50") {
+        var name = $("#idreserchpaper").val();
+        if (name == "Series 3 Jan 2022") {
+            $("#idreserchpaper").val() = "abc"
+        }
+        else {
+        }
+    }
+    else {
+
+    }
+    // Indextype();
+    // DivIndextype();
+    // ReturnIndextype();
+    tpanetabSectionjs()
+    $('.sf_cols').removeClass('sf_cols');
+    $('.sf_colsOut').removeClass('sf_colsOut');
+    $('.sfContentBlock').removeClass('sfContentBlock');
+    $('.RadSiteMap_Default').removeClass('RadSiteMap RadSiteMap_Default');
+    $('.rsmFlow').removeClass('rsmFlow rsmLevel rsmOneLevel');
+    $('.sfBreadcrumbNavigation').addClass('disabledList hidden-xs');
+    $('.sfBreadcrumbNavigation').removeClass('rsmItem sfBreadcrumbNavigation');
+    $('.sfNoBreadcrumbNavigation').addClass('none');
+    $('.sfNoBreadcrumbNavigation').removeClass('rsmItem sfNoBreadcrumbNavigation');
+    $('.rsmLink').removeClass('rsmLink');
+    $('.searchWrap').addClass('cls1').parent().addClass('searchWrap');
+    $('.cls1').removeClass('searchWrap');
+    //Added for Target Maturity Index
+    $("#settings-11 .bharatWrapp").click(function () { $('.niftyBox').show(); });
+
+});
+
+///satya for Gsec tabs
+
+function tpanetabSectionjs() {
+    $('ul.tpanetabSection li').click(function (e) {
+        e.preventDefault();
+        var tab_index = $(this).index();
+        console.log(tab_index);
+
+        $(this).parent('ul.tpanetabSection').find(' li').removeClass('current');
+        $(this).closest('.tab-pane').find('.navtabContentMain .tbContent').removeClass('current');
+
+        $(this).addClass('current');
+        // $("#" + tab_id).addClass('current');
+        $(this).closest('.tab-pane').find('.navtabContentMain .tbContent').eq(tab_index).addClass('current');
+    })
+}
+
+$("#ddl").change(function () {
+    var selectedYear = $('#ddl option:selected').val();
+    $('#pdfLink1').hide();
+    if (selectedYear == "IOSCO Compliance 2026") {        
+        $(".disclaimerRHS.IOSCOCompliance2015").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2017").hide().addClass('hidden');
+		$(".disclaimerRHS.IOSCOCompliance2020").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2022").hide().addClass('hidden');
+		$(".disclaimerRHS.IOSCOCompliance2024").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2025").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2026").show().removeClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2026").css('display', '');
+    }
+
+	else if (selectedYear == "IOSCO Compliance 2025") {        
+        $(".disclaimerRHS.IOSCOCompliance2015").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2017").hide().addClass('hidden');
+		$(".disclaimerRHS.IOSCOCompliance2020").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2022").hide().addClass('hidden');
+		$(".disclaimerRHS.IOSCOCompliance2024").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2026").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2025").show().removeClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2025").css('display', '');
+    }
+	
+    else if (selectedYear == "IOSCO Compliance 2024") {        
+        $(".disclaimerRHS.IOSCOCompliance2015").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2017").hide().addClass('hidden');
+		$(".disclaimerRHS.IOSCOCompliance2020").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2022").hide().addClass('hidden');
+		$(".disclaimerRHS.IOSCOCompliance2025").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2026").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2024").show().removeClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2024").css('display', '');		
+    }
+
+    else if (selectedYear == "IOSCO Compliance 2022") {        
+        $(".disclaimerRHS.IOSCOCompliance2015").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2017").hide().addClass('hidden');
+		$(".disclaimerRHS.IOSCOCompliance2020").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2024").hide().addClass('hidden');
+		$(".disclaimerRHS.IOSCOCompliance2025").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2026").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2022").show().removeClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2022").css('display', '');
+    }
+	
+	else if (selectedYear == 'IOSCO Compliance 2020') {
+        $(".disclaimerRHS.IOSCOCompliance2015").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2017").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2022").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2024").hide().addClass('hidden');
+		$(".disclaimerRHS.IOSCOCompliance2025").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2026").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2020").show().removeClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2020").css('display', '');
+    }
+
+    else if (selectedYear == "IOSCO Compliance 2017") {        
+        $(".disclaimerRHS.IOSCOCompliance2015").hide().addClass('hidden');
+		$(".disclaimerRHS.IOSCOCompliance2020").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2022").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2024").hide().addClass('hidden');
+		$(".disclaimerRHS.IOSCOCompliance2025").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2026").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2017").show().removeClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2017").css('display', '');
+
+    }
+    else if (selectedYear == "IOSCO Compliance 2015") {
+        $(".disclaimerRHS.IOSCOCompliance2017").hide().addClass('hidden');
+		$(".disclaimerRHS.IOSCOCompliance2020").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2022").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2024").hide().addClass('hidden');
+		$(".disclaimerRHS.IOSCOCompliance2025").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2026").hide().addClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2015").show().removeClass('hidden');
+        $(".disclaimerRHS.IOSCOCompliance2015").css('display', '');
+    }
+    $('input[type="checkbox"]').prop('checked', false);
+});
+
+$(document).ready(function () {
+    $(".disclaimerRHS.IOSCOCompliance2015").hide().addClass('hidden');
+    $(".disclaimerRHS.IOSCOCompliance2017").hide().addClass('hidden');
+    $(".disclaimerRHS.IOSCOCompliance2020").hide().addClass('hidden');
+    $(".disclaimerRHS.IOSCOCompliance2022").hide().addClass('hidden');
+	$(".disclaimerRHS.IOSCOCompliance2024").hide().addClass('hidden');
+    $(".disclaimerRHS.IOSCOCompliance2025").hide().addClass('hidden');
+});
+
+
+
+function updateDateFromAPI() {
+    var e = $("#selectedindexdetail").text();
+    data = "";
+    $.ajax({
+        type: "GET",
+        url: "https://liveindexsa.niftyindices.com/jsonfiles/Sector/SectorialIndexData" + e.toUpperCase() + "_Sector.js",
+        data: "{}",
+        async: !0,
+        cache: !1,
+        dataType: "text",
+        success: function (data) {
+            if (data != null) {
+                const regex = /"date":"(\d{2}-\d{2}-\d{4})"/;
+                const match = data.match(regex);
+                if (match) {
+                    let [day, month, year] = match[1].split('-');
+                    let date = new Date(year, month - 1, day);
+                    let options = { year: 'numeric', month: 'long', day: 'numeric' };
+                    var datee = date.toLocaleDateString('en-US', options);
+                    document.getElementById('dateDisplay').innerHTML = "Data as on " + datee + ".";
+                }
+
+            }
+        },
+        error: function (a) {
+            var result = a.responseText;
+
+            console.log(a.error);
+        },
+    });
+}
+// To avoid css issues in mobile phone
+function isMobile() {
+    return /Android|iPhone|iPad|iPod|Opera Mini|IEMobile|WPDesktop/i.test(navigator.userAgent);
+}
+
+
+$(".search123").on("input", function () {
+    let inputValue = $(this).val().toUpperCase().trim();
+    const select = $(this).next();
+    select.val("");
+    const options = select.find("option");
+
+    let visibleCount = 0;
+
+    for (let i = 0; i < options.length; i++) {
+        const txtValue = options[i].textContent || options[i].innerText;
+        if (txtValue.toUpperCase().indexOf(inputValue) > -1) {
+            options[i].style.display = "";
+            visibleCount++;
+            indexname = txtValue.toUpperCase();
+        } else {
+            options[i].style.display = "none";
+        }
+    }
+    // **Collapse dropdown if search field is empty**
+    if (inputValue.trim() === "" || visibleCount === 0) {
+        select.prop("selectedIndex", 0);
+        select.attr("size", 1)
+            .css({
+                "height": "41px",
+                "width": "248px"
+            });
+    } else {
+        if (!isMobile()) {
+            select.attr("size", visibleCount + 2)
+                .css({
+                    "height": visibleCount > 10 ? "300px" : "50%",
+                    "min-width": "248px",
+                    "width": "auto",
+                    "background-color": "white",
+                    "position": "relative",
+                    "z-index": "1000",
+                    "overflow-y": visibleCount > 10 ? "auto" : "hidden"
+                });
+        } else {
+            select.attr("size", 1).css({
+                "height": "41px",
+                "width": "248px"
+            });
+        }
+    }
+    // Ensure dropdown stays focused while typing
+    setTimeout(() => {
+        select.focus();
+    }, 100000);
+})
+
+
+$("#ddlaif").change(function () {
+    var selectedCat = $('#ddlaif option:selected').val();
+
+    if (selectedCat == "aifcategory1") {
+        $(".aifcategory.aifcategory2").hide().addClass('hidden');
+        $(".aifcategory.aifcategory3").hide().addClass('hidden');
+        $(".aifcategory.aifcategory1").show().removeClass('hidden');
+    }
+    else if (selectedCat == "aifcategory2") {
+        $(".aifcategory.aifcategory1").hide().addClass('hidden');
+        $(".aifcategory.aifcategory3").hide().addClass('hidden');
+        $(".aifcategory.aifcategory2").show().removeClass('hidden');
+    }
+    else if (selectedCat == "aifcategory3") {
+        $(".aifcategory.aifcategory2").hide().addClass('hidden');
+        $(".aifcategory.aifcategory1").hide().addClass('hidden');
+        $(".aifcategory.aifcategory3").show().removeClass('hidden');
+    }
+});
+
+
+// function HistoricalData(indexname, Datestart, dateEnd) {
+//     debugger;
+//     loadershow();
+//     $("#nodatafound").hide(), $("#history").hide();
+//     $("#HistoryExport").hide();
+//     var current_page = 1,
+
+//         startDate = Datestart,
+//         endDate = dateEnd;
+//     //IndexMappingvishal(indexname),
+//     name = indexname,
+//         //name = selval,
+//         name = name.toUpperCase().trim();
+//     var jsonData = "{'name':'" + name + "','startDate':'" + startDate + "','endDate':'" + endDate + "'}";
+//     var sendjson = {};
+//     sendjson.cinfo = jsonData;
+//     //var jsonData = "{'name':'" + name + "','startDate':'" + startDate + "','endDate':'" + endDate + "'}";
+//     return $.ajax({
+//         type: "POST",
+//         data: JSON.stringify(sendjson),
+//         //data: "{'name':'" + name + "','startDate':'" + startDate + "','endDate':'" + endDate + "'}",
+//         url: "/BackPage/getHistoricaldatatabletoString",
+//         contentType: "application/json; charset=utf-8",
+//         dataType: "json",
+//         async: !0,
+//         success: function (result) {
+//             var htmldata = "string" == typeof result.d ? eval("(" + result.d + ")") : result.d;
+
+//             trHtml += '<table><thead><tr><th>DATE</th><th>OPEN</th><th>HIGH</th><th>LOW</th><th>CLOSE</th></tr></thead>';
+//             trHtml += '<tbody>';
+//             $("#HistoryExport tbody").html("");
+//             for (var b = 0; b < htmldata.length; b++) {
+
+//                 //trHtml += '<tr><td>' + htmldata[f].HistoricalDate + '</td><td>' + htmldata[f].OPEN + '</td><td>' + htmldata[f].HIGH + '</td><td>' + htmldata[f].LOW + '</td><td>' + htmldata[f].CLOSE + '</td></tr>';
+//                 $("#HistoryExport tbody").append("<tr><td>" + htmldata[b].HistoricalDate + "</td><td>" + htmldata[b].OPEN + "</td><td>" + htmldata[b].HIGH + "</td><td>" + htmldata[b].LOW + "</td><td>" + htmldata[b].CLOSE + "</td></tr>");
+
+//             }
+
+//             trHtml += '</tbody>';
+//             trHtml += '</table>';
+
+//             $("#history tbody tr").remove(), $("#mobiledata").html("");
+//             function changePage(a) {
+//                 a < 1 && (a = 1), a > numPages() && (a = numPages()), $("#history tbody tr").remove(),
+//                     $("#mobiledata").html("");
+
+//                 for (var b = (a - 1) * elements_per_page; b < a * elements_per_page && b < p.length; b++) {
+//                     if ($(window).width() > 991)
+//                         $("#Indexname").html(indexname),
+//                             $("#datenotehistorical").show(),
+//                             $("#history tbody").append("<tr><td>" + p[b].HistoricalDate + "</td><td>" + p[b].OPEN + "</td><td>" + p[b].HIGH + "</td><td>" + p[b].LOW + "</td><td>" + p[b].CLOSE + "</td></tr>");
+
+//                     else {
+//                         $("#Indexname").html(indexname);
+//                         $("#datenotehistorical").show();
+//                         var d = "";
+
+//                         d += '<div class="fundBlock">', d += '<ul class="fundBlockIn">', d += "<li>", d += "<span>" + p[b].HistoricalDate + "</span>", d += "<label>date</label></li>", d += "<li>", d += "<span>" + p[b].HIGH + "</span>", d += "<label>day high</label></li>", d += "</ul>", d += '<ul  class="fundBlockIn">', d += "<li><span>" + p[b].OPEN + "</span><label>open</label></li>", d += "<li><span>" + p[b].LOW + "</span>", d += "<label>Day low</label></li>", d += "<li><span>" + p[b].CLOSE + "</span>", d += "<label>Day close</label></li></ul>", d += "</div>", $("#mobiledata").append(d), $("#mobiledata").fadeIn()
+//                     }
+//                 }
+//                 btn_prev.style.visibility = 1 == a ? "hidden" : "visible", a == numPages() ? btn_next.style.visibility = "hidden" : btn_next.style.visibility = "visible"
+//             }
+
+//             function numPages() {
+//                 return Math.ceil(max_size / elements_per_page)
+//             }
+
+//             function prevPage() {
+//                 current_page > 1 && (current_page--, changePage(current_page))
+//             }
+
+//             function nextPage() {
+//                 current_page < numPages() && (current_page++, changePage(current_page))
+//             }
+//             if ($("#history tbody tr").remove(), $("#mobiledata").html(""), "[]" == result.d) $("#nodatafound").show(), $(".downloads").hide(), $(".historyData-show").hide(), $("#pagehistoricaldata").hide(), $("#Historicalnodata").hide(), $(".historyData-show").hide();
+//             else {
+//                 $("#nodatafound").hide(), $("#Historicalnodata").hide(), $(".historyData-show").show(), $(".downloads").show(), $("#pagehistoricaldata").show(), $("#Indexname").show(), $("#exporthistorical").show();
+//                 var p = "string" == typeof result.d ? eval("(" + result.d + ")") : result.d,
+//                     max_size = p.length,
+//                     sta = 0,
+//                     elements_per_page = 300,
+//                     limit = elements_per_page,
+//                     btn_next = document.getElementById("btn_next"),
+//                     btn_prev = document.getElementById("btn_prev");
+//                 changePage(current_page), $("#btn_next").click(function () {
+//                     nextPage()
+//                 }), $("#btn_prev").click(function () {
+//                     prevPage()
+//                 })
+//             }
+//         },
+//         complete: function (a) {
+//             loaderhide();
+//         },
+//         error: function (a, b, c) {
+//             JSON.parse(a.responseText)
+//         }
+//     }), !1
+// }
+
+
+// function IndexMappingvishal(sname) {
+//     selval = "";
+//     strloc_mapname = "";
+//     var Iname = sname;
+
+//     if (Iname.toUpperCase() == "Nifty India Corporate Group Index - Tata Group 25 Cap".toUpperCase()) {
+//         Iname = "NIFTY INDIA CORPORATE GROUP INDEX - TATA GROUP 25% CAP";
+//     }
+
+//     data = "";
+//     $.ajax({
+//         type: "GET",
+//         url: "https://liveindexsa.niftyindices.com/assets/json/IndexMapping.json",
+//         data: "{}",
+//         async: !1,
+//         cache: !1,
+//         dataType: "json",
+//         success: function (data) {
+//             if (data != null) {
+//                 Iname = Iname.toUpperCase().replace(/\s+/g, "");
+//                 for (i = 0; i < data.length; i++) {
+//                     var mapval = data[i].Index_long_name.toUpperCase().replace(/\s+/g, "");
+//                     var trdval = data[i].Trading_Index_Name.toUpperCase().replace(/\s+/g, "");
+//                     if (mapval == Iname || trdval == Iname) {
+//                         selval = data[i].Trading_Index_Name;
+//                         strloc_mapname = data[i].Index_long_name;
+//                         break;
+//                     }
+//                 }
+//             }
+//         },
+//     });
+// }
+
+
+
+function Indextype() {
+
+    $.ajax({
+        type: "POST",
+        url: "/BackPage/gethistoricaltypedata1",
+        success: function (response) {
+            response = JSON.parse(response);
+
+            $("#ddlHistoricaltypee option").remove();
+            $("#ddlHistoricaltypee").append($("<option value='0'>--Select--</option>"));
+
+            $(response).each(function (key, value) {
+                if (!value.indextype == "") {
+                    $("#ddlHistoricaltypee").append($("<option></option>").val(value.indextype).html(value.indextype));
+                }
+            })
+
+        },
+        error: function (xhr, error) {
+            /*alert("Error Occurred");*/
+        }
+
+    })
+
+
+}
+
+$("#ddlHistoricaltypee").change(function () {
+    $("#searchInput").hide();
+    $("#history").hide();
+    $("#Indexname").hide();
+    $("#exporthistorical").hide();
+    $(".downloads").hide();
+
+    //gethistoricalIndex();                             /*commented for subindextype on 28-08-2025 */
+    gethistoricalSubIndex();                            /*added for subindextype on 28-08-2025 */
+    $("#ddlHistoricaltypeeindex option").remove();      /*added for subindextype on 28-08-2025 */
+
+    return false;
+})
+
+
+/*Start 28-08-2025: added code for Subindextyep*/
+
+function gethistoricalSubIndex() {
+    $("#ddlHistoricaltypeeSubindex option").remove();
+    var getjson = {};
+    getjson.indextype = $('#ddlHistoricaltypee').val();
+
+    if (getjson.indextype == "Fixed Income") {
+        $("#HistFI_Note").show();
+    }
+    else {
+        $("#HistFI_Note").hide();
+    }
+
+    getjson.indexgroup = document.getElementById('HistoricalMenu').innerHTML;
+    var sendjson = {};
+    sendjson.cinfo = getjson;
+    $.ajax({
+        type: "POST",
+        url: "/BackPage/gethistoricaltypeSubindexdata",
+        contentType: "application/json;charset=UTF-8",
+        data: JSON.stringify(sendjson),
+
+        // data: JSON.stringify(sendjson),
+        success: function (response) {
+
+            response = JSON.parse(response);
+            $("#ddlHistoricaltypeeSubindex option").remove();
+            $("#ddlHistoricaltypeeSubindex").append($("<option value='0'>--Select--</option>"));
+
+            $(response).each(function (key, value) {
+                if (value.indextype != "Corporate Bond") {
+                    $("#ddlHistoricaltypeeSubindex").append($("<option></option>").val(value.indextype).html(value.indextype));
+                }
+            })
+            //    loaderhide();
+        },
+        error: function (xhr, error) {
+            alert("Error Occurred");
+        }
+
+    })
+}
+
+$("#ddlHistoricaltypeeSubindex").change(function () {
+    $("#history").hide();
+    $("#Indexname").hide();
+    $("#exporthistorical").hide();
+    $(".downloads").hide();
+    $("#searchInput").val("");
+    gethistoricalIndex();
+    return false;
+})
+/*  End 28-08-2025: added code for Subindextyep*/
+
+function gethistoricalIndex() {
+    //console.log('Inside get getHistoricalIndex')
+
+       loadershow();
+    $("#ddlHistoricaltypeeindex option").remove();
+    var getjson = {};
+    /*getjson.indextype = $('#ddlHistoricaltypee').val();*/                 /*commented for subindextype on 28-08-2025 */
+    getjson.indextype = $('#ddlHistoricaltypeeSubindex').val();             /*added for subindextype on 28-08-2025 */
+    getjson.indexgroup = document.getElementById('HistoricalMenu').innerHTML;
+    var sendjson = {};
+    sendjson.cinfo = getjson;
+    $.ajax({
+        type: "POST",
+        url: "/BackPage/gethistoricaltypeindexdata",
+        data: sendjson,
+
+        // data: JSON.stringify(sendjson),
+        success: function (response) {
+
+            response = JSON.parse(response);
+            $("#ddlHistoricaltypeeindex option").remove();
+            $("#ddlHistoricaltypeeindex").append($("<option value='0'>--Select--</option>"));
+
+            $(response).each(function (key, value) {
+                $("#ddlHistoricaltypeeindex").append($("<option></option>").val(value.indextype).html(value.indextype));
+            })
+            //    loaderhide();
+            $("#searchInput").show();
+        },
+		complete: function (a) {
+            loaderhide();
+        },
+        error: function (xhr, error) {
+            alert("Error Occurred");
+        }
+
+    })
+
+
+}
+
+$("#ddlHistoricaltypeeindex").change(function () {
+    $("#history").hide();
+    $("#Indexname").hide();
+    $("#exporthistorical").hide();
+    $(".downloads").hide();
+    $("#searchInput").val($(this).val());
+    $(this).attr("size", 1)
+        .css({
+            "height": "41px",
+            "width": "248px" // Adjust width default
+        });
+    return false;
+})
+
+function DivIndextype() {
+
+    $.ajax({
+        type: "POST",
+        url: "/BackPage/gethistoricaltypedata1",
+        success: function (response) {
+
+            response = JSON.parse(response);
+
+            $("#ddlHistoricaldivtypee option").remove();
+            $("#ddlHistoricaldivtypee").append($("<option value='0'>--Select--</option>"));
+
+            $(response).each(function (key, value) {
+                if (!value.indextype == "") {
+                    $("#ddlHistoricaldivtypee").append($("<option></option>").val(value.indextype).html(value.indextype));
+                }
+            })
+
+        },
+        error: function (xhr, error) {
+            /*alert("Error Occurred");*/
+        }
+
+    })
+
+
+}
+
+$("#ddlHistoricaldivtypee").change(function () {
+
+    /*Subindex changes on Aug2025 Added and commented below code*/
+    $("#searchInput2").hide();
+    $("#historydivyield").hide();
+    $("#Indexdivname").hide();
+    $("#exporthistoricaldiv").hide();
+    $(".downloads").hide();
+    getDivSubIndex();
+    $("#ddlHistoricaldivtypeeindex option").remove();
+
+    /*getDivIndex();*/
+    return false;
+
+})
+
+/*Start : Subindex changes on Aug2025 Added below code*/
+function getDivSubIndex() {
+    //loadershow();
+    $("#ddlHistoricaldivtypeeSubindex option").remove();
+    var getjson = {};
+    getjson.indextype = $('#ddlHistoricaldivtypee').val();
+    getjson.indexgroup = document.getElementById('HistoricalMenu').innerHTML;
+    var sendjson = {};
+    sendjson.cinfo = getjson;
+    $.ajax({
+        type: "POST",
+        url: "/BackPage/gethistoricaltypeSubindexdata",
+        contentType: "application/json;charset=UTF-8",
+        data: JSON.stringify(sendjson),
+
+        // data: JSON.stringify(sendjson),
+        success: function (response) {
+
+            response = JSON.parse(response);
+
+            $("#ddlHistoricaldivtypeeSubindex option").remove();
+            $("#ddlHistoricaldivtypeeSubindex").append($("<option value='0'>--Select--</option>"));
+
+            $(response).each(function (key, value) {
+                $("#ddlHistoricaldivtypeeSubindex").append($("<option></option>").val(value.indextype).html(value.indextype));
+            })
+
+        },
+        error: function (xhr, error) {
+            alert("Error Occurred");
+        }
+
+    })
+}
+
+$("#ddlHistoricaldivtypeeSubindex").change(function () {
+    $("#historydivyield").hide();
+    $("#Indexdivname").hide();
+    $("#exporthistoricaldiv").hide();
+    $(".downloads").hide();
+    $("#searchInput2").val("");
+    getDivIndex();
+    return false;
+})
+/*End : Subindex changes on Aug2025 Added below code*/
+
+function getDivIndex() {
+
+    loadershow();
+
+    $("#ddlHistoricaldivtypeeindex option").remove();
+    var getjson = {};
+
+    /*Subindex changes on Aug2025 Added and commented below code*/
+    /*getjson.indextype = $('#ddlHistoricaldivtypee').val();*/
+    getjson.indextype = $('#ddlHistoricaldivtypeeSubindex').val();
+
+    getjson.indexgroup = document.getElementById('HistoricalMenu').innerHTML;
+    var sendjson = {};
+    sendjson.cinfo = getjson;
+    $.ajax({
+        type: "POST",
+        url: "/BackPage/gethistoricaltypeindexdata",
+        data: sendjson,
+
+        // data: JSON.stringify(sendjson),
+        success: function (response) {
+
+            response = JSON.parse(response);
+            $("#ddlHistoricaldivtypeeindex option").remove();
+            $("#ddlHistoricaldivtypeeindex").append($("<option value='0'>--Select--</option>"));
+
+            $(response).each(function (key, value) {
+                $("#ddlHistoricaldivtypeeindex").append($("<option></option>").val(value.indextype).html(value.indextype));
+            })
+            // loaderhide();
+            $("#searchInput2").show();
+        },
+		complete: function (a) {
+            loaderhide();
+        },
+        error: function (xhr, error) {
+            alert("Error Occurred");
+        }
+
+    })
+
+
+}
+
+/*Start : Subindex changes on Aug2025 Added code*/
+$("#ddlHistoricaldivtypeeindex").change(function () {
+    $("#historydivyield").hide();
+    $("#Indexdivname").hide();
+    $("#exporthistoricaldiv").hide();
+    $(".downloads").hide();
+    $("#searchInput2").val($(this).val());
+    $(this).attr("size", 1)
+        .css({
+            "height": "41px",
+            "width": "248px" // Adjust width default
+        });
+    return false;
+})
+/*End : Subindex changes on Aug2025 Added code*/
+
+
+function ReturnIndextype() {
+
+    $.ajax({
+        type: "POST",
+        url: "/BackPage/gethistoricaltypedata1",
+        success: function (response) {
+            response = JSON.parse(response);
+
+            $("#ddlHistoricalreturntypee option").remove();
+            $("#ddlHistoricalreturntypee").append($("<option value='0'>--Select--</option>"));
+
+            $(response).each(function (key, value) {
+                if (value.indextype == "Equity") {
+                    $("#ddlHistoricalreturntypee").append($("<option></option>").val(value.indextype).html(value.indextype));
+                }
+            })
+
+        },
+        error: function (xhr, error) {
+            /*alert("Error Occurred");*/
+        }
+
+    })
+
+
+}
+
+$("#ddlHistoricalreturntypee").change(function () {
+
+    //Aug2025 commented and added below code for sub-indextype 
+   // getReturnIndex();
+    $("#searchInput3").hide();
+    $("#historytotalindex").hide();
+    $("#IndexTotalname").hide();
+    $("#exportTotalindex").hide();
+    $(".downloads").hide();
+    getReturnSubIndex();
+    $("#ddlHistoricalreturntypeeindex option").remove();
+    return false;
+
+})
+
+//Start : Aug2025 added below code for sub-indextype
+function getReturnSubIndex() {
+
+    //  loadershow();
+    $("#ddlHistoricalreturntypeeSubindex option").remove();
+    var getjson = {};
+    getjson.indextype = $('#ddlHistoricalreturntypee').val();
+    getjson.indexgroup = document.getElementById('HistoricalMenu').innerHTML;
+    var sendjson = {};
+    sendjson.cinfo = getjson;
+    $.ajax({
+        type: "POST",
+        url: "/BackPage/gethistoricaltypeSubindexdata",
+        contentType: "application/json;charset=UTF-8",
+        data: JSON.stringify(sendjson),
+
+        // data: JSON.stringify(sendjson),
+        success: function (response) {
+
+            response = JSON.parse(response);
+
+            $("#ddlHistoricalreturntypeeSubindex option").remove();
+            $("#ddlHistoricalreturntypeeSubindex").append($("<option value='0'>--Select--</option>"));
+
+            $(response).each(function (key, value) {
+                $("#ddlHistoricalreturntypeeSubindex").append($("<option></option>").val(value.indextype).html(value.indextype));
+            })
+            //  loaderhide();
+
+        },
+        error: function (xhr, error) {
+            alert("Error Occurred");
+        }
+
+    })
+
+
+}
+
+$("#ddlHistoricalreturntypeeSubindex").change(function () {
+    $("#historytotalindex").hide();
+    $("#IndexTotalname").hide();
+    $("#exportTotalindex").hide();
+    $(".downloads").hide();
+    $("#searchInput3").val("");
+    getReturnIndex();
+    return false;
+})
+//End : Aug2025 added below code for sub-indextype
+
+function getReturnIndex() {
+
+      loadershow();
+    $("#ddlHistoricalreturntypeeindex option").remove();
+    var getjson = {};
+    getjson.indextype = $('#ddlHistoricalreturntypeeSubindex').val();
+    getjson.indexgroup = document.getElementById('HistoricalMenu').innerHTML;
+    var sendjson = {};
+    sendjson.cinfo = getjson;
+    $.ajax({
+        type: "POST",
+        url: "/BackPage/gethistoricaltypeindexdata",
+        data: sendjson,
+
+        // data: JSON.stringify(sendjson),
+        success: function (response) {
+
+            response = JSON.parse(response);
+            $("#ddlHistoricalreturntypeeindex option").remove();
+            $("#ddlHistoricalreturntypeeindex").append($("<option value='0'>--Select--</option>"));
+
+            $(response).each(function (key, value) {
+                $("#ddlHistoricalreturntypeeindex").append($("<option></option>").val(value.indextype).html(value.indextype));
+            })
+            //  loaderhide();
+            $("#searchInput3").show();
+        },
+		complete: function (a) {
+            loaderhide();
+        },
+        error: function (xhr, error) {
+            alert("Error Occurred");
+        }
+
+    })
+
+
+}
+
+$("#ddlHistoricalreturntypeeindex").change(function () {
+    $("#historytotalindex").hide();
+    $("#IndexTotalname").hide();
+    $("#exportTotalindex").hide();
+    $(".downloads").hide();
+    $("#searchInput3").val($(this).val());
+    $(this).attr("size", 1)
+        .css({
+            "height": "41px",
+            "width": "248px" // Adjust width default
+        });
+    return false;
+
+})
+
+$(window).scroll(function () {
+
+
+    $('.dateHolder input').blur();
+    console.log("scroll");
+    //alert("hii");
+});
+
+function loadershow() {
+    $(".overlay1").show()
+    $("body").css({
+        overflow: "hidden"
+    });
+}
+
+function loaderhide() {
+    $("body").css({ overflowX: "hidden", overflowY: "scroll" });
+    //$("body").css({
+    //  overflow: "inherit"
+    // });
+    setTimeout(function () {
+        $(".overlay1").fadeOut()
+    }, 10)
+
+}

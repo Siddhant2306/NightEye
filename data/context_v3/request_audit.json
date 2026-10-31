@@ -1,0 +1,3353 @@
+[
+  {
+    "file": "market_prices_2016.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "533c2e144895732c5a8e9da50ca6e7a52ee3be06a51db8264d71f3232bdcf4ba"
+  },
+  {
+    "file": "market_prices_2017.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "4c72573dcaa28bb699cea43771bce914665ce417c830988d9b3f05b62977d70c"
+  },
+  {
+    "file": "market_prices_2018.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "87e8a3f0cfe16a3b5b8e871eb882e1a1bea4d3742978f055619c0d22eb638f56"
+  },
+  {
+    "file": "market_prices_2019.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "bf977450a2cac1752c9938257329b1c67b1a6e111fb6cf6912cbea1271671c0d"
+  },
+  {
+    "file": "market_prices_2020.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "e9ab8a5e6ea11411ca4af171ddffc5924b8f9e21c9acd10d946711ad84388615"
+  },
+  {
+    "file": "market_prices_2021.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "9d3288ab224e1226988e2b5afb5c53bad2b9a1a5846c425ce53d5f0ea729e9a4"
+  },
+  {
+    "file": "market_prices_2022.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "33249df2e405e20d553a97e2f32e7ae94cf2d3a1a1f2b08072d51803baa5e5ed"
+  },
+  {
+    "file": "market_prices_2023.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "f5ce86004f8961934fbd751f4b13be3ef364d8e31287d83f192bc7fb5ee2a52c"
+  },
+  {
+    "file": "market_prices_2024.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "ef99bd9f625f540a662dad30bedde2ff17889048d0cfc3a09f7194a33212a545"
+  },
+  {
+    "file": "market_prices_2025.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "582ca3ed33b460918c9ca7c8b7be385fe61cda7a248760ec611ef1ce49a5c1c9"
+  },
+  {
+    "file": "market_prices_2026.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "0a6e30d2daf50f90acad8800c15547fdb5afc910d4324f8d590451859f8bb024"
+  },
+  {
+    "file": "market_valuation_2016.json",
+    "url": "https://www.niftyindices.com/BackPage/getpepbHistoricaldataDBtoString",
+    "cached": true,
+    "sha256": "3bdf649505ab15c7f0f817a11cdd17f98a031cfe0dc60d389287ea1f32df1ac6"
+  },
+  {
+    "file": "market_valuation_2017.json",
+    "url": "https://www.niftyindices.com/BackPage/getpepbHistoricaldataDBtoString",
+    "cached": true,
+    "sha256": "3546969aa67b41a391481279f0e307efdfeeae187b56302fc2cd645dfb984f3f"
+  },
+  {
+    "file": "market_valuation_2018.json",
+    "url": "https://www.niftyindices.com/BackPage/getpepbHistoricaldataDBtoString",
+    "cached": true,
+    "sha256": "3d5ee04d944ca73c9267a21b502766b81544eee287bd5c6e884eef851ae9621b"
+  },
+  {
+    "file": "market_valuation_2019.json",
+    "url": "https://www.niftyindices.com/BackPage/getpepbHistoricaldataDBtoString",
+    "cached": true,
+    "sha256": "3a05efdb26ca543f049b87a0b57d4725fb4d27af4e50939bc7c025913c83c343"
+  },
+  {
+    "file": "market_valuation_2020.json",
+    "url": "https://www.niftyindices.com/BackPage/getpepbHistoricaldataDBtoString",
+    "cached": true,
+    "sha256": "103b373bf6d43c07aca61349fe1318a5374af253038365438b822e7ae5d08673"
+  },
+  {
+    "file": "market_valuation_2021.json",
+    "url": "https://www.niftyindices.com/BackPage/getpepbHistoricaldataDBtoString",
+    "cached": true,
+    "sha256": "332169986e67bc029d5f28185abf39326d237d642bd30e6028275500a1180476"
+  },
+  {
+    "file": "market_valuation_2022.json",
+    "url": "https://www.niftyindices.com/BackPage/getpepbHistoricaldataDBtoString",
+    "cached": true,
+    "sha256": "7b2e156f36c919262e56f11764b8bed79e782c5ccc5686570df9f838869bcfe6"
+  },
+  {
+    "file": "market_valuation_2023.json",
+    "url": "https://www.niftyindices.com/BackPage/getpepbHistoricaldataDBtoString",
+    "cached": true,
+    "sha256": "be5be152873271d4487d9039a3ee9d1913c0829b7c651217b2fd8e974cf35f9c"
+  },
+  {
+    "file": "market_valuation_2024.json",
+    "url": "https://www.niftyindices.com/BackPage/getpepbHistoricaldataDBtoString",
+    "cached": true,
+    "sha256": "91fd291065753b77c9a18174d7575bf1562a55d158d8bbec32d8ce78034165d0"
+  },
+  {
+    "file": "market_valuation_2025.json",
+    "url": "https://www.niftyindices.com/BackPage/getpepbHistoricaldataDBtoString",
+    "cached": true,
+    "sha256": "169461aefb2d1d50494d1ce3a4741c1227df3ca6f2a4522714ae20cd5b0205e6"
+  },
+  {
+    "file": "market_valuation_2026.json",
+    "url": "https://www.niftyindices.com/BackPage/getpepbHistoricaldataDBtoString",
+    "cached": true,
+    "sha256": "842f44a8653c7727c08a9bbf74194f795c0b7a6c0fdf26f3c811ee0878489b24"
+  },
+  {
+    "file": "bank_prices_2016.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "4990de2a4bc79a926a444688bcc3a7a57eb5be76553f6228fd900fce633ccd41"
+  },
+  {
+    "file": "bank_prices_2017.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "6065edc4817015f8bd8284fe4f2a38f35020dde3efce1fa5ccf2ab0106ed1431"
+  },
+  {
+    "file": "bank_prices_2018.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "46f183f94892a6c432926f3836e4cca3caf49c68f43e4a45b23554f0e31d73fe"
+  },
+  {
+    "file": "bank_prices_2019.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "734e6961da735b5ccc75804dd520d3bee7ad0b17c3661adae259cbd3a24b0478"
+  },
+  {
+    "file": "bank_prices_2020.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "6a47f3c71f702d828505185ed6010584a938a2c5123bd6561909c8d805ee1522"
+  },
+  {
+    "file": "bank_prices_2021.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "0c0aad7b717d8a5deff95097cbe3bd7774d1b4c1b8422234847d080f8e0f2b14"
+  },
+  {
+    "file": "bank_prices_2022.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "dc775b60e4febf8d304ffbbad7970de6611cba817ed7272f905ccb0f1173c899"
+  },
+  {
+    "file": "bank_prices_2023.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "4059dc49126aeabbfc905cd10673c1c4e7d55c5767aed3c1844bb93849ea42f8"
+  },
+  {
+    "file": "bank_prices_2024.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "c6c18ff4444e1aee58c5fdab7b6fa506c793d764ceea9a062073bdd94b93b9b2"
+  },
+  {
+    "file": "bank_prices_2025.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "0a2b1460974bad2a48833218cea4cc20431b2c7079eb943d298f72efb25c1f77"
+  },
+  {
+    "file": "bank_prices_2026.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "c5d21ea314135cd5f1f8a4a60d317a850e06d438d586f9ace29409089ed1384e"
+  },
+  {
+    "file": "financial_prices_2016.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "0e71fb06be52d03cca6965ae7afe92cfaa5840cf6c35381e2ae1b7d9c83ad1ac"
+  },
+  {
+    "file": "financial_prices_2017.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "d3cb985603583d794f904be9332333f9ef5d5569e882f6df3a1b82a3cb23c05b"
+  },
+  {
+    "file": "financial_prices_2018.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "7b3061e26a4138c57ff3d97191e1b0efe41e764768b66812f08be07ff9cad647"
+  },
+  {
+    "file": "financial_prices_2019.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "5a47a7bc9307b6284364051c510c024730cac5fc8388b7948cc84246239b6bb7"
+  },
+  {
+    "file": "financial_prices_2020.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "e4a594e2e5356a6b647a215115c1efce0df3fca2467b7ea5dfd215628ec409a3"
+  },
+  {
+    "file": "financial_prices_2021.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "48a8598f5c3898d5845e2b13a94ebbfda168ba224859fff405684f354dfea8ed"
+  },
+  {
+    "file": "financial_prices_2022.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "13c7414d589c9c28a986ee053020e877bbe14895a90872ca9a001f543f095704"
+  },
+  {
+    "file": "financial_prices_2023.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "4c97f96eb82511ce81353eca0230e18f2af1a2d2efbdcbfa6776295e540ee74c"
+  },
+  {
+    "file": "financial_prices_2024.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "d5e64f09d5f29caebc332816ddd42b79f806aa3dacf7b903e9832aecc90c003b"
+  },
+  {
+    "file": "financial_prices_2025.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "11b8741c1566a11f057ee33b288a5b9700f1d87065ef4dd2735fca117795de98"
+  },
+  {
+    "file": "financial_prices_2026.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "ff7afe638f89d88d5667f657e143292377a83023b62546bc6ed3de8753bca223"
+  },
+  {
+    "file": "it_prices_2016.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "aa9b0d07216c5548d52d88d45f4d9bbbe58ca03d52e127420e59657d6a351f80"
+  },
+  {
+    "file": "it_prices_2017.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "d2d0aa5e77a65e6fa696e3d0ef34db2934d3eff4bc08cb00e7e51adca0b9dbd8"
+  },
+  {
+    "file": "it_prices_2018.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "40db9287766d37e36fa8edd73ba1aa251c67c5a788ef303f9e306ff063899f51"
+  },
+  {
+    "file": "it_prices_2019.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "4294c5f8263cd485fdd1fb8cebfe602b19910b76195671705a69312589e8db06"
+  },
+  {
+    "file": "it_prices_2020.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "074f0befa0047bb67d31b0a70543e9d3a1fac53aeeeaeca83337b9d2e18e3e0a"
+  },
+  {
+    "file": "it_prices_2021.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "f231073e2ab053de9c16b18dc9e605949aa9921a726211b617b9949199d49814"
+  },
+  {
+    "file": "it_prices_2022.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "862fb981ce482e1b62078a9e763ef300061070d9f7f2a30adde1ae29497001fa"
+  },
+  {
+    "file": "it_prices_2023.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "29d7a11055bd70eb2795e0ede8b311cf4754f5f6a6a43b6eb7dc6ce18d4f3501"
+  },
+  {
+    "file": "it_prices_2024.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "4ef7c45252adc699aa1e4cbc3724d7187abb1e6564b9da261531feafb55bc651"
+  },
+  {
+    "file": "it_prices_2025.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "2049d24fff36f7be4d64d4db6116a05c9a34d1c2883d23fa4e3546077e872089"
+  },
+  {
+    "file": "it_prices_2026.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "da9cf42a6368b917bc619b91b656c2db5fcadbc3bb633f222b77aabba3133fc3"
+  },
+  {
+    "file": "fmcg_prices_2016.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "b251a08c488fdf942f80d89ece6d6deb2915e5494043a8854f9f1d5e26ca8233"
+  },
+  {
+    "file": "fmcg_prices_2017.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "6f2b6befab7c3963e0cf07ec939f23d48b57e8c101436a4833c25bf364e4b447"
+  },
+  {
+    "file": "fmcg_prices_2018.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "d09fab33a47b3061ab9948726d54a68c9163fc6a7e4657cd0373877a1e27aa6d"
+  },
+  {
+    "file": "fmcg_prices_2019.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "a00c26bc676aaa014129ebc65c9c5f888dab937ff1f4d50ea54e5e0afd29b460"
+  },
+  {
+    "file": "fmcg_prices_2020.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "25b77936b6c4e831fd7bfd85bcdd2bbfbe3a74c0e9e7081d4af66a95a9388ac0"
+  },
+  {
+    "file": "fmcg_prices_2021.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "fe1979ff80f77e9083d47c9a3b2ea885fb4d19d95a0c1375c5b804ea29741a31"
+  },
+  {
+    "file": "fmcg_prices_2022.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "ff4dc1f8125cb626515bb299cac91b1828a34369769f84bee299add9bf04e692"
+  },
+  {
+    "file": "fmcg_prices_2023.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "1bd9d442e2edde372e346a24ea355a6096be080deeb4ab8b3de5e6e6c0b2cb18"
+  },
+  {
+    "file": "fmcg_prices_2024.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "fdfa73a4d6946d49505c1e4e72cb87e688c140f35aed8859987d17b2bec360fa"
+  },
+  {
+    "file": "fmcg_prices_2025.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "3747e554a2e3caf17d055912da3bda67ddb61cfd36416038633519ea481bfad6"
+  },
+  {
+    "file": "fmcg_prices_2026.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "77633ec0b5eb220d8a9a5e60a8702f993793ebe1b9a835aee8aed82d3e472790"
+  },
+  {
+    "file": "auto_prices_2016.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "4f7b59bc698e694de5c5c03800a213d6c03fb088cc461250cfb297e8a8fb5e03"
+  },
+  {
+    "file": "auto_prices_2017.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "266ef179543b7f0d86cb39ce6fbf56c080217904458fb62429f00edbc7aefff5"
+  },
+  {
+    "file": "auto_prices_2018.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "13dd628f894d02606d9f2d0e16b15b89b5ca5b55c51aa1663c75c4fb2a915f20"
+  },
+  {
+    "file": "auto_prices_2019.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "cf77a794d80ed3c590e64c9e0d4f459ca743341d48aa2de956d87edef553173f"
+  },
+  {
+    "file": "auto_prices_2020.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "38e6e414eb621729011005293bc740c3dd14be3132cb06ddc8dddb8aad8e5e21"
+  },
+  {
+    "file": "auto_prices_2021.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "9883235101f0b5acb65f516900e19c0e26af7f856d8e36f01e8229a0243ee93e"
+  },
+  {
+    "file": "auto_prices_2022.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "3da0b45d668e26e83a96b2f9877e450ea30b01b419dbe31354877e4b69ec7e46"
+  },
+  {
+    "file": "auto_prices_2023.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "34ae1378b8520ec6903ae0a745af564d7b11ce2d7e9fdea968747fae859379cd"
+  },
+  {
+    "file": "auto_prices_2024.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "78eba9ec1443c31b029103d8e2f624e1b480808f3aa1e4866deabf9cc52e3526"
+  },
+  {
+    "file": "auto_prices_2025.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "18baf817f3148e9622f9cd3799677c4ae53ca1b71c48a1346f27a37db586599e"
+  },
+  {
+    "file": "auto_prices_2026.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "29597a3f08b0c8623f9271d006665de96c6988d57d474d0b1dfdb24fccbcb92d"
+  },
+  {
+    "file": "pharma_prices_2016.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "a2d14882f3827dfa315a879f61617988daa14a88b61ba337f803a9018a13e2dc"
+  },
+  {
+    "file": "pharma_prices_2017.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "497258c351d8e40e50912d0f6694498ab8fdbbac442a37c7e7e8e0aa17d35b56"
+  },
+  {
+    "file": "pharma_prices_2018.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "0b47f4efe081f7d76a2cdcbb8ae41e8b0319919869bff555af5c71236d433408"
+  },
+  {
+    "file": "pharma_prices_2019.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "2b41bc063b0f058b33732ab41b40294619a2eda3a93e7b0464a0fb6e22576b6f"
+  },
+  {
+    "file": "pharma_prices_2020.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "b920b4b18817cba2764de63b251ed97972412e6909edb91080a8e7fa1f9292e3"
+  },
+  {
+    "file": "pharma_prices_2021.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "855b010a75138338321e470b23afe7567290aa2b7dcfbf83eca6dd36a6e98807"
+  },
+  {
+    "file": "pharma_prices_2022.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "057f90ada4c611a7fea7cfb7e801ddf12fb53482333ef2034e87ff1170139d35"
+  },
+  {
+    "file": "pharma_prices_2023.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "1af5d6bd13c28c5a12b1ae63ee08ba276915f604d3960c030a0fae0873a3db2f"
+  },
+  {
+    "file": "pharma_prices_2024.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "4ffa93f922efb1114f030314230a21ded06a66dcdd4c534009100c01f0f912a5"
+  },
+  {
+    "file": "pharma_prices_2025.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "819f691c6616c9d051bf2e89928effe8715ad0e39ad6d5fa8486b3b22c6c5516"
+  },
+  {
+    "file": "pharma_prices_2026.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "53d9f9fa993697b135203aad49fcd46e9cfafbd7ea5698d9ba62598ce1fb6327"
+  },
+  {
+    "file": "metal_prices_2016.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "43207065ccc433e9eb7dbeb8d1f35beaeaccabdd516d88e3239c2bfa7403e701"
+  },
+  {
+    "file": "metal_prices_2017.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "7aed09ef04ad3a13060f6d89f4d0bd7223a74e1bfe93bf9818da42c61ca12a96"
+  },
+  {
+    "file": "metal_prices_2018.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "6689b1de0d05d728a00fd902af204757c2e0e137f53610d0b5b51da74c762886"
+  },
+  {
+    "file": "metal_prices_2019.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "7106b6af575366798cd34ff525bd3cfb80d0e09ba501b96c11e04743d5cd0f49"
+  },
+  {
+    "file": "metal_prices_2020.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "aaae3f315f26951059b74c75c56605f7bfce6586359d0bf6e8df3ac8cde1bbbd"
+  },
+  {
+    "file": "metal_prices_2021.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "887b9978c32cf1d8540a24df64f5ed4fad544b713ab801171a06693d9ad31405"
+  },
+  {
+    "file": "metal_prices_2022.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "ed953e9fef4d920bbc6a4984a2e42e3bfe2b718996510776332ffb82b6996cdd"
+  },
+  {
+    "file": "metal_prices_2023.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "45c75b81ab5dce7a83f64959ef5821c146f895c53a5b9a83089069821facaf5f"
+  },
+  {
+    "file": "metal_prices_2024.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "0c03c558eb58a7667eeb6dceee5540a8e0e31e2a1af9ab62d4bb2dec18c9af76"
+  },
+  {
+    "file": "metal_prices_2025.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "c797a37453ada42219c908920d1faa834ba2a4bda58d47937f9c1f3ececbce1d"
+  },
+  {
+    "file": "metal_prices_2026.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "4e770ae46f80e5134acad4f974a6d1314e9dd453766693ce3e3af2af71e6095c"
+  },
+  {
+    "file": "energy_prices_2016.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "6ac88a9f66bacb13b026bdce4d90f0d36cbab9bb667b0cc45123fed70ae0cc8f"
+  },
+  {
+    "file": "energy_prices_2017.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "180379a688649742b9a6a774da390997df5ca17e297c9fa5b654002a005e1fb9"
+  },
+  {
+    "file": "energy_prices_2018.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "f8a232584679988a8d57cb6558227f1735565dccdd5d435b389a48b2f0174a3b"
+  },
+  {
+    "file": "energy_prices_2019.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "6d8fe34b34f80c72ee3273f47243b478720686b6028c86e5d506fce5be96821a"
+  },
+  {
+    "file": "energy_prices_2020.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "57642560850da08ca123c6da8f7297b76cf72e83bce2b670ca2a375ab67aee33"
+  },
+  {
+    "file": "energy_prices_2021.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "806fc185faf95e0dfa07239044caa8e18b59fc2957e252057806f298b482eeb2"
+  },
+  {
+    "file": "energy_prices_2022.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "df9b2acc42ca76d750ebf4af5c7f5f3cd237678d8e2f176f9dda304e591cdeb2"
+  },
+  {
+    "file": "energy_prices_2023.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "042a0ea98ba3f32c373b9874a92446b8b8f2fa121bcbae8b9a33939f9531c378"
+  },
+  {
+    "file": "energy_prices_2024.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "4dfad897a245158568cf8e186bcb3cb9fcae51bfd35d61dfbe5b33b6a6377300"
+  },
+  {
+    "file": "energy_prices_2025.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "3ef187bb8d791c717dc30e6288aedb854249e6d1f094d4dd787ff5764525c108"
+  },
+  {
+    "file": "energy_prices_2026.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "6769440508882872b3b113aaa03b88b14ff9a2e1303fde39e48ad743e201cb5b"
+  },
+  {
+    "file": "infra_prices_2016.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "f9cf8393e3066b300d31cc8b3b6640dff2becefefe8a119795fba145a825cd7e"
+  },
+  {
+    "file": "infra_prices_2017.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "b0dee8ec69dd642bba531476760d2fe06778774d7a0cd627e3359dc520f40bff"
+  },
+  {
+    "file": "infra_prices_2018.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "1439e328f9472f3bb5f38c954c9940551a2ea42ec61001a863b30644fe5bf823"
+  },
+  {
+    "file": "infra_prices_2019.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "0b36d1e58e3cede9edb2d5bd0445f890b77870071b59e980a858590bfdf0e414"
+  },
+  {
+    "file": "infra_prices_2020.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "def9c2ae489cd7ce9cdf74e8205ba60739d8a34a3245e79cb91dd1740b88e034"
+  },
+  {
+    "file": "infra_prices_2021.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "6749731b4b14530ce9d61caf7bb9d3065dbd5228875cf5eafe1b7641c820d3bb"
+  },
+  {
+    "file": "infra_prices_2022.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "1c2f57e7f31f346dda45d5d4ad48ea0bcb00ed27c24a45ecc4acbb0b7bbc745c"
+  },
+  {
+    "file": "infra_prices_2023.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "da907dbb0d6ed9c66756f1aa0556373cb6f3d8c6f0d27d73e400f673f5da9c7f"
+  },
+  {
+    "file": "infra_prices_2024.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "42185fc917f72aca0707400b6f6cf5a09158d6c98a0e4da67dcc363784218cc5"
+  },
+  {
+    "file": "infra_prices_2025.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "b2afed2778a3f35d20d670492e73ef2f5d9ca3e6f3c618d284ee002e0d642945"
+  },
+  {
+    "file": "infra_prices_2026.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "1a2a9c24b5ddfc56c94f489196c7727a01bb61c233baf3dec97746d4c560d963"
+  },
+  {
+    "file": "materials_prices_2016.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "fdb7272d8a6d5f88886dd66bb7fd2fa772126387d2c8521a6c3d12ef51793859"
+  },
+  {
+    "file": "materials_prices_2017.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "879ee44fc6ade1b27025c95c60a7a3f3156ef90a77d14721cac77eca7e96226a"
+  },
+  {
+    "file": "materials_prices_2018.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "ceeb060239f30a4bad41889b91d53c74a507aa7fab2e2da6ff231fd5ea530052"
+  },
+  {
+    "file": "materials_prices_2019.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "55d66d1d1bcb158d759b673d1ccf78be3c6badbca4a1188cce622827bccee526"
+  },
+  {
+    "file": "materials_prices_2020.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "10788527e6bfb2166c8c352ca2d166c4b7a56e75c681cf0893d2cd3dbb32c1d8"
+  },
+  {
+    "file": "materials_prices_2021.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "0a2117db7e2523be5fcebcde0128667a4398bc5de4853dcb5585d1cd28df6777"
+  },
+  {
+    "file": "materials_prices_2022.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "d1257d4dd829bf563c8d13276951cae02def9c39041aa0e7d50f5d2ba0588128"
+  },
+  {
+    "file": "materials_prices_2023.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "219e2763e29fc40f11bc5fe33a43436f9e4cf99e774e20aecd76ebdc2be30ab2"
+  },
+  {
+    "file": "materials_prices_2024.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "5cbb1afb870aaced8af93f7ea34ec56c45c99d6b6bb49fc22d1db639930903c3"
+  },
+  {
+    "file": "materials_prices_2025.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "ce82da3b185ae3997ebc063fa368a4c68175cda4c1c75c1adcb0839cf703393d"
+  },
+  {
+    "file": "materials_prices_2026.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "cached": true,
+    "sha256": "e90cf5dc7a00729209019d04e6a3ac72ff7ebb1bf81a195daaafae37524fc138"
+  },
+  {
+    "file": "consumer_prices_2016.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "status": 200,
+    "request": {
+      "cinfo": "{'name':'NIFTY INDIA CONSUMPTION','startDate':'01-Jan-2016','endDate':'31-Dec-2016','indexName':'NIFTY INDIA CONSUMPTION'}"
+    },
+    "sha256": "dda1827fc89bd698e2f2609a703c49d845e8bc304e9cd23a40df19f698ce89cc"
+  },
+  {
+    "file": "consumer_prices_2017.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "status": 200,
+    "request": {
+      "cinfo": "{'name':'NIFTY INDIA CONSUMPTION','startDate':'01-Jan-2017','endDate':'31-Dec-2017','indexName':'NIFTY INDIA CONSUMPTION'}"
+    },
+    "sha256": "1bc8d1910d6f74a237f367556af74b4f5573f502c975b9a63fa48b67055bbd66"
+  },
+  {
+    "file": "consumer_prices_2018.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "status": 200,
+    "request": {
+      "cinfo": "{'name':'NIFTY INDIA CONSUMPTION','startDate':'01-Jan-2018','endDate':'31-Dec-2018','indexName':'NIFTY INDIA CONSUMPTION'}"
+    },
+    "sha256": "8950ce9c1cbdfd308bda2da7bd424a84c91e0ffcb52e7983d5364fab5e3120f6"
+  },
+  {
+    "file": "consumer_prices_2019.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "status": 200,
+    "request": {
+      "cinfo": "{'name':'NIFTY INDIA CONSUMPTION','startDate':'01-Jan-2019','endDate':'31-Dec-2019','indexName':'NIFTY INDIA CONSUMPTION'}"
+    },
+    "sha256": "be7ce4259de1353f73ad8844125a7ed11b7dde2171e3586634350efa8f4e7687"
+  },
+  {
+    "file": "consumer_prices_2020.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "status": 200,
+    "request": {
+      "cinfo": "{'name':'NIFTY INDIA CONSUMPTION','startDate':'01-Jan-2020','endDate':'31-Dec-2020','indexName':'NIFTY INDIA CONSUMPTION'}"
+    },
+    "sha256": "5b78a52e683515b628cb758af928986c5472de72d735ea2947041bce90c57c5d"
+  },
+  {
+    "file": "consumer_prices_2021.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "status": 200,
+    "request": {
+      "cinfo": "{'name':'NIFTY INDIA CONSUMPTION','startDate':'01-Jan-2021','endDate':'31-Dec-2021','indexName':'NIFTY INDIA CONSUMPTION'}"
+    },
+    "sha256": "4e4c25d8ed3680b457367995de24d50dd7a11b93b9830389387dab845c4c7a4c"
+  },
+  {
+    "file": "consumer_prices_2022.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "status": 200,
+    "request": {
+      "cinfo": "{'name':'NIFTY INDIA CONSUMPTION','startDate':'01-Jan-2022','endDate':'31-Dec-2022','indexName':'NIFTY INDIA CONSUMPTION'}"
+    },
+    "sha256": "b90b84e06710074ab3eddaa9675d68358446acf077a9df4af64b6d8c99d89893"
+  },
+  {
+    "file": "consumer_prices_2023.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "status": 200,
+    "request": {
+      "cinfo": "{'name':'NIFTY INDIA CONSUMPTION','startDate':'01-Jan-2023','endDate':'31-Dec-2023','indexName':'NIFTY INDIA CONSUMPTION'}"
+    },
+    "sha256": "bf53f57fccc87ffbeee89b03fdceb9e1493f2d71964ee7204bcfd562784cc005"
+  },
+  {
+    "file": "consumer_prices_2024.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "status": 200,
+    "request": {
+      "cinfo": "{'name':'NIFTY INDIA CONSUMPTION','startDate':'01-Jan-2024','endDate':'31-Dec-2024','indexName':'NIFTY INDIA CONSUMPTION'}"
+    },
+    "sha256": "8a22db270ddddf2f52f8ad245a19e8c4f2e8a115bcfad9fa07ac113d8eded359"
+  },
+  {
+    "file": "consumer_prices_2025.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "status": 200,
+    "request": {
+      "cinfo": "{'name':'NIFTY INDIA CONSUMPTION','startDate':'01-Jan-2025','endDate':'31-Dec-2025','indexName':'NIFTY INDIA CONSUMPTION'}"
+    },
+    "sha256": "f6c8df30601c7d1dce5bf8c29413f67df4357b8c3ea719553b539ea27127dfde"
+  },
+  {
+    "file": "consumer_prices_2026.json",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "status": 200,
+    "request": {
+      "cinfo": "{'name':'NIFTY INDIA CONSUMPTION','startDate':'01-Jan-2026','endDate':'23-Oct-2026','indexName':'NIFTY INDIA CONSUMPTION'}"
+    },
+    "sha256": "17cb678948af7cf5a5b110a743e3e91327d667dc30899b7f44c40398e3a3b458"
+  },
+  {
+    "file": "ASIANPAINT_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=ASIANPAINT&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "f5ad3dc5cb56072d2383435a0253ae28251666851fdc280ff85d8463ea4fb2bb"
+  },
+  {
+    "file": "ASIANPAINT_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=ASIANPAINT&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "c0f191efc16a5b2e7dd5634328dd73023f0822c859a26786dd723b1e170c40cc"
+  },
+  {
+    "file": "ASIANPAINT_1170865.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_105555_1119419_09052024075545.xml",
+    "cached": true,
+    "sha256": "e617ab839821c58eccdb12510a91bd0b4b37dd55f1f9f3707334949b9acbe5b7"
+  },
+  {
+    "file": "ASIANPAINT_1146684.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_91551_841015_11052023082656.xml",
+    "cached": true,
+    "sha256": "e3cb64552aeb5077bfaabc060ee98a10e7f5766ef9e457f4a8b0d5cc04fc83fd"
+  },
+  {
+    "file": "ASIANPAINT_1132276.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_84207_652808_10052022110347_WEB.xml",
+    "cached": true,
+    "sha256": "1359025561cdf5032444e323db2d50c07f91bf161af493912524ebe42a5d8ae5"
+  },
+  {
+    "file": "ASIANPAINT_1107436.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_69900_447519_13052021115636_WEB.xml",
+    "cached": true,
+    "sha256": "16b2f5f7d53e464e70c87890aa396c1eaf76d2c5f7e996cebaa86b200876fd87"
+  },
+  {
+    "file": "ASIANPAINT_1084124.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_56342_268010_24062020014338_WEB.xml",
+    "cached": true,
+    "sha256": "09b3c21298232436b2aebb75801a5386dd86a1d57f4cfb5399e285cb01927186"
+  },
+  {
+    "file": "ASIANPAINT_1059866.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_43948_101080_09052019065545_WEB.xml",
+    "cached": true,
+    "sha256": "73f73561accbcc55847bb1ca755cc39531a7d5d3bac8a729e2215dca7b7e1ee0"
+  },
+  {
+    "file": "ASIANPAINT_1040037.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_35078_9178_11052018052028_WEB.xml",
+    "cached": true,
+    "sha256": "a2f3b1471d7dfb89826bc28d2c455515251fe0a9376b5efa4dad06b1fa69cfd7"
+  },
+  {
+    "file": "ASIANPAINT_integrated_174871.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1693690_15072026083521_WEB.xml",
+    "cached": true,
+    "sha256": "ba770bf8ee2060008dbb1ad32f7dd68f7c69bac4111c251fd99a24662c3a5340"
+  },
+  {
+    "file": "ASIANPAINT_integrated_163991.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1676549_29052026075148_WEB.xml",
+    "cached": true,
+    "sha256": "d63ea07699b82e3884d6fd08df5eec4512582f313cdf3691be51cc855f95dec8"
+  },
+  {
+    "file": "ASIANPAINT_integrated_89821.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1434305_08052025080224_WEB.xml",
+    "cached": true,
+    "sha256": "7c0bc80b7570915e8da77875c0ecfb7f9516921b3a400395de6e1a98e4a11131"
+  },
+  {
+    "file": "AXISBANK_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=AXISBANK&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "de2b5a2c4911387f387144cba0868144a2c028bb7c95de81689ba3dca1a1abf5"
+  },
+  {
+    "file": "AXISBANK_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=AXISBANK&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "5f21a308cae8beadf0f776ab52767982e111cb334f5a4312b54981760a5fd8e0"
+  },
+  {
+    "file": "AXISBANK_1169330.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_104697_1107859_25042024023559.xml",
+    "cached": true,
+    "sha256": "dd899d08e9147c7c293bf431a90e1721fa12e8c59dda8d9990c2831e091a3cfb"
+  },
+  {
+    "file": "AXISBANK_1145553.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_90963_834548_28042023043449.xml",
+    "cached": true,
+    "sha256": "69aa01a1c4f5eee6bd6ccbb7d8ba55a35b9a5692e6139bdc38e84e1169fe944c"
+  },
+  {
+    "file": "AXISBANK_1131343.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_83733_649392_29042022015138_WEB.xml",
+    "cached": true,
+    "sha256": "b56c13bb3c9f86e52960cc6d7ddfbe75c30b1f6525231853c7eac07a0e4ced06"
+  },
+  {
+    "file": "AXISBANK_1106621.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_69482_444275_28042021035247_WEB.xml",
+    "cached": true,
+    "sha256": "f8c5309bbc03e08d79bba19c0f5b32da77c84cff6d55ab333baf8bf01d325aad"
+  },
+  {
+    "file": "AXISBANK_1081396.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_54961_245433_29042020035646_WEB.xml",
+    "cached": true,
+    "sha256": "8b7c1679134f4a0c6b2062a2f97e80246a85226025df8e83bb16ab844e650516"
+  },
+  {
+    "file": "AXISBANK_1059158.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_43645_99460_26042019044618_WEB.xml",
+    "cached": true,
+    "sha256": "430b1e0512c6eeede076d01b8edbfb79dedbf81695ba1bf39bf6822e1fc38139"
+  },
+  {
+    "file": "AXISBANK_1041197.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_35409_10279_21052018105358_WEB.xml",
+    "status": 404,
+    "request": null
+  },
+  {
+    "file": "AXISBANK_integrated_153577.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_BANKING_1660196_28042026035545_WEB.xml",
+    "cached": true,
+    "sha256": "b2f65000cce20ad7e38c028d28082975ce890e27409762cc31972c54876153a9"
+  },
+  {
+    "file": "AXISBANK_integrated_86628.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_BANKING_1424250_24042025075151_WEB.xml",
+    "cached": true,
+    "sha256": "a562c2e3f64c64d859cb6490690b85d1c617c8982816b1072bba499c31f0d174"
+  },
+  {
+    "file": "BAJAJFINSV_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=BAJAJFINSV&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "b510c7b1908d69872d90cc7dc91452d8b3735a962b816319d2ca75a3b559a011"
+  },
+  {
+    "file": "BAJAJFINSV_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=BAJAJFINSV&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "b6e8f7f46146f6d6947960b5b15d50a18f951bb3fd40eceeb2fdc3185867004a"
+  },
+  {
+    "file": "BAJAJFINSV_1169603.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/NBFC_INDAS_104856_1109872_27042024125639.xml",
+    "cached": true,
+    "sha256": "74da1f4dbbcb9effed262fc61ed51871f1cba160b0185f2e825a47a1cf7cbba9"
+  },
+  {
+    "file": "BAJAJFINSV_1145479.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/NBFC_INDAS_90923_834108_27042023080414.xml",
+    "cached": true,
+    "sha256": "753b841782bfeb6827c906735bf61a2e1679ef64181d961a96110de17cbe7093"
+  },
+  {
+    "file": "BAJAJFINSV_1131323.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/NBFC_INDAS_83724_649311_29042022114358_WEB.xml",
+    "cached": true,
+    "sha256": "6a672d4dff75531a2bb5de480df30d55ae6c9bf7122898b92e88b1d0099890ff"
+  },
+  {
+    "file": "BAJAJFINSV_1081971.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/NBFC_INDAS_55256_260211_21052020044509_WEB.xml",
+    "cached": true,
+    "sha256": "2f92076e3958290b0b12a3de41de9d3b35463d91e8df0a1d3b69d89167cc6a7f"
+  },
+  {
+    "file": "BAJAJFINSV_1040882.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/NONINDAS_35327_10087_18052018052358_WEB.xml",
+    "cached": true,
+    "sha256": "c7bdf419a149222fc495d4cfe9e987d369811d4fee69a03e13d02ead14d02756"
+  },
+  {
+    "file": "BAJFINANCE_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=BAJFINANCE&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "4faa8c0aff91b5ba85793042a6593f89a1c50f727a207032f2551dda19b5b1cd"
+  },
+  {
+    "file": "BAJFINANCE_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=BAJFINANCE&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "cbabe30a9cd38a33344a822193036e02092ab8ae21cce927e5af0adacd1b0143"
+  },
+  {
+    "file": "BAJFINANCE_1169378.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/NBFC_INDAS_104721_1108498_25042024091449.xml",
+    "cached": true,
+    "sha256": "ea8ed0ebf307556c9489ad85a5120e9b96d07d28d311d6954cf4d86526c6a949"
+  },
+  {
+    "file": "BAJFINANCE_1145385.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_90872_833491_26042023093640.xml",
+    "cached": true,
+    "sha256": "86da529b3d10d60282f25368b8882ca535974c92df69c328ffe879d86b508baf"
+  },
+  {
+    "file": "BAJFINANCE_1131147.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/NBFC_INDAS_83631_648325_26042022094831_WEB.xml",
+    "cached": true,
+    "sha256": "ea268897789f8894077d46ba5899470cc6612dd1d9ab574eba65b1bf82a9a1ed"
+  },
+  {
+    "file": "BAJFINANCE_1081858.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/NBFC_INDAS_55199_259629_19052020074116_WEB.xml",
+    "cached": true,
+    "sha256": "85fd18d66ab0a3ce5ffbcbf20521481eed03f1f7aebbed5afac029eb3e370b46"
+  },
+  {
+    "file": "BAJFINANCE_1040696.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/NONINDAS_35272_9888_17052018060424_WEB_2.xml",
+    "cached": true,
+    "sha256": "33f098620a8ea26408147edfafbca42198d6553dec31671d815d16c37ecca90c"
+  },
+  {
+    "file": "BAJFINANCE_integrated_88426.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_NBFC_INDAS_1428677_30042025123348_WEB.xml",
+    "cached": true,
+    "sha256": "d0a606cf583e08e3a1fbd8b689214865cb89fd94f387eeb467ee1ed9b404c04b"
+  },
+  {
+    "file": "BHARTIARTL_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=BHARTIARTL&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "3d4de2fc827a72761552f71b310d0b4bb5699780da9d88c12b371dce1a07a697"
+  },
+  {
+    "file": "BHARTIARTL_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=BHARTIARTL&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "2cc9c747ea67fa5e033df0273988c7ced1ea53a6337477e737a5a9fa136ee919"
+  },
+  {
+    "file": "BHARTIARTL_1171537.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_105899_1124342_14052024095730.xml",
+    "cached": true,
+    "sha256": "5288f2470d760574aa6dded851a4a468fcfecec07c6a34c6859c4fa42939579a"
+  },
+  {
+    "file": "BHARTIARTL_1147226.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_91823_844128_16052023092017.xml",
+    "cached": true,
+    "sha256": "dafbaea96c0599c1638a7777a1e91ca7ff0f1ea074d94480c859e7cd95404003"
+  },
+  {
+    "file": "BHARTIARTL_1133208.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_84680_656011_18052022010950_WEB.xml",
+    "cached": true,
+    "sha256": "6affc4471e15ffcc29fb5dae1479d8b998dda32a0fd9f337df9ea73fbc2bc714"
+  },
+  {
+    "file": "BHARTIARTL_1107780.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_70072_448632_18052021031747_WEB.xml",
+    "cached": true,
+    "sha256": "face9b0b222d5b66b3d43b470b85b3e29bb03e182190cb06d2c5c80400e66bd6"
+  },
+  {
+    "file": "BHARTIARTL_1081854.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_55197_259596_19052020060007_WEB.xml",
+    "cached": true,
+    "sha256": "3bbfd55beab287e8d230452ff3f836d58645cca950a5684f62b4c609c670bc2b"
+  },
+  {
+    "file": "BHARTIARTL_1059645.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_43854_100696_07052019023347_WEB.xml",
+    "cached": true,
+    "sha256": "61fb81f822dfbf63773298f644f249897501ce08dcc3e941cdf82e68236cbab3"
+  },
+  {
+    "file": "BHARTIARTL_integrated_157367.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1666755_13052026094746_WEB.xml",
+    "cached": true,
+    "sha256": "6f1d4636d637d77af622730e8e10ffc9ad804d82b170d5429cfe93f873a456f5"
+  },
+  {
+    "file": "BHARTIARTL_integrated_157364.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1666751_13052026094558_WEB.xml",
+    "cached": true,
+    "sha256": "6f1d4636d637d77af622730e8e10ffc9ad804d82b170d5429cfe93f873a456f5"
+  },
+  {
+    "file": "BHARTIARTL_integrated_90566.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1437761_13052025081737_WEB.xml",
+    "cached": true,
+    "sha256": "24a86c29b37eb742fb48ffb9c569ba19eabe8ca30d7ce80cac402a8b58df50f0"
+  },
+  {
+    "file": "BPCL_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=BPCL&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "5d00b81b278960b4b320a5508b0a735ab5f0875ce1935c6f97833d52668e8e47"
+  },
+  {
+    "file": "BPCL_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=BPCL&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "267358306efdcb5d49585bb972d966d3a0b591b88beab66ff7f2a0c83abf647c"
+  },
+  {
+    "file": "BPCL_1170909.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_105578_1119729_10052024123700.xml",
+    "cached": true,
+    "sha256": "4e79308a7a05d321fb2776055c0a1f18755bf3b0a6e80c6877e008f81e221b36"
+  },
+  {
+    "file": "BPCL_1148246.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_92336_849428_23052023124918.xml",
+    "cached": true,
+    "sha256": "f858c22c74ac12ee441cf5db6fbefe9b8d4ee70a4097a901044687b1497d36a3"
+  },
+  {
+    "file": "BPCL_1134868.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_85515_661391_26052022023210_WEB.xml",
+    "cached": true,
+    "sha256": "e59f814415985dd1bd6854db3054d682e322d84107c079dd76fc67677667fcae"
+  },
+  {
+    "file": "BPCL_1108619.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_70493_451931_27052021035934_WEB.xml",
+    "cached": true,
+    "sha256": "c11fa62a99c539ec4b556c7f1b61ec77184df1cb0f2d7c67c9fb371eae35e931"
+  },
+  {
+    "file": "BPCL_1082625.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_55586_263361_04062020103408_WEB.xml",
+    "cached": true,
+    "sha256": "fb3ad2fb919d55cc0755f830ca0f15bb623ae91754dea4b3c2731613bf591023"
+  },
+  {
+    "file": "BPCL_1044324.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_36309_13238_30052018053329_WEB.xml",
+    "cached": true,
+    "sha256": "e71f7a92c0a9fbbb92c0c499dd2cdc72bf386f2f1cd2fcc2a9b35d7f9637384f"
+  },
+  {
+    "file": "BPCL_integrated_158941.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1669458_19052026064545_WEB.xml",
+    "cached": true,
+    "sha256": "bbc7fda3f28c38ce4738f8b199f43e09a873093c4f0e0bbda20f135c640097b2"
+  },
+  {
+    "file": "BPCL_integrated_87998.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1427836_29042025050945_WEB.xml",
+    "cached": true,
+    "sha256": "01163fe116408312ca39c0e126dc29c9e18ec90bf9620e96856ec70b48d41af3"
+  },
+  {
+    "file": "BRITANNIA_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=BRITANNIA&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "f9b5fe90678f81b8d6ab054319f192649170acc3803bab5947fcf0ea91c5ec17"
+  },
+  {
+    "file": "BRITANNIA_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=BRITANNIA&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "1be0cef263d87fb95cc8eeb04b223a096935a1a0b9eeaa37cd24896c5eb397b4"
+  },
+  {
+    "file": "BRITANNIA_1170348.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_105293_1115518_04052024050912.xml",
+    "cached": true,
+    "sha256": "eb8bb6f64496d9d0eeee5f75b36a72d01034bc082a98f44e447f55374f4e2ca4"
+  },
+  {
+    "file": "BRITANNIA_1146237.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_91311_838518_06052023053841.xml",
+    "cached": true,
+    "sha256": "a8ad4312b76385ece5276d0c0730363334885816e1ad52770c1861941de0bf98"
+  },
+  {
+    "file": "BRITANNIA_1131604.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_83865_650592_03052022014314_WEB.xml",
+    "cached": true,
+    "sha256": "0db5ac90ed4825b06e91f411aa4644c5fb0247d024d9c8784ae8aa184caf8101"
+  },
+  {
+    "file": "BRITANNIA_1082602.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_55574_263189_03062020022013_WEB.xml",
+    "cached": true,
+    "sha256": "7b135cd6bb0009b34ea80c7386d6b3fee7c6b17c4c6a16a91a94b615b01fe730"
+  },
+  {
+    "file": "BRITANNIA_1059407.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_43754_100335_02052019064144_WEB.xml",
+    "cached": true,
+    "sha256": "fe998a584cd3f5cf76931d6f992f0d10148ea83ae07f6339dcb531685a795e9e"
+  },
+  {
+    "file": "BRITANNIA_1040502.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_35214_9684_16052018061820_WEB.xml",
+    "cached": true,
+    "sha256": "7c68f9dc1744778214fdd4d8955086b63d7a8e36dc649ba3c957a2730a78e55a"
+  },
+  {
+    "file": "BRITANNIA_integrated_156222.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1664749_07052026113812_WEB.xml",
+    "cached": true,
+    "sha256": "86656660f66bb97a5e7e5e82850773e362a1daf71687ac8a490260063c36cd1f"
+  },
+  {
+    "file": "BRITANNIA_integrated_89894.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1434507_08052025114803_WEB.xml",
+    "cached": true,
+    "sha256": "d11c08980e9d990310e30af584d5318a7a8fcbec5f795f07dfcaf509baa0b6b5"
+  },
+  {
+    "file": "CIPLA_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=CIPLA&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "4648398d9af1b0b3636cd0340f2bf18f88187c79b4449393d5bcef8a5a62c216"
+  },
+  {
+    "file": "CIPLA_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=CIPLA&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "21b622f2208c10fa8c35a4f72d92617bd46edb5a5747810debcc5b385067195b"
+  },
+  {
+    "file": "CIPLA_1171129.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_105691_1120842_11052024101949.xml",
+    "cached": true,
+    "sha256": "a19f097b8f0fd4a0f05b6c8c6c9d5b55fcbc402e866a57d959cb569ebdd7e767"
+  },
+  {
+    "file": "CIPLA_1146889.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_91654_841981_12052023100257.xml",
+    "cached": true,
+    "sha256": "6a6521a2270c46a69913efa93c45c640bd508bf64d5c2993373e8a2c66b220c6"
+  },
+  {
+    "file": "CIPLA_1132332.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_84235_652971_11052022030052_WEB.xml",
+    "cached": true,
+    "sha256": "1f1e0b0be12478bcc52d1015061508f630bedb6c0163356926087963c27b3616"
+  },
+  {
+    "file": "CIPLA_1107634.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_69999_448115_14052021101255_WEB.xml",
+    "cached": true,
+    "sha256": "5af072045e5ddd95db0a8a32e781446cb404b4dbdded80212f565b59c73d5b83"
+  },
+  {
+    "file": "CIPLA_1081773.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_55156_259003_16052020010316_WEB.xml",
+    "cached": true,
+    "sha256": "27a4ebfcf27994c3318eab6bd10e1639b393484cc4092f6b9da41d168318d84c"
+  },
+  {
+    "file": "CIPLA_1061475.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_44619_103721_23052019125123_WEB.xml",
+    "cached": true,
+    "sha256": "a7fb55dda62c20945c96450bd7b3c5cd4d3f26bb000ad2cc56227e3f5e282acd"
+  },
+  {
+    "file": "CIPLA_1041514.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_35508_10609_23052018101918_WEB.xml",
+    "cached": true,
+    "sha256": "ea70ec989c773fe159813871e64070fb66a59d1b1cd7e6e4d77c6d51faf37de1"
+  },
+  {
+    "file": "CIPLA_integrated_157349.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1666727_13052026085507_WEB.xml",
+    "cached": true,
+    "sha256": "7316f9c2dddce3cee12fb9963352705995c0f563d53a8a1fe9fc1e76f3af3602"
+  },
+  {
+    "file": "CIPLA_integrated_90591.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1437887_13052025092912_WEB.xml",
+    "cached": true,
+    "sha256": "ecea051044b5207d1eab9d0b2efad2034082d6da1e4d828ace012d6f07d31e9e"
+  },
+  {
+    "file": "COALINDIA_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=COALINDIA&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "c3491606a0947f81cc579a583eaef9b2b19e5cdf8336ce8ce3176d292cb1fa52"
+  },
+  {
+    "file": "COALINDIA_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=COALINDIA&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "a2be0d0702d606a7ddc3cd8fe8a7d351f6a8911a1dee9293aa6b73ef6a2a7b94"
+  },
+  {
+    "file": "COALINDIA_1170107.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_105167_1113938_02052024063525.xml",
+    "cached": true,
+    "sha256": "c66e440a4ea32deada939f0a2fed2a0c887ca64d0ed2b8393028bd9e2ea47ac1"
+  },
+  {
+    "file": "COALINDIA_1146274.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_91335_838657_07052023122913.xml",
+    "cached": true,
+    "sha256": "6e1c98d97ac617664d930e2bee0b87ccbd2016b4a49b294c8d6b3ffd93007f16"
+  },
+  {
+    "file": "COALINDIA_1134594.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_85377_660547_25052022052515_WEB.xml",
+    "cached": true,
+    "sha256": "e86f979c00ca094a745b89befc5e3985b1f96acc7d06633e5e9ee23d34999b6b"
+  },
+  {
+    "file": "COALINDIA_1110122.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_71266_458804_14062021043922_WEB.xml",
+    "cached": true,
+    "sha256": "00c9fd73fada340612485d9c1762156510aefcb787ef0dcd575e1098824b258f"
+  },
+  {
+    "file": "COALINDIA_1084687.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_56631_269393_26062020044032_WEB.xml",
+    "cached": true,
+    "sha256": "bbd4d893547e2e4f3f559e74680f25edfbb159b63b5cd92f45f0916c4e572cf0"
+  },
+  {
+    "file": "COALINDIA_1063569.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_45487_106854_30052019054611_WEB.xml",
+    "cached": true,
+    "sha256": "5485c18a7a74b49c4c1d03496ccd7456062f143e2cab9e2a0667257fd3a9d07c"
+  },
+  {
+    "file": "COALINDIA_1043379.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_36060_12540_29052018035714_WEB_2.xml",
+    "cached": true,
+    "sha256": "188e560ae73a2d97c13b8439ef8741f173c7d3339f71425c31f77f69bb29d1cb"
+  },
+  {
+    "file": "COALINDIA_integrated_200551.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1736134_12102026040726_WEB.xml",
+    "cached": true,
+    "sha256": "4a6f5d173b9a2eb4d4cf8b6bd56e211de826889e24a79184221e3329408d00e3"
+  },
+  {
+    "file": "COALINDIA_integrated_153328.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1659783_27042026084724_WEB.xml",
+    "cached": true,
+    "sha256": "28978e19167e424f77af16a7e17b54d06dd81bfb5a4458dedf2d0f2bb9feacf3"
+  },
+  {
+    "file": "COALINDIA_integrated_89600.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1433129_07052025050509_WEB.xml",
+    "cached": true,
+    "sha256": "94794efc45845cab3da493995b69d0ea861520fa933eec6eb0190e6610fc7e90"
+  },
+  {
+    "file": "DABUR_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=DABUR&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "596562a2529b9e62f7f89ef51eac9312f8b4fa57ec6048203f231ebcb076cefa"
+  },
+  {
+    "file": "DABUR_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=DABUR&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "339c0471bcdb650bb061a0ee276199b032d3345320a565a6ff9734a87d284ac6"
+  },
+  {
+    "file": "DABUR_1170183.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_105210_1114438_03052024020351.xml",
+    "cached": true,
+    "sha256": "3ffd593098bce46a0f303ac48da285246410915095a2a08d9ee6916e8fee3d2b"
+  },
+  {
+    "file": "DABUR_1146047.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_91216_837699_05052023020015.xml",
+    "cached": true,
+    "sha256": "e05292f71c2d5f9a0e9a26edbf59a633a248527bdc41cf58e62824335e0b6840"
+  },
+  {
+    "file": "DABUR_1131917.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_84024_651508_06052022015126_WEB.xml",
+    "cached": true,
+    "sha256": "4a868b1ac19c054570a420ef0e778210a8dd77a288e1788fbdf0ade80c06f2b1"
+  },
+  {
+    "file": "DABUR_1107255.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_69808_446690_10052021022832_WEB.xml",
+    "cached": true,
+    "sha256": "5d341269db470e13b96d4e772117f47c73aac39f3ba12b504d276e3112fb2720"
+  },
+  {
+    "file": "DABUR_1082281.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_55411_261548_27052020101835_WEB.xml",
+    "cached": true,
+    "sha256": "fd9dfff4d385db6f9011fab75a6284fb1a75af2cc7b11e492c7c5533a95946c8"
+  },
+  {
+    "file": "DABUR_1059401.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_43752_100331_02052019063051_WEB.xml",
+    "cached": true,
+    "sha256": "e4e43179f51e5101425e32b0efdc21c7bd1b3cb80a7fb6c0f920c07bb0fb4e44"
+  },
+  {
+    "file": "DABUR_1039067.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_34748_11987_28052018112012_WEB_2.xml",
+    "cached": true,
+    "sha256": "454eb56f36de1e0ea8d4e40b1d849de624bdaf7a45415ab8562c3835c64e7f76"
+  },
+  {
+    "file": "DABUR_integrated_156029.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1664481_07052026053844_WEB.xml",
+    "cached": true,
+    "sha256": "46b1536548da2ae8434ded519808d594a8784811901efb0c94d4624523d2f4d4"
+  },
+  {
+    "file": "DABUR_integrated_89680.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1433549_07052025110450_WEB.xml",
+    "cached": true,
+    "sha256": "3d5f3b0156229c5fcc67a36fd26c9f2d66472481244b0cf95f8555da472ef3d0"
+  },
+  {
+    "file": "DRREDDY_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=DRREDDY&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "0fbe20d2c74744dd19b351564c78595c183cf62e2b9b1ab8959e97a483c9b5d8"
+  },
+  {
+    "file": "DRREDDY_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=DRREDDY&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "d75449d257c3af59d4099ae8d0ce980fb2d16cb9c8cfcbd2faccfa511e49dbfb"
+  },
+  {
+    "file": "DRREDDY_1170571.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_105407_1117456_07052024082051.xml",
+    "cached": true,
+    "sha256": "394afc738de8491afd0b1a899b751530e2cb61c2bd2d8fc33292cdd055a39b81"
+  },
+  {
+    "file": "DRREDDY_1146573.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_91495_840393_10052023074616.xml",
+    "cached": true,
+    "sha256": "c4165d5d480d527918cbdde9cbe08478aab7980e461822e44361719b8f30b4cf"
+  },
+  {
+    "file": "DRREDDY_1133456.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_84804_656860_19052022050401_WEB.xml",
+    "cached": true,
+    "sha256": "03fbe5c66dc5146380908d36e2e6fd5e0ffd0c1a1f7c426a8b39a21648265ea4"
+  },
+  {
+    "file": "DRREDDY_1107548.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_69956_447897_14052021024335_WEB.xml",
+    "cached": true,
+    "sha256": "3a86ef66101a6c5b5a2448b30062bde7227458a8a25dd78a7773e9a1170eee0f"
+  },
+  {
+    "file": "DRREDDY_1081899.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_55220_259820_20052020032406_WEB.xml",
+    "cached": true,
+    "sha256": "0af18026cd8408a83ea8fd1af07ae8ce98dc76204f1f90005abff79318ce7c14"
+  },
+  {
+    "file": "DRREDDY_1060744.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_44335_102656_17052019060913_WEB.xml",
+    "cached": true,
+    "sha256": "fb4810bff7ba719a0e9d7e903145fe52d83d94b6c1c84d2d298521649ee38bdf"
+  },
+  {
+    "file": "DRREDDY_1041356.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_35456_10452_22052018030553_WEB.xml",
+    "cached": true,
+    "sha256": "cb887959972e1868b1d90c0644a8a19d6b0d2d6652ecee8ec2f0d848a45a356d"
+  },
+  {
+    "file": "DRREDDY_integrated_156937.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1666026_12052026053708_WEB.xml",
+    "cached": true,
+    "sha256": "32c3fa2c75fb483dfccb45b99aebd0cd1e25760619387bb9e976532bdb1af4ee"
+  },
+  {
+    "file": "DRREDDY_integrated_90097.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1435419_09052025093151_WEB.xml",
+    "cached": true,
+    "sha256": "709e77fb54e079ce4bfe8a90706e61b58b94edb12992297955b4abbd222f7f08"
+  },
+  {
+    "file": "EICHERMOT_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=EICHERMOT&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "9ceb7d739d71a4155477f786ff04f44d13af6b9eb98a5828a76b1134aaa5755f"
+  },
+  {
+    "file": "EICHERMOT_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=EICHERMOT&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "f19317c79b42f939b849bbf2aa3a5a2a0fb34e1647206dc5ccf7ee907f8fbd7f"
+  },
+  {
+    "file": "EICHERMOT_1171167.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_105710_1120982_11052024015506.xml",
+    "cached": true,
+    "sha256": "a2d83631d4d7134b758e0e226c850d41af4131e18e6e7cef1debe0589c1d99fd"
+  },
+  {
+    "file": "EICHERMOT_1146741.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_91580_841281_12052023025601.xml",
+    "cached": true,
+    "sha256": "fbfa10583fae7b5d05eb89fe5337b05fc41861a58142a25ef9000ce6c82bcf13"
+  },
+  {
+    "file": "EICHERMOT_1132874.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_84509_654754_14052022041436_WEB.xml",
+    "cached": true,
+    "sha256": "0376bfc3a5316ad4a679b327cc2c022de1f8f97e64440e6099d2ec68f9c4921f"
+  },
+  {
+    "file": "EICHERMOT_1108729.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_70548_452346_28052021123028_WEB.xml",
+    "cached": true,
+    "sha256": "55341c82943e4b5a965a18bab7611462fcdfaf262058fff75b18c2f1c0799f8e"
+  },
+  {
+    "file": "EICHERMOT_1083074.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_55812_265144_12062020064059_WEB.xml",
+    "cached": true,
+    "sha256": "9e68a0a8de4604b109e26045000a75476caf863c33fc0ceb9116e23e61b6fea0"
+  },
+  {
+    "file": "EICHERMOT_1060041.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_44025_101398_10052019082408_WEB.xml",
+    "cached": true,
+    "sha256": "496bc22c472dbeb71ef0dc76e6de181eb4825972e8a8c75027950870aa7d3698"
+  },
+  {
+    "file": "EICHERMOT_1039794.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_34985_8902_10052018020106_WEB.xml",
+    "cached": true,
+    "sha256": "de476117811cc6d653cc5a4278504adbe11603f4bde4d4981ba43ca3d7c9761a"
+  },
+  {
+    "file": "EICHERMOT_integrated_160390.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1671747_22052026090339_WEB.xml",
+    "cached": true,
+    "sha256": "8d35ba2f0a655a61e682c4ab6eb90b13a6bcc1e20364bccd0eb6403be64ebefd"
+  },
+  {
+    "file": "EICHERMOT_integrated_90893.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1439229_14052025100103_WEB.xml",
+    "cached": true,
+    "sha256": "042970dc3bbc72573a8ad7eadc419ffe4c8ea4252bc4228d08ed6fdf6e0f8143"
+  },
+  {
+    "file": "GAIL_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=GAIL&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "f8d5dfeb87e354dc368167acf87a757bb87ea9f0fc967744be68fa9790a7be81"
+  },
+  {
+    "file": "GAIL_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=GAIL&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "3ad34d42b7e041bf5dce882489aacaf09a3c4de56c436fa0208085f635b8e1bc"
+  },
+  {
+    "file": "GAIL_1171914.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_106094_1126810_16052024051958.xml",
+    "cached": true,
+    "sha256": "d6d4528e6ae3462c91a67d9fab17f54e904f246ed5a8d2a23c4567364b02a195"
+  },
+  {
+    "file": "GAIL_1147692.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_92057_846527_19052023012612.xml",
+    "cached": true,
+    "sha256": "fa3fbf4eb5621fade0b7825b1637f99651db184d306cb1e3c8857a77c4646292"
+  },
+  {
+    "file": "GAIL_1135916.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_86038_664790_28052022123743_WEB.xml",
+    "cached": true,
+    "sha256": "50e20f1dce8fc831ed360deb3312562b743905c72cfba1f12512e341c08ff1e4"
+  },
+  {
+    "file": "GAIL_1109788.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_71079_457279_10062021015744_WEB.xml",
+    "cached": true,
+    "sha256": "43155675cc42dd6cf111eb6952fa35543177639b4fba3d5088701d7b43fd8ff2"
+  },
+  {
+    "file": "GAIL_1084248.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_56404_268275_24062020063403_WEB.xml",
+    "cached": true,
+    "sha256": "e586f80790f883acb68eb5ad52f5cf57061787e35f1ef52cf85861fde134ab1e"
+  },
+  {
+    "file": "GAIL_1063449.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_45437_106711_30052019041336_WEB.xml",
+    "cached": true,
+    "sha256": "7dc0084478bea911e42e13751020fb537df3b9464f557e3a1c919ce3653c3dd3"
+  },
+  {
+    "file": "GAIL_1042088.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_35676_11408_25052018020041_WEB.xml",
+    "cached": true,
+    "sha256": "9e630df7cc217fb67dcb32893d429cc0bc955ce01599cb154becc6d1b99bd3bf"
+  },
+  {
+    "file": "GAIL_integrated_159815.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1670853_21052026072228_WEB.xml",
+    "cached": true,
+    "sha256": "c0cc4057070c6273d2c8d29bf9c172c7a79fb496d3b55d55033606c8435ae0d6"
+  },
+  {
+    "file": "GAIL_integrated_90510.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1437506_13052025055228_WEB.xml",
+    "cached": true,
+    "sha256": "2ba5b437b6cc1570e3352a61ab9e7b874568eefa00777c0ed7f107c1787b8859"
+  },
+  {
+    "file": "GRASIM_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=GRASIM&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "76c1b4e18191d1f581e5a418f3b775bfd93258f56f5d3930a738f0e008b34020"
+  },
+  {
+    "file": "GRASIM_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=GRASIM&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "fd228de5b3f039020d8b61fb23673316a2b886a8dfe896fdb9715a8e89b3bc23"
+  },
+  {
+    "file": "GRASIM_1173275.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_106788_1135017_23052024011818.xml",
+    "cached": true,
+    "sha256": "d14659c84b0d207b0ee1949aaa6c84a6e63c6490a738bd461eaf929919f26d59"
+  },
+  {
+    "file": "GRASIM_1149264.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_92858_853402_26052023044036.xml",
+    "cached": true,
+    "sha256": "9cb36f9c7357ae31cda0a7d529dd6711e65c4c53d8a5547f232428824e806253"
+  },
+  {
+    "file": "GRASIM_1134326.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_85241_659735_24052022072025_WEB.xml",
+    "cached": true,
+    "sha256": "68405f1b042d8230e178612098a7c91e240460d49aa6a0530d9472c7d0b792cc"
+  },
+  {
+    "file": "GRASIM_1108229.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_70297_450514_24052021054453_WEB.xml",
+    "cached": true,
+    "sha256": "46bed46c12cf4025e1ba4de3aa482346d1533b6c16cd1b96f3dd85b79c4aaf3b"
+  },
+  {
+    "file": "GRASIM_1083136.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_55844_265301_13062020052944_WEB.xml",
+    "cached": true,
+    "sha256": "5be7f680a7bd1f188b83c5b9006ef8ece4a57aef6f649f81e3a0fdb63635a964"
+  },
+  {
+    "file": "GRASIM_1061790.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_44751_104173_24052019063257_WEB.xml",
+    "cached": true,
+    "sha256": "16e706149aeb6a9dfbcb5b7c2c759989be14c05ac35613bf30a239ad3063c363"
+  },
+  {
+    "file": "GRASIM_1042039.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_35664_11382_25052018123932_WEB.xml",
+    "cached": true,
+    "sha256": "15a1e13aff6bc3f084475aa7ceb544207d3dd351f9ee167089bb42381ce3e851"
+  },
+  {
+    "file": "GRASIM_integrated_159221.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1669869_20052026033910_WEB.xml",
+    "cached": true,
+    "sha256": "dd844172a9f441b077ac632a9506f24b27cef269c938350186c40765794a73b6"
+  },
+  {
+    "file": "GRASIM_integrated_98324.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1466845_16062025114422_WEB.xml",
+    "cached": true,
+    "sha256": "34c390a19d948bfe6bed9889ef1a088590dfa90852376f06153bb65c0f459fe2"
+  },
+  {
+    "file": "GRASIM_integrated_93043.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1448054_22052025102144_WEB.xml",
+    "cached": true,
+    "sha256": "ec5421a03f595f191d4d0167c7b65ec0806e5e8e09bb3ce424f8d36d8cb8fccf"
+  },
+  {
+    "file": "HCLTECH_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=HCLTECH&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "343d6c1d355493237c4f11246f9de08d36cfc1617135247ce46829528065ac0d"
+  },
+  {
+    "file": "HCLTECH_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=HCLTECH&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "cc9ee378dc66594831eac150691fac76a85c6bdca4f44bc4a31acf21c00c8fbc"
+  },
+  {
+    "file": "HCLTECH_1169562.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_104835_1109692_26042024084717.xml",
+    "cached": true,
+    "sha256": "6a97ac9f69daf58812c6c53c3d07e5b5a3a6f4ed20234113265eaa0691ce1ad5"
+  },
+  {
+    "file": "HCLTECH_1145162.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_90754_828984_20042023070748.xml",
+    "cached": true,
+    "sha256": "46c8530d32fb2a390116965510a6055abd6bf53c711f1fb691bb129a887dd548"
+  },
+  {
+    "file": "HCLTECH_1131026.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_83567_646819_21042022083745_WEB.xml",
+    "cached": true,
+    "sha256": "e966a4c079fe1cc3027a3fbf3eb200227ed3a624fdb92ca56369278e32cd2780"
+  },
+  {
+    "file": "HCLTECH_1106513.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_69425_443427_24042021023503_WEB.xml",
+    "cached": true,
+    "sha256": "ed8eb7ee8efdca8633777e329566fcb170307370815ec909c9ac9fd74b6b71e1"
+  },
+  {
+    "file": "HCLTECH_1081493.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_55014_249382_07052020021945_WEB.xml",
+    "cached": true,
+    "sha256": "d5b5fa30f00008f8a31c67c9b6cb0d0349d73227acaad0086a298df55f17a44e"
+  },
+  {
+    "file": "HCLTECH_1059930.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_43975_101166_10052019010546_WEB_2.xml",
+    "status": 404,
+    "request": null
+  },
+  {
+    "file": "HCLTECH_1039124.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_34770_7910_02052018060801_WEB_2.xml",
+    "cached": true,
+    "sha256": "daf4d1572d40bf1bd61f902123c8ba3f39ea8848eb6a7b8e90ce9ece9c9d36e3"
+  },
+  {
+    "file": "HCLTECH_integrated_151938.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1656676_21042026070943_WEB.xml",
+    "cached": true,
+    "sha256": "f2fa3b023c43e37532a2dbc693d736c184d9c8da3f09d96329de1b06966f2bcc"
+  },
+  {
+    "file": "HCLTECH_integrated_86087.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1422697_22042025070125_WEB.xml",
+    "cached": true,
+    "sha256": "1b24e0b8d0b15c34846dfcc560cfd6a20edb3bc32c8f4c8afddf311e5a2a769a"
+  },
+  {
+    "file": "HDFCBANK_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=HDFCBANK&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "7a7cc3c48528e91c6df8da64565131cc08654354458bb207505fa7622b6dbcf8"
+  },
+  {
+    "file": "HDFCBANK_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=HDFCBANK&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "4fb32b97d14ec8c88a46715197deb19d3146945ca99a043a3851fb1b242498ef"
+  },
+  {
+    "file": "HDFCBANK_1169189.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_104624_1105245_21042024035835.xml",
+    "cached": true,
+    "sha256": "4168d3542b232b35100a82faa1aaafd13666bdede2d919f88723ee7f1f90c3a4"
+  },
+  {
+    "file": "HDFCBANK_1145091.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_90716_821269_17042023022531.xml",
+    "cached": true,
+    "sha256": "689ca729dc65f8eee31a31455981fb81657b53c4486e7da11a5773117210df04"
+  },
+  {
+    "file": "HDFCBANK_1130956.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_83532_638252_18042022023249_WEB.xml",
+    "cached": true,
+    "sha256": "f6ee5ffcab852c46fc22c46fae63475638b4456275531b9f2dfde84481de76a2"
+  },
+  {
+    "file": "HDFCBANK_1081310.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_54910_241140_20042020120448_WEB.xml",
+    "cached": true,
+    "sha256": "bb3ed630c290e1b3abb8001770f67496a22cde3ee3ccb9fdd1fb0bce4ca84604"
+  },
+  {
+    "file": "HDFCBANK_1059037.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_43594_98455_22042019125125_WEB_2.xml",
+    "cached": true,
+    "sha256": "68fbcf557516e1477aebd0c61f236f73f07f1ada2be064da9d667e9a887fb0cb"
+  },
+  {
+    "file": "HDFCBANK_integrated_151456.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_BANKING_1654391_18042026073048_WEB.xml",
+    "cached": true,
+    "sha256": "de471a6c3e9af6fa4b93c229f53ce77244eaf664db91b9f0039b6d93472ee3f1"
+  },
+  {
+    "file": "HDFCBANK_integrated_85666.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_BANKING_1420333_19042025104215_WEB.xml",
+    "cached": true,
+    "sha256": "710ee09de6dfacea74c5daaf1b7a7f8b989b3cf85ed8778e32a62db49fbabce3"
+  },
+  {
+    "file": "HEROMOTOCO_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=HEROMOTOCO&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "d950db69707b75b0245bffbf65284021c61e12e9d1447a5f37276c89c2a32935"
+  },
+  {
+    "file": "HEROMOTOCO_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=HEROMOTOCO&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "1e64d4bf1126c0c7480e2e714c867bbcadbbcd9c0b3de7b65af54a1ca8c28ed0"
+  },
+  {
+    "file": "HEROMOTOCO_1170729.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_105487_1118473_08052024083952.xml",
+    "cached": true,
+    "sha256": "bbd4183f1ea1dc7dd24f2dab8fa53bf60bccbe5c40c941217c4b70ab554ab157"
+  },
+  {
+    "file": "HEROMOTOCO_1146039.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_91212_837593_05052023101040.xml",
+    "cached": true,
+    "sha256": "fbbec94ea52107bfdf38c255a4cac5881072032141a30967597d3bcb26d1c6d9"
+  },
+  {
+    "file": "HEROMOTOCO_1131714.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_83920_650881_04052022042719_WEB.xml",
+    "cached": true,
+    "sha256": "ca7222bf48f7b1d93e02ed2e5758a70e40fbe0ed8ce0b62a5e21b788dc7643d8"
+  },
+  {
+    "file": "HEROMOTOCO_1107146.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_69754_446384_07052021055058_WEB.xml",
+    "cached": true,
+    "sha256": "0ba85c2233aef7e706aa33d37e2fb5a6e6a6a1448dfae1b8b7d83b00b3ba0265"
+  },
+  {
+    "file": "HEROMOTOCO_1082938.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_55743_264535_10062020044247_WEB.xml",
+    "cached": true,
+    "sha256": "cdda90a896f29f912c5848165ef78622971aee80529b1002fbe2693fa88766c3"
+  },
+  {
+    "file": "HEROMOTOCO_1059194.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_43660_99669_27042019032910_WEB.xml",
+    "cached": true,
+    "sha256": "638654a0a71aa85bb25f2a8f0215fcf0fa18bf68ee031334de098252c3c5523e"
+  },
+  {
+    "file": "HEROMOTOCO_1039255.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_34812_8160_04052018102559_WEB.xml",
+    "cached": true,
+    "sha256": "e0f812ac9dd5ea4a40d6e6697f2fa582e44c782d77b917863f19ce9f440c3dec"
+  },
+  {
+    "file": "HINDALCO_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=HINDALCO&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "9eba9a9699f31cec176d9049837cd1bbdace99da412f3324a1a613832a4ddab2"
+  },
+  {
+    "file": "HINDALCO_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=HINDALCO&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "10672a930847261bc4550005d6ce038323446da417e772d01abd56bfb03db6dc"
+  },
+  {
+    "file": "HINDALCO_1173792.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_107050_1137667_24052024054602.xml",
+    "cached": true,
+    "sha256": "f441fa4ab523bc988de28fd4bea0cada958fa83aa52cea1398386501891b1608"
+  },
+  {
+    "file": "HINDALCO_1148732.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_92585_851614_25052023011341.xml",
+    "cached": true,
+    "sha256": "1e0402a7fb3a1d1603b446e98631105e7414aedd31b6b30cf12e59103757e946"
+  },
+  {
+    "file": "HINDALCO_1136568.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_86366_666561_30052022115541_WEB.xml",
+    "cached": true,
+    "sha256": "3112b05c5771bbf8f6624f2638371351077ff58ab08af07d9fac663ab1f47fd4"
+  },
+  {
+    "file": "HINDALCO_1109730.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_71050_456894_09062021032702_WEB.xml",
+    "cached": true,
+    "sha256": "669275b9b420171af14e6a4f84c9bea0e9afa000a111fbf631e0e8f040f6338e"
+  },
+  {
+    "file": "HINDALCO_1083124.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_55838_265271_13062020024222_WEB.xml",
+    "cached": true,
+    "sha256": "9b964965fd75fa5133dd0eee1f718c8602e2a77f4699deeff48d84889050248f"
+  },
+  {
+    "file": "HINDALCO_1061068.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_44457_103182_21052019124645_WEB.xml",
+    "cached": true,
+    "sha256": "ea1ccf560da7ee5ec4922eb84dcb0c6b0fb11fb3c2e75d6e4f8d5be24edc1883"
+  },
+  {
+    "file": "HINDALCO_1040894.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_35330_10094_18052018053251_WEB.xml",
+    "cached": true,
+    "sha256": "7eba32d64f8ee9fd932b6a26dd984af50ab400d3ea0d7f86097be97a7bcffe0c"
+  },
+  {
+    "file": "HINDALCO_integrated_160280.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1671563_22052026065202_WEB.xml",
+    "cached": true,
+    "sha256": "37fa799df67bb4660b7abc334dc1533c2b1d5d4873f970c791e1f2953c141217"
+  },
+  {
+    "file": "HINDALCO_integrated_92136.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1444292_20052025050441_WEB.xml",
+    "cached": true,
+    "sha256": "b97c1eb6c004cb2a75126b1b89300790575e729817ca570f695a318289dcd9ee"
+  },
+  {
+    "file": "HINDUNILVR_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=HINDUNILVR&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "43dd7a180fb390e874f396a2dd4e092c9b1394893e4064d4943bbbb0104e0931"
+  },
+  {
+    "file": "HINDUNILVR_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=HINDUNILVR&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "fd77c72dd92b1d5ae8eb32a9f5e40a115e239be7272077125a806225155170df"
+  },
+  {
+    "file": "HINDUNILVR_1169312.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_104688_1107608_24042024090551.xml",
+    "cached": true,
+    "sha256": "f5ca1dd6ad10c654df9fa68d974fdd0d9b40c0cf6a5abce4f77188ced804b8fc"
+  },
+  {
+    "file": "HINDUNILVR_1145501.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_90934_834226_28042023092900.xml",
+    "cached": true,
+    "sha256": "38d931a226d4196b653080dacd4b0d18a036a33abc364db668a8b21321c20923"
+  },
+  {
+    "file": "HINDUNILVR_1131278.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_83699_648985_28042022033852_WEB.xml",
+    "cached": true,
+    "sha256": "c596e47bec01abefd60a5e0ba6e9159e88579eb7a61077d824477798e333f0e2"
+  },
+  {
+    "file": "HINDUNILVR_1106737.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_69543_444926_29042021102728_WEB.xml",
+    "cached": true,
+    "sha256": "25867fec69765bab0d9e44725e87694c7e45f80acc886bec850db08e2f827285"
+  },
+  {
+    "file": "HINDUNILVR_1081412.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_54970_246283_30042020071819_WEB.xml",
+    "cached": true,
+    "sha256": "588fc349803eb6ce1e6c4d3fd25a97f7e52aaf5e32a6a2372183c17e137ea609"
+  },
+  {
+    "file": "HINDUNILVR_1059501.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_43797_100479_03052019063834_WEB.xml",
+    "cached": true,
+    "sha256": "490a2c540dda05978c17f648d8aeae23e4f9cb0f70a1f25c888bbf025fda183e"
+  },
+  {
+    "file": "HINDUNILVR_1040317.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_35157_9437_15052018013448_WEB.xml",
+    "cached": true,
+    "sha256": "31d7c72ade457c070998c077ec2a9fc578e95abb89e616001f28153208dc0804"
+  },
+  {
+    "file": "HINDUNILVR_integrated_155083.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1662632_30042026090622_WEB.xml",
+    "cached": true,
+    "sha256": "5f302861c829d8c192f67499b44cee25bbbb41c67df9ea352a0bab84cb3b3530"
+  },
+  {
+    "file": "HINDUNILVR_integrated_86636.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1424266_24042025080605_WEB.xml",
+    "cached": true,
+    "sha256": "a4cfe1cc1ac26e6f92dd4a5bce714deb9106ca48315941aa95e8ad4c96e3738e"
+  },
+  {
+    "file": "ICICIBANK_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=ICICIBANK&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "48adba07f6c8349b3bca5f30ff010ed20192fc56c8e5c32051c09ef3842a0c79"
+  },
+  {
+    "file": "ICICIBANK_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=ICICIBANK&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "ab0c24fc58a3e6584843fea952492add676a6ebc7de3bcefcfe43103e2018014"
+  },
+  {
+    "file": "ICICIBANK_1169631.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_104871_1110097_27042024050106.xml",
+    "cached": true,
+    "sha256": "4c8f465988afa48927b747889c30a3572d6d7ccc9dc302fb25210415593f67a0"
+  },
+  {
+    "file": "ICICIBANK_1145241.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_90797_831817_22042023073340.xml",
+    "cached": true,
+    "sha256": "9acbc915bb0c321bc9738b3e8bf49bde0ddd4a3cca4a2d8803a51b384b70c13f"
+  },
+  {
+    "file": "ICICIBANK_1131092.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_83602_647548_23042022081124_WEB.xml",
+    "cached": true,
+    "sha256": "5979a6448584adbf203afce11b75ef9dcc8f88bb08dbdc082bf58ab8cef0d35a"
+  },
+  {
+    "file": "ICICIBANK_1081587.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_55062_251300_09052020072343_WEB.xml",
+    "cached": true,
+    "sha256": "22f0f6e132296682071b53e561a8e4ad3133fe8de15e0ecddce3e927b2f32158"
+  },
+  {
+    "file": "ICICIBANK_1060163.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_44076_101567_13052019124634_WEB.xml",
+    "cached": true,
+    "sha256": "95a09e2ade4cb7604b65e048e40d2fe3f1519e0f699b6adabba762272f378dc2"
+  },
+  {
+    "file": "ICICIBANK_1039735.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_34967_8823_09052018070952_WEB.xml",
+    "cached": true,
+    "sha256": "870601bbf5e01fd5e6ebb38aca8e89d589c7af106585d2f41ee1cd13f30bf2bb"
+  },
+  {
+    "file": "ICICIBANK_integrated_151430.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_BANKING_1654325_18042026060833_WEB.xml",
+    "cached": true,
+    "sha256": "cf8211aad9a1dfb0eade21bb57c2688b340a77a65644f17208279e39ce712814"
+  },
+  {
+    "file": "ICICIBANK_integrated_85611.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_BANKING_1420280_19042025082141_WEB.xml",
+    "cached": true,
+    "sha256": "209c9999a08473e0fcb3ce5c4b46405a26aa0446a7aed800a1fa8d167087ebad"
+  },
+  {
+    "file": "INDUSINDBK_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=INDUSINDBK&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "116df7e60ed9e5ad14446218fa0702a2726be60aae64f1c116f9c9ec4fb88d35"
+  },
+  {
+    "file": "INDUSINDBK_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=INDUSINDBK&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "eab378e81f7db1e31771598f67100b233bae789c2dec14f80ba86937315f5b9d"
+  },
+  {
+    "file": "INDUSINDBK_1169356.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_104710_1108313_25042024070435.xml",
+    "cached": true,
+    "sha256": "71f1785ae9ba914370d40725d8e7c906fe91c8fd75a065d922c34b604a2f1b94"
+  },
+  {
+    "file": "INDUSINDBK_1145266.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_90810_832256_24042023062840.xml",
+    "status": 404,
+    "request": null
+  },
+  {
+    "file": "INDUSINDBK_1131453.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_83789_649859_30042022121044_WEB.xml",
+    "cached": true,
+    "sha256": "4f46815fdbf99728002f3da9c51fff5ede5d07361398f91985e737b06f63a08b"
+  },
+  {
+    "file": "INDUSINDBK_1081400.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_54963_245508_29042020051248_WEB.xml",
+    "cached": true,
+    "sha256": "f10dda8959e7df554615933b8c01e70b343f09ddfa300ea18c5d691f8d58b064"
+  },
+  {
+    "file": "INDUSINDBK_integrated_152773.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_BANKING_1658694_24042026075123_WEB.xml",
+    "cached": true,
+    "sha256": "ae5b00c47cce6fa83b9e2eee027e8adb9a2aabf1c4208a5eb4adf566219a6038"
+  },
+  {
+    "file": "INDUSINDBK_integrated_92619.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_BANKING_1446340_21052025092050_WEB.xml",
+    "cached": true,
+    "sha256": "e5a172b60d580ba9170010c88f05ee3c877819024ebf7d42968edcc4c5c19791"
+  },
+  {
+    "file": "INFY_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=INFY&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "53ecf87a86a88e0568fbe41cc837c10d3232e103f93de0c168823800c93183ba"
+  },
+  {
+    "file": "INFY_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=INFY&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "62974ea4ebb245434abbe8565de89a8ea350df12d3cdc32f8b8deece05794fc0"
+  },
+  {
+    "file": "INFY_1169124.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_104589_1099938_19042024112830.xml",
+    "cached": true,
+    "sha256": "76b50cfcb43c474f7db3203627fe300165dcc54e7890d71eae416d7b838bb977"
+  },
+  {
+    "file": "INFY_1145075.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_90708_818546_14042023103840.xml",
+    "cached": true,
+    "sha256": "13d23ab318af8be5bb76f316306aa6c79bb1014b72e8bef1080a68ac749967ab"
+  },
+  {
+    "file": "INFY_1130928.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_83516_634679_13042022084838_WEB.xml",
+    "cached": true,
+    "sha256": "cecc99280ea7092ff00a4f00e8dafc949f892bfc3d72f2733b5750f4571f9b5a"
+  },
+  {
+    "file": "INFY_1106342.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_69333_434774_14042021095204_WEB.xml",
+    "cached": true,
+    "sha256": "d682e74cb4cba905b547f741d960fcef607e63a06d30b6390fee630330b65a1d"
+  },
+  {
+    "file": "INFY_1081314.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_54913_241950_21042020033738_WEB.xml",
+    "cached": true,
+    "sha256": "c3c095dfa4cf798303a1a662c30311350171d6c5ebf115defc14f36208a6dee5"
+  },
+  {
+    "file": "INFY_1068114.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_48345_135245_05092019030633_WEB.xml",
+    "cached": true,
+    "sha256": "42cb9e19070e0a694a59135107f23691e732300cb4cbb280a824e0c31ca2a789"
+  },
+  {
+    "file": "INFY_integrated_152465.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1658040_23042026090154_WEB.xml",
+    "cached": true,
+    "sha256": "6f1e964f2ffa30952e4b969d96933e04c85bb04ae24463456ee87b801de32b73"
+  },
+  {
+    "file": "INFY_integrated_85350.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1417999_17042025113633_WEB.xml",
+    "cached": true,
+    "sha256": "3925e8c16ed0c7f23001a92f41916ca86485b2327878f3586443880dc3399034"
+  },
+  {
+    "file": "ITC_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=ITC&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "df236555459ecd92412803443c847991eadedc8eb6b90d73932c006580ea3f02"
+  },
+  {
+    "file": "ITC_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=ITC&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "583821fd561b030c5bc2d8d5032eb3dd4e55d4215c5f02e07b202413b166c5de"
+  },
+  {
+    "file": "ITC_1173378.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_106840_1135573_23052024050307.xml",
+    "cached": true,
+    "sha256": "321454511b9bba70fad8e0610f68c672b4a50622917e52bbcb8aa18fc4fd165e"
+  },
+  {
+    "file": "ITC_1147572.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_91997_845894_18052023055947.xml",
+    "cached": true,
+    "sha256": "a2a93d91ab66dc2f554c004b7fdd783d475e36d67eb824d18d962bc364bd547a"
+  },
+  {
+    "file": "ITC_1133302.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_84727_656401_18052022083625_WEB.xml",
+    "cached": true,
+    "sha256": "bad569e98d74c6b83511d98c90ee403c198f36065eabcde2db9add365d112dcc"
+  },
+  {
+    "file": "ITC_1109311.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_70839_454464_01062021085849_WEB.xml",
+    "cached": true,
+    "sha256": "c4dfa2e210f87e2d5114359743dc886e952fd01bd3a4a03e0d496db21dca77b8"
+  },
+  {
+    "file": "ITC_1084868.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_56722_269801_26062020091428_WEB.xml",
+    "cached": true,
+    "sha256": "08c1b1b19a6846ee7440dc6f5803fa81c291ef3cb8ed57bcb4c480631f6943bd"
+  },
+  {
+    "file": "ITC_1060180.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_44082_101604_13052019053750_WEB.xml",
+    "cached": true,
+    "sha256": "4381c9ff1101bafba992712607fec23eefa97fb5f52011add5243eec4391918e"
+  },
+  {
+    "file": "ITC_1040488.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_35210_9663_16052018052854_WEB.xml",
+    "cached": true,
+    "sha256": "a04f8964fe573b8734789174cbe719a53eca311b0d77c04a749a23b67a5e4593"
+  },
+  {
+    "file": "ITC_integrated_159756.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1670766_21052026063229_WEB.xml",
+    "cached": true,
+    "sha256": "366b95ff7cc75b499c447ad0852d8d02233cd290ad4d0fad06b4269480fb23c7"
+  },
+  {
+    "file": "ITC_integrated_92864.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1447370_22052025061857_WEB.xml",
+    "cached": true,
+    "sha256": "669bd636fce025778522d575287de791e521f91c142dd2185027a6b9e04c916e"
+  },
+  {
+    "file": "JSWSTEEL_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=JSWSTEEL&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "6aba00e6cc632adb18fda7b041bca6c030b48c501b728e1393b7b6099a39a503"
+  },
+  {
+    "file": "JSWSTEEL_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=JSWSTEEL&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "0d6ea2b2da9ecf1f37bbed2ea1b89a7102133c87e19045b16f90d61381542ea8"
+  },
+  {
+    "file": "JSWSTEEL_1172273.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_106278_1128892_17052024081236.xml",
+    "cached": true,
+    "sha256": "65be19a95c0ba8070151d914487458b16c3659017c76105fc77725e08434c5ff"
+  },
+  {
+    "file": "JSWSTEEL_1147920.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_92171_847571_19052023095853.xml",
+    "cached": true,
+    "sha256": "5d534a3a5f22185e3a33fbedbe73f2a91eaedada058fb4e60f14cfbbe1f7a816"
+  },
+  {
+    "file": "JSWSTEEL_1135642.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_85901_664098_27052022071701_WEB.xml",
+    "cached": true,
+    "sha256": "c5370a954817287f5ee9a3e5cb4e340f0396fa6fadcf7b39283f33d26b5cc0e0"
+  },
+  {
+    "file": "JSWSTEEL_1108115.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_70240_450134_22052021011216_WEB.xml",
+    "cached": true,
+    "sha256": "e83be8f3ec5953dc45b67a6daf506499c27f0692c391945e0efc64f86de3fbce"
+  },
+  {
+    "file": "JSWSTEEL_1082057.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_55299_260737_23052020013303_WEB.xml",
+    "cached": true,
+    "sha256": "115cae39306922c986e077c2799fc13c222e01843c0ba54f70093dcd5d5f0e3f"
+  },
+  {
+    "file": "JSWSTEEL_1061830.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_44768_104223_24052019072023_WEB.xml",
+    "cached": true,
+    "sha256": "57d73045cecb6bcdb3a1b6bdc789b3ec76d7d4ab5d3d95f5bca855288911750c"
+  },
+  {
+    "file": "JSWSTEEL_1040518.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_35220_9730_16052018083018_WEB_2.xml",
+    "cached": true,
+    "sha256": "1c414f7d680b4b684c49b377806fef6cd92ca4db7d1b62c1f906511a86a5008f"
+  },
+  {
+    "file": "JSWSTEEL_integrated_157679.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1667305_14052026073923_WEB.xml",
+    "cached": true,
+    "sha256": "63595c96e9455d46b74740f4c492f41407ab3f6850468d4c9914ecabaf94406e"
+  },
+  {
+    "file": "JSWSTEEL_integrated_93341.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1449215_23052025071011_WEB.xml",
+    "cached": true,
+    "sha256": "68286d4e5c8a3a5a88664726501dd8180d30d179077c8ac495a9fd0121def94b"
+  },
+  {
+    "file": "LT_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=LT&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "e8c2d50a6d7f48767260cd3cbcfd6a90acb6f5f9a226a6627d5ec24337361787"
+  },
+  {
+    "file": "LT_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=LT&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "ba9d271574998f1478d2c35f406bccdf45caa947de59e63f32e6854daf3fdde0"
+  },
+  {
+    "file": "LT_1170789.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_105517_1118914_09052024035346.xml",
+    "cached": true,
+    "sha256": "740a7424ecdd64b5866932758d1ca4c0b029807ba0d1ddbcbaa9a09595488788"
+  },
+  {
+    "file": "LT_1146600.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_91509_840577_11052023015545.xml",
+    "cached": true,
+    "sha256": "b04590b73d111327869e5f83538bb1f6c4259f5b56fd4803a6526bf7da00f807"
+  },
+  {
+    "file": "LT_1132636.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_84390_653999_13052022015157_WEB.xml",
+    "cached": true,
+    "sha256": "6c869d2742eff4ba5cde8bb7a42152d5ab34ddd2288ce90c32140e2b205a15a7"
+  },
+  {
+    "file": "LT_1107664.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_70014_448201_15052021035514_WEB.xml",
+    "cached": true,
+    "sha256": "2ea9d03685e7beaab5ea49252540a84afb2a4eaeb14a1e46b70a80387158bff7"
+  },
+  {
+    "file": "LT_1082794.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_55671_263942_06062020042122_WEB.xml",
+    "cached": true,
+    "sha256": "8eb5428df305576d4f493c2405fc730e584dcf49445aa8f5f73d97b00f4a0c3a"
+  },
+  {
+    "file": "LT_1060116.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_44055_101499_11052019050818_WEB.xml",
+    "cached": true,
+    "sha256": "f437c85c011d37edc1a0c81ad206fe9e9a0ddf54bd152becfc631d0435fac58f"
+  },
+  {
+    "file": "LT_1043350.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_36054_12521_29052018034031_WEB.xml",
+    "cached": true,
+    "sha256": "6282dc6e372bcb650822b958801fd553750f7e6418f53ec6b418ea205df99855"
+  },
+  {
+    "file": "LT_integrated_155661.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1663820_05052026073236_WEB.xml",
+    "cached": true,
+    "sha256": "235f96d9a3998a78588465e852eee10420ea67b0774de257b3ae919db1ef80c9"
+  },
+  {
+    "file": "MARUTI_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=MARUTI&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "4c7c6553a82c854d298fb02cc536e36745ce5ccfc133e7dc155ec0d5146f4a17"
+  },
+  {
+    "file": "MARUTI_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=MARUTI&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "175eea61676196eb43174aef12981833fa80de096c2c2270bf1b1faab015c49c"
+  },
+  {
+    "file": "MARUTI_1169586.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_104847_1109786_27042024102542.xml",
+    "cached": true,
+    "sha256": "eed4275571a9481e6742685ec4d47941a78e576f1771f66f09ded021d75587ce"
+  },
+  {
+    "file": "MARUTI_1145395.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_90877_833574_27042023124345.xml",
+    "cached": true,
+    "sha256": "6ef1348ea8845f6a546963018ffde7ecffedad207c6a9859be6a63102370b3a2"
+  },
+  {
+    "file": "MARUTI_1131463.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_83794_649898_30042022110851_WEB.xml",
+    "cached": true,
+    "sha256": "0df97630d2dd5d88e415f9467721c7a151156d763bda200be574fe56ac7c7a4b"
+  },
+  {
+    "file": "MARUTI_1106597.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_69470_444161_28042021124403_WEB.xml",
+    "cached": true,
+    "sha256": "0b04f00433dba3c3d358b3e986b38ebfb931d3b990194df84bcc3702c0bbe9da"
+  },
+  {
+    "file": "MARUTI_1081675.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_55106_255491_14052020105317_WEB.xml",
+    "cached": true,
+    "sha256": "ec515daf386c6f7eccf1a10ca92a972fe00927a5d7314e479036933e7722e2ab"
+  },
+  {
+    "file": "MARUTI_1059132.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_43633_99344_26042019015328_WEB_2.xml",
+    "cached": true,
+    "sha256": "751b1331a2e9b01cd5161d0ed9d5d2ca0f2aa183d7dcac5c39f670ef2324f77c"
+  },
+  {
+    "file": "MARUTI_integrated_153810.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1660590_28042026074740_WEB.xml",
+    "cached": true,
+    "sha256": "e3930de091a3efe1c1bd994d33c58dadae8cbfb8afcd4f637f83485b37eb7702"
+  },
+  {
+    "file": "NTPC_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=NTPC&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "e119fb79812360ed075485fb8e7d9256cbe560f497f05d8893627ee20235a944"
+  },
+  {
+    "file": "NTPC_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=NTPC&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "b6362b54f56c3246ad0c8d81b2153739958c83904f700a82d386679b8c78a2fb"
+  },
+  {
+    "file": "NTPC_1174038.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_107178_1138648_25052024122113.xml",
+    "cached": true,
+    "sha256": "9f73b396842bfd80610652f18137694994c589354c248140c2a33319b43f06fc"
+  },
+  {
+    "file": "NTPC_1147916.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_92169_847567_19052023095834.xml",
+    "cached": true,
+    "sha256": "d92800bed703f7f47227e108d89db172a19691a9d9f3928e57b32b87b0940357"
+  },
+  {
+    "file": "NTPC_1133702.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_84926_657706_20052022064942_WEB.xml",
+    "cached": true,
+    "sha256": "99c210765ed9ef62280faa44f063b6b641acf115b57afcd1287ffbd2bab7441e"
+  },
+  {
+    "file": "NTPC_1110681.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_71546_461406_19062021072847_WEB.xml",
+    "cached": true,
+    "sha256": "209a1d3c87011aca03eb12c764a70e24ca77fc839c7ff885a9d620b7fdc397e1"
+  },
+  {
+    "file": "NTPC_1085206.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_56891_270485_27062020093942_WEB.xml",
+    "cached": true,
+    "sha256": "74607c7ab39ce4dbc4fcb27050739fddae7c12d50094fe877cafad7feb56140c"
+  },
+  {
+    "file": "NTPC_1062106.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_44882_104542_26052019055912_WEB.xml",
+    "cached": true,
+    "sha256": "69896d43da6ffb6e912df5ecf934c21e7e502c988284e77c211b069bccbf6462"
+  },
+  {
+    "file": "NTPC_1046325.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_36857_16473_02072018114432_WEB.xml",
+    "cached": true,
+    "sha256": "d6e3285d683e900583ee8f89040f7aa260f9b3d281a55ee765d19c0f6bfe8e34"
+  },
+  {
+    "file": "NTPC_1046324.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_36857_16473_02072018114432_WEB.xml",
+    "cached": true,
+    "sha256": "d6e3285d683e900583ee8f89040f7aa260f9b3d281a55ee765d19c0f6bfe8e34"
+  },
+  {
+    "file": "NTPC_integrated_160541.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1671961_23052026040706_WEB.xml",
+    "cached": true,
+    "sha256": "817d8a7c8774710b7e76758573dc130c17888d26ff3c3398e50a71a0a8ec7d9b"
+  },
+  {
+    "file": "NTPC_integrated_93598.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1450233_24052025064553_WEB.xml",
+    "cached": true,
+    "sha256": "b503f92865e0a0b21ca30bbed6b705f9c23d2207da4890b0869bccf0fba440c1"
+  },
+  {
+    "file": "ONGC_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=ONGC&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "96e792daa28eb3d0bfd5f9e0515f9748088cd5cc4362bd79cae4a2a627b5e9ea"
+  },
+  {
+    "file": "ONGC_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=ONGC&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "cd3e9239510305bc2d947caf90eb847b73a23135a2db6aae2c4929a742b998b4"
+  },
+  {
+    "file": "ONGC_1172765.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_106527_1131731_21052024050011.xml",
+    "cached": true,
+    "sha256": "a5c6dfdd1a9659a496ce4ce1071d8ae149a4bb8c213690ca6f44cd85fe3b287b"
+  },
+  {
+    "file": "ONGC_1149648.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_93052_854722_27052023125804.xml",
+    "cached": true,
+    "sha256": "6b61b27148b46794635c385fef7d62e5fc600896aaae41ac36af2eb727bb5ff1"
+  },
+  {
+    "file": "ONGC_1111259.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_71834_464229_25062021061132_WEB.xml",
+    "cached": true,
+    "sha256": "725bdf5b9dd1a2484f60846c55e02b10a955ed786f91eed43d0efc5025e2028c"
+  },
+  {
+    "file": "ONGC_1086372.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_57480_272758_01072020011103_WEB.xml",
+    "cached": true,
+    "sha256": "557f95964a7b094ceda9324e113ee0334bb086b4279608126e1635c5766efd55"
+  },
+  {
+    "file": "ONGC_1064477.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_45836_107749_31052019060438_WEB.xml",
+    "cached": true,
+    "sha256": "bc84414442c3c1699ed7b1ab1c4f7b47e57137aea8f34a6efcaae6491fb4bf1e"
+  },
+  {
+    "file": "ONGC_1045534.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_36639_14070_31052018061922_WEB.xml",
+    "cached": true,
+    "sha256": "0d2b4d00b0ec87c109e25063781237e857bad1074a72ff83a1d9df2009f05b20"
+  },
+  {
+    "file": "ONGC_integrated_161634.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1673578_26052026093743_WEB.xml",
+    "cached": true,
+    "sha256": "3562881c87163906cc797e96e7ea2cffa9802a650a0f3a78bc50abe59d29837c"
+  },
+  {
+    "file": "ONGC_integrated_92646.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1446448_21052025111055_WEB.xml",
+    "cached": true,
+    "sha256": "22db413f96ba4f2a2343bb73fdecb32b20bb098123bc69d2b6f430ab0a4088ed"
+  },
+  {
+    "file": "PIDILITIND_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=PIDILITIND&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "9faa595e316300a59c2e418b76b9d1ff6b07e6a6ad2c3b0aa09f4aef7a13627d"
+  },
+  {
+    "file": "PIDILITIND_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=PIDILITIND&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "32f4458cd2cc4586893589adc3a848f86d19eca466c2f843ec146d18d4fcff03"
+  },
+  {
+    "file": "PIDILITIND_1170605.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_105424_1117634_08052024110712.xml",
+    "cached": true,
+    "sha256": "13d3d8acd552edad7c9ceb10c9c58260444f544b83a4a456a22f30fcb96790a9"
+  },
+  {
+    "file": "PIDILITIND_1146344.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_91370_839250_09052023112932.xml",
+    "cached": true,
+    "sha256": "601a9335a053f6a6ae75da0862bfa47e9fffa015ed92de9f9e8229375949c8e5"
+  },
+  {
+    "file": "PIDILITIND_1133410.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_84781_656688_19052022023843_WEB.xml",
+    "cached": true,
+    "sha256": "7b0f7bdb484f887ee44bf7408a2979c6e1c7a7ac06723c3ae9fbd96ae8f308f1"
+  },
+  {
+    "file": "PIDILITIND_1107512.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_69938_447752_13052021071412_WEB.xml",
+    "cached": true,
+    "sha256": "54a9a59ebe45ca65c2b946f409d042d9aa65a0a635d2368a372017e741a179af"
+  },
+  {
+    "file": "PIDILITIND_1083496.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_56024_266341_18062020034411_WEB.xml",
+    "cached": true,
+    "sha256": "59d65a8a1e0276047f2600c1287bf4be0a40ff76f8d5cc404bcc67b6567853c5"
+  },
+  {
+    "file": "PIDILITIND_1060420.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_44188_102023_15052019044039_WEB.xml",
+    "cached": true,
+    "sha256": "abc14ba14ac57149448fa6090e019eae1f53061d0ec8141a7647c4c16810b90b"
+  },
+  {
+    "file": "PIDILITIND_1042037.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_35663_11379_25052018122741_WEB.xml",
+    "cached": true,
+    "sha256": "6545e4f7c3f1423cbd69d20e0510287d2ad571c93a219d38e3bda68f7d260928"
+  },
+  {
+    "file": "PIDILITIND_integrated_156151.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1664657_07052026084742_WEB.xml",
+    "cached": true,
+    "sha256": "8919c75636656a72eb477640f1573ecc6bd8801f2165e611c083e850f59ddd3e"
+  },
+  {
+    "file": "PIDILITIND_integrated_89846.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1434376_08052025083823_WEB.xml",
+    "cached": true,
+    "sha256": "083ca7a069cf76f07db3d574dbccefa1d8140f253c0d47bccdc74cd6b1c8a809"
+  },
+  {
+    "file": "POWERGRID_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=POWERGRID&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "d1e38af792180616252cc8257184d1a6584ceb3e58c77e530bda78951ebfa86e"
+  },
+  {
+    "file": "POWERGRID_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=POWERGRID&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "074064a3f4015131ab3eee149eb6eb29d4aeee89766491ed82bb1c14ce301b26"
+  },
+  {
+    "file": "POWERGRID_1173368.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_106835_1135496_23052024044444.xml",
+    "cached": true,
+    "sha256": "63d6bc90eca0867b44cf5ebe727a93420175537212c3ad3d67ad017437d9a4ef"
+  },
+  {
+    "file": "POWERGRID_1147996.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_92209_847834_20052023021341.xml",
+    "cached": true,
+    "sha256": "be0e2a05c64bae5c852f55ff6465b4256311e8838165c3cc56a87bd0434ff9ff"
+  },
+  {
+    "file": "POWERGRID_1133957.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_85054_658327_21052022063246_WEB.xml",
+    "cached": true,
+    "sha256": "25444cc055226faafc4a28f725459528ed1cd6315ec227f5d30f265dae4461a7"
+  },
+  {
+    "file": "POWERGRID_1110499.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_71456_460706_18062021021217_WEB.xml",
+    "cached": true,
+    "sha256": "05749ffc0d06fe22f1556cf589b76438137959b00148d43216d7e07d51eba84d"
+  },
+  {
+    "file": "POWERGRID_1083812.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_56182_267177_20062020082828_WEB.xml",
+    "cached": true,
+    "sha256": "7ae5e8b36ba08d5b11fbe26b441a89c105568cb683e8315debdfcf195d92225f"
+  },
+  {
+    "file": "POWERGRID_1063287.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_45373_106497_30052019012649_WEB.xml",
+    "cached": true,
+    "sha256": "bf93aec98d09d30be46ea09e0304115e240cc9bdc6c344387f74be53e9e316d8"
+  },
+  {
+    "file": "POWERGRID_1043932.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_36207_12957_30052018020812_WEB_2.xml",
+    "cached": true,
+    "sha256": "b05df0424d549bf90e42eedebc0892a027049d8a14521125986b07c9e3487330"
+  },
+  {
+    "file": "RELIANCE_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=RELIANCE&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "8cf7a4387841b8938699edf9d3fa00934999a8ba6e3ffc4a619df83e1df01459"
+  },
+  {
+    "file": "RELIANCE_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=RELIANCE&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "063f874149d587b0d61aba6a09d6139eea3fb9726ec3679c1f04953761a1d24c"
+  },
+  {
+    "file": "RELIANCE_1169209.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_104634_1106038_22042024074704.xml",
+    "cached": true,
+    "sha256": "4b369085ff574580ab4d0364fc1a344125e13cd990efb31e37afba740ecb262d"
+  },
+  {
+    "file": "RELIANCE_1145211.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_90782_831396_21042023075933.xml",
+    "cached": true,
+    "sha256": "6487f0a71df67921e02b2596f2049c3f870cf63e758c001c767f3e101a3c76ed"
+  },
+  {
+    "file": "RELIANCE_1106825.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_69589_445286_30042021080201_WEB.xml",
+    "cached": true,
+    "sha256": "92f431c3f205dbd1b133a788f87058450adf26e45d6a786d2c346d2191ba9d7b"
+  },
+  {
+    "file": "RELIANCE_1081420.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_54974_246436_30042020101801_WEB.xml",
+    "cached": true,
+    "sha256": "7ecbce73e294005029c5d8f9c27ef0945a8b228c597b72e14aa14818ec91b356"
+  },
+  {
+    "file": "RELIANCE_1059017.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_43586_97155_19042019114014_WEB.xml",
+    "cached": true,
+    "sha256": "692dce1c98efd96237f9aa4e3fbfccc7f51833f6ad2adacac38b512c3256960f"
+  },
+  {
+    "file": "RELIANCE_integrated_152826.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1658776_24042026105714_WEB.xml",
+    "cached": true,
+    "sha256": "6b05d2d10220d88055392da3bc30a2bed456d27930ebf57cef7bb0d48b386270"
+  },
+  {
+    "file": "RELIANCE_integrated_87057.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1425445_25042025095716_WEB.xml",
+    "cached": true,
+    "sha256": "01eb907ce8f92dce67c8a24397ea69c0c0d3f594a9681ef9e7e8ac82e2a6a325"
+  },
+  {
+    "file": "SBIN_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=SBIN&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "36bd136f980015c6e6b164d57102b7f89e97eb4a289831c3ced1e7cb3f331918"
+  },
+  {
+    "file": "SBIN_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=SBIN&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "d81cbbc287cf94e8b02fd37a5d0ae7894c0fe6764bccb42d359c39bec9c04e6b"
+  },
+  {
+    "file": "SBIN_1170821.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_105533_1119132_09052024052751.xml",
+    "cached": true,
+    "sha256": "c10953e9b6b9d4f4fb2be0768613b2a6a8236a66a1cef1b14b7a74f276b2a143"
+  },
+  {
+    "file": "SBIN_1147670.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_92046_846441_19052023122808.xml",
+    "cached": true,
+    "sha256": "2e6a09f9ede12076025f4be1506269ad7b417e6b6faa0f42c86c054411bdafce"
+  },
+  {
+    "file": "SBIN_1147596.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_92009_846082_18052023072303.xml",
+    "cached": true,
+    "sha256": "c8a96e6e1b8c17e147d3318081e27484cff37b666d56db32a97fc770b01724e0"
+  },
+  {
+    "file": "SBIN_1132824.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_84484_654628_14052022125234_WEB.xml",
+    "cached": true,
+    "sha256": "855d545994b8d6d613f61fe6ca48a2a739c943058cddb7b1788a786509ac5e04"
+  },
+  {
+    "file": "SBIN_1108263.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_70314_450674_24052021114023_WEB.xml",
+    "cached": true,
+    "sha256": "0ed399e0df9f883b2bc9fb01b36d236ec59362373315bea32c2eebf8d49a6e9f"
+  },
+  {
+    "file": "SBIN_1082752.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_55650_263821_05062020082037_WEB.xml",
+    "cached": true,
+    "sha256": "ee69ede453b090c11e00b5ebdeed25915f430f08f712c1c5c8ff6c30e1ecd1db"
+  },
+  {
+    "file": "SBIN_1060006.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/BANKING_44010_101346_10052019061057_WEB.xml",
+    "cached": true,
+    "sha256": "83ddba1fe8dda0afcb69b8374b9f1a86ef4f2ece52c7aa747ff8efb78b8e4694"
+  },
+  {
+    "file": "SBIN_integrated_156317.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_BANKING_1664904_08052026044212_WEB.xml",
+    "cached": true,
+    "sha256": "1adf54ac4f2e07fe0a281fcbefe0143ed06cd0f622f00465e40447b0d3e668c2"
+  },
+  {
+    "file": "SBIN_integrated_89235.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_BANKING_1431207_03052025061133_WEB.xml",
+    "cached": true,
+    "sha256": "1d1d7a4668ae191d0199d789a0950ec684da5442acf36b55a97449ec207ca1f1"
+  },
+  {
+    "file": "SHREECEM_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=SHREECEM&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "f631170f064d5983925c3587737ea016d09536f135c1c9a3c4a3a33922c31980"
+  },
+  {
+    "file": "SHREECEM_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=SHREECEM&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "38c7af00a781c6d878b0da2307d2afc04b1a18dfc599672edc52eb6d37255c46"
+  },
+  {
+    "file": "SHREECEM_1171505.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_105883_1124121_14052024072618.xml",
+    "cached": true,
+    "sha256": "c24c37517bc6a51b0d1032e1017c4457e883bcbae2079e0df945cc2726fb4d2c"
+  },
+  {
+    "file": "SHREECEM_1148188.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_92307_849193_22052023090233.xml",
+    "cached": true,
+    "sha256": "c8168ddd710b0f5cdc2883cd223bfeea4990442e9a7039f4eefb21a10a2e02a6"
+  },
+  {
+    "file": "SHREECEM_1133945.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_85048_658303_21052022061134_WEB.xml",
+    "cached": true,
+    "sha256": "85dab5e037337647779c27eec317d4fde8e31130b4efbae7acd1ff692473863f"
+  },
+  {
+    "file": "SHREECEM_1108083.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_70224_449977_21052021074457_WEB.xml",
+    "cached": true,
+    "sha256": "08a9cdd8f0703e8af2bb4fe46a1e2126320c4d639a54328eb72cb7decff0622a"
+  },
+  {
+    "file": "SHREECEM_1081541.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_55039_250724_08052020082452_WEB.xml",
+    "cached": true,
+    "sha256": "d62ae53bce2e051be9454f768e49ff33bdb1ae6fe4dd467219a0ebc0a0b10ddb"
+  },
+  {
+    "file": "SHREECEM_1060895.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_44388_102811_18052019055458_WEB.xml",
+    "cached": true,
+    "sha256": "9053ab3e3703b5ed7e014fda6dd8283321731409cb608bd06c8c5d79573f592d"
+  },
+  {
+    "file": "SHREECEM_integrated_155879.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1664209_06052026075712_WEB.xml",
+    "cached": true,
+    "sha256": "667cb1c1f813340fc2f701dbde9e500bc98ee407ab5c3c9390d2adbd64b91ad9"
+  },
+  {
+    "file": "SHREECEM_integrated_90985.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1439617_15052025011003_WEB.xml",
+    "cached": true,
+    "sha256": "8f7d90a0020552b97238cba7080e260f8d257fd87c3e681509107cab7aa254ca"
+  },
+  {
+    "file": "SUNPHARMA_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=SUNPHARMA&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "93df667bb44aafe806f5f192a6235e8a210f59d7b48fcfcd84ea19d7672a54de"
+  },
+  {
+    "file": "SUNPHARMA_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=SUNPHARMA&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "e26de967d8a60cc1afd568dd8fe6fda89fb9a7e451cbb2a0023e25ae85389f8a"
+  },
+  {
+    "file": "SUNPHARMA_1173204.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_106751_1134499_22052024082414.xml",
+    "cached": true,
+    "sha256": "561cde651dcb65138f8547a3008ec928d746dda359359deed13afa208ec6d0ba"
+  },
+  {
+    "file": "SUNPHARMA_1149492.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_92974_854237_26052023090226.xml",
+    "cached": true,
+    "sha256": "aa6c4c4f9d81ea68c83858595a08cb071cc36c3db14a218006ec459e85d913c7"
+  },
+  {
+    "file": "SUNPHARMA_1137272.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_86715_669391_31052022011550_WEB.xml",
+    "cached": true,
+    "sha256": "f2e1698f5155fb1ff780f5b44d0b6f6ec1f50662e0305a86322798bcacb07ae1"
+  },
+  {
+    "file": "SUNPHARMA_1082299.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_55420_261579_27052020111215_WEB.xml",
+    "cached": true,
+    "sha256": "022ae5cee8ae9c79987d871e9e27977e979c63ed7653c9c464b33892eeb3cca1"
+  },
+  {
+    "file": "SUNPHARMA_1062524.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_45052_105406_28052019091754_WEB.xml",
+    "cached": true,
+    "sha256": "dcf11d6214526ba7a37b32d3958c41014fb750c0aa030b618a843475abb963b4"
+  },
+  {
+    "file": "SUNPHARMA_1042368.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_35764_11670_25052018081035_WEB.xml",
+    "cached": true,
+    "sha256": "74b2b3c7e20b6029456f4243b2e3ef54df4de8868a717a3fa455f7b204d61fa1"
+  },
+  {
+    "file": "SUNPHARMA_integrated_160266.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1671527_22052026063920_WEB.xml",
+    "cached": true,
+    "sha256": "6e96cf3f1355210f3dfbecb5ab982828dc06fa4ae0bccfc64001cf74803a362d"
+  },
+  {
+    "file": "SUNPHARMA_integrated_92954.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1447743_22052025080124_WEB.xml",
+    "cached": true,
+    "sha256": "c44d1a9f0ec1b00c0600fd8c735286ca5a5e552ad74c01821035544dce233659"
+  },
+  {
+    "file": "TATASTEEL_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=TATASTEEL&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "afda725af0933454874c2fc780a5cd4754bd638c2099a41d9dbaf6ea946ebedb"
+  },
+  {
+    "file": "TATASTEEL_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=TATASTEEL&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "4374c551ee0cb4fbead42dbd827d76eaaac29b945cae32e4f8b779d51d774b78"
+  },
+  {
+    "file": "TATASTEEL_1175658.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_107998_1145825_29052024081027.xml",
+    "cached": true,
+    "sha256": "cdd5dc04cb5c549a3f48efd4439c949046290835559108647683671c38983205"
+  },
+  {
+    "file": "TATASTEEL_1145805.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_91090_836244_02052023071143.xml",
+    "cached": true,
+    "sha256": "0701f21543f8041e56aad4bb93e8af76c7da2fe220202fd13821cbd107902553"
+  },
+  {
+    "file": "TATASTEEL_1131654.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_83890_650708_03052022082254_WEB.xml",
+    "cached": true,
+    "sha256": "41e36b43eb582ab5de8057d8fe5419f823679558c599dde8c946eabb4f7d80c8"
+  },
+  {
+    "file": "TATASTEEL_1107067.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_69713_446168_06052021051611_WEB.xml",
+    "cached": true,
+    "sha256": "ec896176e1e93128f2854f9a6ad12e5accc36f320e7387e5382d669e09572627"
+  },
+  {
+    "file": "TATASTEEL_1085578.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_57077_271198_29062020094825_WEB.xml",
+    "cached": true,
+    "sha256": "981da1b0cb0ba756fcdc5bcee5705fad0231852f883f3841e0917e861457865a"
+  },
+  {
+    "file": "TATASTEEL_1059136.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_43635_99354_26042019022821_WEB.xml",
+    "cached": true,
+    "sha256": "4a528cfefa2d16f6aef0cd00b5a298f5e217ab8d61a45205995a3466e061b3e0"
+  },
+  {
+    "file": "TATASTEEL_1040595.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_35246_9799_17052018125026_WEB.xml",
+    "cached": true,
+    "sha256": "56977084755d2fe8a965acfa8889352460d232d9732ef15b8af01e31d4adf0e8"
+  },
+  {
+    "file": "TCS_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=TCS&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "68df6c81ecdc3f73c0055f0940a738a7cb8e00eba1c40baf13f3c831e9d4d1fd"
+  },
+  {
+    "file": "TCS_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=TCS&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "f62e89658fac46cce7738d4870fd3e0a5d64c2ffae8cc36cf0a6c7bfc7317c8d"
+  },
+  {
+    "file": "TCS_1169053.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_104549_1090527_12042024090154.xml",
+    "cached": true,
+    "sha256": "0dcc4c0858a8477511efad7b71d1172a570fb7bf64bd88565317ce80b6e89f23"
+  },
+  {
+    "file": "TCS_1145062.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_90701_817055_13042023124544.xml",
+    "cached": true,
+    "sha256": "f2fc66575f48f7ef46e804d76925ab614962c84d33b25cba35f99d5521b3c425"
+  },
+  {
+    "file": "TCS_1130897.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_83500_631239_12042022125732_WEB.xml",
+    "cached": true,
+    "sha256": "39a29c97908a951624b65024aae5b34cd0b2c51f8643a9fcdccdee6a36708ae6"
+  },
+  {
+    "file": "TCS_1106328.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_69326_430707_12042021110550_WEB.xml",
+    "cached": true,
+    "sha256": "b22a17c7083b7633a8f853f20916fce907c6321f9bfbeb80d23778b65bfa9fd1"
+  },
+  {
+    "file": "TCS_1081300.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_54905_240070_16042020082728_WEB.xml",
+    "cached": true,
+    "sha256": "81b47beb69abe876925729fcc11dad042eeebe99161ebca5c16a0bad7c35ebf7"
+  },
+  {
+    "file": "TCS_1058946.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_43557_92829_12042019082945_WEB.xml",
+    "cached": true,
+    "sha256": "a028e656b2b2ca1500e1ccdbc480a0dfe7d3646a4d4a162650d686adda23a692"
+  },
+  {
+    "file": "TCS_integrated_150312.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1648408_09042026114218_WEB.xml",
+    "cached": true,
+    "sha256": "17d9c6bb6ac7de632e5558dc2442cbb509b978cce481ff1ed8362b8a8f557cc9"
+  },
+  {
+    "file": "TCS_integrated_84691.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1412101_11042025074137_WEB.xml",
+    "cached": true,
+    "sha256": "2439af901d6ba7c49efdd194e0ce89266676df8f340ccfb9ab4d84e5bc1de73b"
+  },
+  {
+    "file": "TECHM_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=TECHM&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "2f568f0c092a44da84e1cf89e0c61f85d3299ad5201df8c424ba848a19f3f3f5"
+  },
+  {
+    "file": "TECHM_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=TECHM&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "9577e01a8e40a051cecf057d521a23fac4bfe2144cd4848050058ac4a524866e"
+  },
+  {
+    "file": "TECHM_1169370.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_104717_1108423_25042024082515.xml",
+    "cached": true,
+    "sha256": "7b635f9d51a495ba16d6714c32e6c855a0cf5d4b403f9b6339e07810d6816fd3"
+  },
+  {
+    "file": "TECHM_1145495.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_90931_834167_27042023091314.xml",
+    "cached": true,
+    "sha256": "7b4cde2af833d8074d874a88cde65a24d31d3e3a770191a770b325fb6d47d79f"
+  },
+  {
+    "file": "TECHM_1132726.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_84436_654346_13052022064017_WEB.xml",
+    "cached": true,
+    "sha256": "62bdee00df25fcbdf6f9c42e1c64bd9741b1d78e45312dbe02723e4ee91aa0f6"
+  },
+  {
+    "file": "TECHM_1081414.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_54971_246285_30042020071904_WEB.xml",
+    "cached": true,
+    "sha256": "be97e1e3182eeebfb70dc433a5599bc61cc512f8a0ebb9f1cc376ad5841f5d08"
+  },
+  {
+    "file": "TECHM_1061166.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_44495_103291_21052019045020_WEB.xml",
+    "cached": true,
+    "sha256": "09df265bfa762e0c9ab1ea53350e6960f4a2ecb34b33570bebaae3fb75f0f65f"
+  },
+  {
+    "file": "TECHM_1042451.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_35786_11758_25052018092210_WEB_2.xml",
+    "cached": true,
+    "sha256": "440f8012315eea0d6f7589f3c1f3d32473d5a63d3cb77bf3dd67a9a82441c8fc"
+  },
+  {
+    "file": "TECHM_integrated_152151.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1657298_22042026060207_WEB.xml",
+    "cached": true,
+    "sha256": "830e8d294a70f41c5238204cb9383e584aaf602a77955ae266dd2b1e01722e45"
+  },
+  {
+    "file": "TECHM_integrated_86674.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1424350_24042025113829_WEB.xml",
+    "cached": true,
+    "sha256": "b13c09f1c62259224fbc1c4a2f68faede37f3888ba10e1c4cbe102b9c46c281b"
+  },
+  {
+    "file": "TITAN_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=TITAN&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "aefb5b099b5ff7f443e06b334d21bfbf4fc77ec1726b2b4f97bd547961249374"
+  },
+  {
+    "file": "TITAN_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=TITAN&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "1249f77581be73542995354ec5da1646b7d1bfd2b0f0b398cce3894caf568843"
+  },
+  {
+    "file": "TITAN_1170270.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_105254_1115176_03052024113001.xml",
+    "cached": true,
+    "sha256": "78f75a58c8635406a558e7ba55ffc7d85779c58fce07c3762c0c914bc553107e"
+  },
+  {
+    "file": "TITAN_1146425.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_91414_839741_09052023081139.xml",
+    "cached": true,
+    "sha256": "87c3d19220938286e31b2c5d3eb45f4f63c36537b0bdc24c4bcaeb59d1b6cc69"
+  },
+  {
+    "file": "TITAN_1131684.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_83905_650799_04052022013528_WEB.xml",
+    "cached": true,
+    "sha256": "ac98b36476da77bcfbf7402e55c7d6fb91f73abb9d8afb1a4728a5d12f185f0f"
+  },
+  {
+    "file": "TITAN_1106767.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_69560_445074_30042021031046_WEB.xml",
+    "cached": true,
+    "sha256": "c72439e39a1dfdae6fe8a827fb57e97d9032a5b47fa096ed10590effb2c6c51d"
+  },
+  {
+    "file": "TITAN_1082884.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_55716_264345_09062020060754_WEB.xml",
+    "cached": true,
+    "sha256": "0f1703ef263aba95c7385cc19f4dcd3991ae3f1347c274005caba66f6264c95b"
+  },
+  {
+    "file": "TITAN_1059813.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_43925_100980_09052019011111_WEB_2.xml",
+    "cached": true,
+    "sha256": "50eca9dd97d71bccc1f309837d3b0a94b2a509c3c2998b993ceccf20351c85a5"
+  },
+  {
+    "file": "TITAN_1039917.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_35020_9037_11052018112612_WEB_2.xml",
+    "cached": true,
+    "sha256": "fea2d56136cbbb29ab8fc09a2171d8e0cbd716dc603cc9eae26cd108942dc3d1"
+  },
+  {
+    "file": "TITAN_integrated_156397.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1665068_08052026074730_WEB.xml",
+    "cached": true,
+    "sha256": "d8e7cb35d8f6e96fc2eed5a4eba0be4d5dd3d76e2c4f77d7c6a39e326e018c2e"
+  },
+  {
+    "file": "TITAN_integrated_89874.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1434467_08052025105413_WEB.xml",
+    "cached": true,
+    "sha256": "4c42630c1f464854fad85d9a1ba2cfb51ac9b0a6bb25894a16bae845779dac48"
+  },
+  {
+    "file": "ULTRACEMCO_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=ULTRACEMCO&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "7007b5b54b805b256024ea70aca880becb8a0a5e5545ed3dcd81fff0e07be274"
+  },
+  {
+    "file": "ULTRACEMCO_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=ULTRACEMCO&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "2fc4197ba0beba3f09d32b814592072a794e9f4b6fb261de3c0bafc4a5dbbd68"
+  },
+  {
+    "file": "ULTRACEMCO_1169754.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_104953_1111327_29042024082510.xml",
+    "cached": true,
+    "sha256": "7518feded0189c342e9300b96e763dd748e58b89af95b84362924a474f020245"
+  },
+  {
+    "file": "ULTRACEMCO_1145637.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_91005_834947_28042023083039.xml",
+    "cached": true,
+    "sha256": "12d09e4f8d2e043c43a9fdbf6aa4928157d298962e3f91964ee8b4e94ad47aef"
+  },
+  {
+    "file": "ULTRACEMCO_1131441.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_83783_649799_29042022084825_WEB.xml",
+    "cached": true,
+    "sha256": "d0bed6ccdff6325a90542b1cc1c64fd3057e5e77d2dc13c53ab1a3d39a11a646"
+  },
+  {
+    "file": "ULTRACEMCO_1107176.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_69769_446493_08052021115651_WEB.xml",
+    "cached": true,
+    "sha256": "aac2f125b43bf3c769d25e1d16d4a1424bae78daad6e17417edab184c89e2ed3"
+  },
+  {
+    "file": "ULTRACEMCO_1081905.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_55223_259846_20052020040307_WEB.xml",
+    "cached": true,
+    "sha256": "ad022789bace7c13156e69e35defbe6163f0fa5bcfe3b12dea7c96ad1bff79c0"
+  },
+  {
+    "file": "ULTRACEMCO_1059103.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_43623_99038_25042019120617_WEB.xml",
+    "cached": true,
+    "sha256": "fa72aa86d80fde2afe484e8c0ccf83f99ec98563909b4d3b7dc4bf9bf0ad98a9"
+  },
+  {
+    "file": "ULTRACEMCO_integrated_153313.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1659760_27042026081814_WEB.xml",
+    "cached": true,
+    "sha256": "48970feff6d0e0b6a0dbd3a3e5fb35d98746a4883991fa80237f8b83794d4ef3"
+  },
+  {
+    "file": "ULTRACEMCO_integrated_87601.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1426913_28042025082714_WEB.xml",
+    "cached": true,
+    "sha256": "638f1c0212477aade1e49ab40e61eb3a81e451c1ef1e335fb197085811c2ad38"
+  },
+  {
+    "file": "WIPRO_annual_metadata.json",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=WIPRO&period=Annual&from_date=01-01-2016&to_date=27-10-2026",
+    "cached": true,
+    "sha256": "d3fffc0fb089988b6fa816b907c2ef153915e1cde571932e2fe92952a109c9fe"
+  },
+  {
+    "file": "WIPRO_integrated_metadata.json",
+    "url": "https://www.nseindia.com/api/integrated-filing-results?index=equities&symbol=WIPRO&type=Integrated%20Filing-%20Financials&from_date=01-01-2025&to_date=27-10-2026&page=1&size=100",
+    "cached": true,
+    "sha256": "31d120c72d426c1e40d42de74a0ffcf345d58f8668fed5e01ad0e7dfc9f7ff2f"
+  },
+  {
+    "file": "WIPRO_1169144.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_104599_1101316_19042024043901.xml",
+    "cached": true,
+    "sha256": "59e950afc629b6975810182cc46b72b6bf3c806edb867894cc06e7438406999e"
+  },
+  {
+    "file": "WIPRO_1145428.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_90897_833791_27042023044132.xml",
+    "cached": true,
+    "sha256": "63d05c7806894319a9e5b88ccccd9e4536ad0a202da6116af7bb59f20016cc3f"
+  },
+  {
+    "file": "WIPRO_1131401.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_83762_649630_29042022062559_WEB.xml",
+    "cached": true,
+    "sha256": "b2bb63b4163e07ed3574b2bf7440a5a153acad6370d19cc8c9d87856e8018cb2"
+  },
+  {
+    "file": "WIPRO_1106352.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_69338_436863_15042021072555_WEB.xml",
+    "cached": true,
+    "sha256": "e6480a68fbaa3c74884fb14b4d22b5ef2be84fef01db19a9dafacd55088c9414"
+  },
+  {
+    "file": "WIPRO_1081296.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_54903_239115_15042020051340_WEB.xml",
+    "cached": true,
+    "sha256": "fb2f7997cb2c9731adae5d8cbfab56e0071c679663cd4f32623f79b0a79d7547"
+  },
+  {
+    "file": "WIPRO_1058981.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_43571_95414_16042019052717_WEB.xml",
+    "cached": true,
+    "sha256": "0367147a3c5d22cc53fbdb6401d7d83cf0e1ef66764b5825751cde7e33cc6e5a"
+  },
+  {
+    "file": "WIPRO_integrated_151041.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1652358_16042026045942_WEB.xml",
+    "cached": true,
+    "sha256": "1668fc07016a0a5d9861022325a6caede9de8b1e2f444077774d038b7a2f5301"
+  },
+  {
+    "file": "WIPRO_integrated_85151.xml",
+    "url": "https://nsearchives.nseindia.com/corporate/xbrl/INTEGRATED_FILING_INDAS_1416343_16042025071015_WEB.xml",
+    "cached": true,
+    "sha256": "4be14ad36223b185a9bb600e31616bf51f3ea79d97b89eaf0f7a6bb9866bd2c3"
+  }
+]

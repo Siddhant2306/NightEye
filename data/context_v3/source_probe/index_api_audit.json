@@ -1,0 +1,16 @@
+[
+  {
+    "name": "prices",
+    "url": "https://www.niftyindices.com/BackPage/getHistoricaldatatabletoString",
+    "status": 200,
+    "bytes": 46898,
+    "sample": "[{\"RequestNumber\":\"His63928904153753810200\",\"Index Name\":\"\",\"INDEX_NAME\":\"Nifty 50\",\"HistoricalDate\":\"31 Dec 2020\",\"OPEN\":\"13970.00\",\"HIGH\":\"14024.85\",\"LOW\":\"13936.45\",\"CLOSE\":\"13981.75\"},{\"RequestNumber\":\"His63928904153753810200\",\"Index Name\":\"\",\"INDEX_NAME\":\"Nifty 50\",\"HistoricalDate\":\"30 Dec 2020\",\"OPEN\":\"13980.90\",\"HIGH\":\"13997.00\",\"LOW\":\"13864.95\",\"CLOSE\":\"13981.95\"},{\"RequestNumber\":\"His63928904153753810200\",\"Index Name\":\"\",\"INDEX_NAME\":\"Nifty 50\",\"HistoricalDate\":\"29 Dec 2020\",\"OPEN\":\"13910.35\",\"HIGH\":\"13967.60\",\"LOW\":\"13859.90\",\"CLOSE\":\"13932.60\"},{\"RequestNumber\":\"His63928904153753810200\",\"Index Name\":\"\",\"INDEX_NAME\":\"Nifty 50\",\"HistoricalDate\":\"28 Dec 2020\",\"OPEN\":\"13815.15\",\"HIGH\":\"13885.30\",\"LOW\":\"13811.55\",\"CLOSE\":\"13873.20\"},{\"RequestNumber\":\"His63928904153753810200\",\"Index Name\":\"\",\"INDEX_NAME\":\"Nifty 50\",\"HistoricalDate\":\"24 Dec 2020\",\"OPEN\":\"13672.15\",\"HIGH\":\"13771.75\",\"LOW\":\"13626.90\",\"CLOSE\":\"13749.25\"},{\"RequestNumber\":\"His63928904153753810200\",\"Index Name\":\"\",\"INDE"
+  },
+  {
+    "name": "valuation",
+    "url": "https://www.niftyindices.com/BackPage/getpepbHistoricaldataDBtoString",
+    "status": 200,
+    "bytes": 33265,
+    "sample": "[{\"RequestNumber\":\"pepb6392890415381631010\",\"Index Name\":\"Nifty 50\",\"pe\":\"38.45\",\"pb\":\"3.96\",\"divYield\":\"1.14\",\"DATE\":\"31 Dec 2020\"},{\"RequestNumber\":\"pepb6392890415381631010\",\"Index Name\":\"Nifty 50\",\"pe\":\"38.45\",\"pb\":\"3.96\",\"divYield\":\"1.14\",\"DATE\":\"30 Dec 2020\"},{\"RequestNumber\":\"pepb6392890415381631010\",\"Index Name\":\"Nifty 50\",\"pe\":\"38.31\",\"pb\":\"3.94\",\"divYield\":\"1.14\",\"DATE\":\"29 Dec 2020\"},{\"RequestNumber\":\"pepb6392890415381631010\",\"Index Name\":\"Nifty 50\",\"pe\":\"38.15\",\"pb\":\"3.93\",\"divYield\":\"1.14\",\"DATE\":\"28 Dec 2020\"},{\"RequestNumber\":\"pepb6392890415381631010\",\"Index Name\":\"Nifty 50\",\"pe\":\"37.81\",\"pb\":\"3.89\",\"divYield\":\"1.15\",\"DATE\":\"24 Dec 2020\"},{\"RequestNumber\":\"pepb6392890415381631010\",\"Index Name\":\"Nifty 50\",\"pe\":\"37.40\",\"pb\":\"3.85\",\"divYield\":\"1.17\",\"DATE\":\"23 Dec 2020\"},{\"RequestNumber\":\"pepb6392890415381631010\",\"Index Name\":\"Nifty 50\",\"pe\":\"37.03\",\"pb\":\"3.81\",\"divYield\":\"1.18\",\"DATE\":\"22 Dec 2020\"},{\"RequestNumber\":\"pepb6392890415381631010\",\"Index Name\":\"Nifty 50\",\"pe\":\"36"
+  }
+]

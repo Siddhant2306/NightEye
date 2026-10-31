@@ -1,0 +1,225 @@
+XML status: 200
+context {'id': 'OneOperatingExpenses01D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:DetailsOfOtherExpensesAxis'} in-bse-fin:OneOperatingExpenses01Member
+context {'id': 'OneOperatingExpenses02D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:DetailsOfOtherExpensesAxis'} in-bse-fin:OneOperatingExpenses02Member
+context {'id': 'FourOperatingExpenses01D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:DetailsOfOtherExpensesAxis'} in-bse-fin:FourOperatingExpenses01Member
+context {'id': 'FourOperatingExpenses02D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:DetailsOfOtherExpensesAxis'} in-bse-fin:FourOperatingExpenses02Member
+context {'id': 'OneReportableSegmentRevenue01D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsAxis'} in-bse-fin:OneReportableSegmentRevenue01Member
+context {'id': 'OneReportableSegmentRevenue02D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsAxis'} in-bse-fin:OneReportableSegmentRevenue02Member
+context {'id': 'OneReportableSegmentRevenue03D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsAxis'} in-bse-fin:OneReportableSegmentRevenue03Member
+context {'id': 'OneReportableSegmentRevenue04D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsAxis'} in-bse-fin:OneReportableSegmentRevenue04Member
+context {'id': 'OneReportableSegmentRevenue05D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsAxis'} in-bse-fin:OneReportableSegmentRevenue05Member
+context {'id': 'OneReportableSegmentRevenue06D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsAxis'} in-bse-fin:OneReportableSegmentRevenue06Member
+context {'id': 'OneReportableSegmentRevenue07D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsAxis'} in-bse-fin:OneReportableSegmentRevenue07Member
+context {'id': 'FourReportableSegmentRevenue01D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsAxis'} in-bse-fin:FourReportableSegmentRevenue01Member
+context {'id': 'FourReportableSegmentRevenue02D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsAxis'} in-bse-fin:FourReportableSegmentRevenue02Member
+context {'id': 'FourReportableSegmentRevenue03D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsAxis'} in-bse-fin:FourReportableSegmentRevenue03Member
+context {'id': 'FourReportableSegmentRevenue04D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsAxis'} in-bse-fin:FourReportableSegmentRevenue04Member
+context {'id': 'FourReportableSegmentRevenue05D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsAxis'} in-bse-fin:FourReportableSegmentRevenue05Member
+context {'id': 'FourReportableSegmentRevenue06D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsAxis'} in-bse-fin:FourReportableSegmentRevenue06Member
+context {'id': 'FourReportableSegmentRevenue07D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsAxis'} in-bse-fin:FourReportableSegmentRevenue07Member
+context {'id': 'OneReportableSegmentResults01D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsFinanceCostsAxis'} in-bse-fin:OneReportableSegmentResults01Member
+context {'id': 'OneReportableSegmentResults02D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsFinanceCostsAxis'} in-bse-fin:OneReportableSegmentResults02Member
+context {'id': 'OneReportableSegmentResults03D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsFinanceCostsAxis'} in-bse-fin:OneReportableSegmentResults03Member
+context {'id': 'OneReportableSegmentResults04D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsFinanceCostsAxis'} in-bse-fin:OneReportableSegmentResults04Member
+context {'id': 'OneReportableSegmentResults05D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsFinanceCostsAxis'} in-bse-fin:OneReportableSegmentResults05Member
+context {'id': 'OneReportableSegmentResults06D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsFinanceCostsAxis'} in-bse-fin:OneReportableSegmentResults06Member
+context {'id': 'OneReportableSegmentResults07D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsFinanceCostsAxis'} in-bse-fin:OneReportableSegmentResults07Member
+context {'id': 'FourReportableSegmentResults01D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsFinanceCostsAxis'} in-bse-fin:FourReportableSegmentResults01Member
+context {'id': 'FourReportableSegmentResults02D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsFinanceCostsAxis'} in-bse-fin:FourReportableSegmentResults02Member
+context {'id': 'FourReportableSegmentResults03D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsFinanceCostsAxis'} in-bse-fin:FourReportableSegmentResults03Member
+context {'id': 'FourReportableSegmentResults04D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsFinanceCostsAxis'} in-bse-fin:FourReportableSegmentResults04Member
+context {'id': 'FourReportableSegmentResults05D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsFinanceCostsAxis'} in-bse-fin:FourReportableSegmentResults05Member
+context {'id': 'FourReportableSegmentResults06D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsFinanceCostsAxis'} in-bse-fin:FourReportableSegmentResults06Member
+context {'id': 'FourReportableSegmentResults07D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentsFinanceCostsAxis'} in-bse-fin:FourReportableSegmentResults07Member
+context {'id': 'OneReportableSegmentAssets01D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentAssetsAxis'} in-bse-fin:OneReportableSegmentAssets01Member
+context {'id': 'OneReportableSegmentAssets02D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentAssetsAxis'} in-bse-fin:OneReportableSegmentAssets02Member
+context {'id': 'OneReportableSegmentAssets03D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentAssetsAxis'} in-bse-fin:OneReportableSegmentAssets03Member
+context {'id': 'OneReportableSegmentAssets04D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentAssetsAxis'} in-bse-fin:OneReportableSegmentAssets04Member
+context {'id': 'OneReportableSegmentAssets05D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentAssetsAxis'} in-bse-fin:OneReportableSegmentAssets05Member
+context {'id': 'OneReportableSegmentAssets06D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentAssetsAxis'} in-bse-fin:OneReportableSegmentAssets06Member
+context {'id': 'OneReportableSegmentAssets07D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentAssetsAxis'} in-bse-fin:OneReportableSegmentAssets07Member
+context {'id': 'OneReportableSegmentLiabilities01D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentLiabilitiesAxis'} in-bse-fin:OneReportableSegmentLiabilities01Member
+context {'id': 'OneReportableSegmentLiabilities01I'} 
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentLiabilitiesAxis'} in-bse-fin:OneReportableSegmentLiabilities01Member
+context {'id': 'OneReportableSegmentLiabilities02D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentLiabilitiesAxis'} in-bse-fin:OneReportableSegmentLiabilities02Member
+context {'id': 'OneReportableSegmentLiabilities02I'} 
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentLiabilitiesAxis'} in-bse-fin:OneReportableSegmentLiabilities02Member
+context {'id': 'OneReportableSegmentLiabilities03D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentLiabilitiesAxis'} in-bse-fin:OneReportableSegmentLiabilities03Member
+context {'id': 'OneReportableSegmentLiabilities03I'} 
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentLiabilitiesAxis'} in-bse-fin:OneReportableSegmentLiabilities03Member
+context {'id': 'OneReportableSegmentLiabilities04D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentLiabilitiesAxis'} in-bse-fin:OneReportableSegmentLiabilities04Member
+context {'id': 'OneReportableSegmentLiabilities04I'} 
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentLiabilitiesAxis'} in-bse-fin:OneReportableSegmentLiabilities04Member
+context {'id': 'OneReportableSegmentLiabilities05D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentLiabilitiesAxis'} in-bse-fin:OneReportableSegmentLiabilities05Member
+context {'id': 'OneReportableSegmentLiabilities05I'} 
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentLiabilitiesAxis'} in-bse-fin:OneReportableSegmentLiabilities05Member
+context {'id': 'OneReportableSegmentLiabilities06D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentLiabilitiesAxis'} in-bse-fin:OneReportableSegmentLiabilities06Member
+context {'id': 'OneReportableSegmentLiabilities06I'} 
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentLiabilitiesAxis'} in-bse-fin:OneReportableSegmentLiabilities06Member
+context {'id': 'OneReportableSegmentLiabilities07D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentLiabilitiesAxis'} in-bse-fin:OneReportableSegmentLiabilities07Member
+context {'id': 'OneReportableSegmentLiabilities07I'} 
+explicitMember {'dimension': 'in-bse-fin:ReportableSegmentLiabilitiesAxis'} in-bse-fin:OneReportableSegmentLiabilities07Member
+context {'id': 'OneItemsThatWillNotBeReclassifiedToProfitAndLoss01D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+typedMember {'dimension': 'in-bse-fin:ItemsThatWillNotBeReclassifiedToProfitAndLossAxis'} 
+context {'id': 'FourItemsThatWillNotBeReclassifiedToProfitAndLoss01D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+typedMember {'dimension': 'in-bse-fin:ItemsThatWillNotBeReclassifiedToProfitAndLossAxis'} 
+context {'id': 'OneItemsThatWillBeReclassifiedToProfitAndLoss01D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+typedMember {'dimension': 'in-bse-fin:ItemsThatWillBeReclassifiedToProfitAndLossAxis'} 
+context {'id': 'FourItemsThatWillBeReclassifiedToProfitAndLoss01D'} 
+startDate {} 2020-01-01
+endDate {} 2020-03-31
+typedMember {'dimension': 'in-bse-fin:ItemsThatWillBeReclassifiedToProfitAndLossAxis'} 
+RevenueFromOperations {'contextRef': 'OneD', 'unitRef': 'INR', 'decimals': '-7'} 1392830000000.00
+ProfitLossForPeriodFromContinuingOperations {'contextRef': 'OneD', 'unitRef': 'INR', 'decimals': '-7'} 65750000000.00
+ProfitLossForPeriod {'contextRef': 'OneD', 'unitRef': 'INR', 'decimals': '-7'} 65460000000.00
+RevenueFromOperations {'contextRef': 'FourD', 'unitRef': 'INR', 'decimals': '-7'} 6116450000000.00
+ProfitLossForPeriodFromContinuingOperations {'contextRef': 'FourD', 'unitRef': 'INR', 'decimals': '-7'} 397730000000.00
+ProfitLossForPeriod {'contextRef': 'FourD', 'unitRef': 'INR', 'decimals': '-7'} 398800000000.00
+SegmentRevenueFromOperations {'contextRef': 'OneD', 'unitRef': 'INR', 'decimals': '-7'} 1512090000000.00
+SegmentRevenueFromOperations {'contextRef': 'FourD', 'unitRef': 'INR', 'decimals': '-7'} 6592050000000.00
+Full history metadata: 200
+Annual records: 35 [('31-Mar-2008', 'Consolidated'), ('31-Mar-2008', 'Non-Consolidated'), ('31-Mar-2007', 'Consolidated'), ('31-Mar-2007', 'Non-Consolidated')]

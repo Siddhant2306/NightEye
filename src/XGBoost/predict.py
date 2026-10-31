@@ -9,9 +9,15 @@ from src.XGBoost.feature_eng import create_features
 from src.XGBoost.reduced_features import make_reduced_features, load_actions
 
 
-def predict(history, model_path, actions=None, fundamentals_path=None):
+def predict(history, model_path, actions=None, fundamentals_path=None, ticker=None, context_dir=None):
     artifact = joblib.load(model_path)
-    if 'feature_family' in artifact:
+    if artifact.get('feature_builder') == 'context_v3':
+        from src.XGBoost.context_features import make_context_features
+        if not ticker:
+            raise ValueError('Context models require the ticker to select the declared sector proxy')
+        features, _ = make_context_features(history, artifact['horizon'], ticker,
+                                            context_dir or artifact['context_dir'], artifact['feature_family'],include_target=False)
+    elif 'feature_family' in artifact:
         features, _ = make_reduced_features(history, artifact['horizon'], artifact['feature_family'],
                                            actions, fundamentals_path, include_target=False)
     else:
@@ -32,6 +38,9 @@ if __name__ == '__main__':
     parser.add_argument('--history', type=Path, required=True)
     parser.add_argument('--actions', type=Path, help='Historical raw_close and dividend CSV for dividend features')
     parser.add_argument('--fundamentals', type=Path, help='Point-in-time EPS publication CSV for valuation features')
+    parser.add_argument('--ticker', help='Ticker for context models, e.g. RELIANCE.NS')
+    parser.add_argument('--context-dir', type=Path, help='Frozen market, sector and financial-history directory')
     args = parser.parse_args()
     print(json.dumps(predict(load_data(args.history), args.model,
-                             load_actions(args.actions) if args.actions else None, args.fundamentals), indent=2))
+                             load_actions(args.actions) if args.actions else None, args.fundamentals,
+                             args.ticker,args.context_dir), indent=2))

@@ -1,0 +1,449 @@
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+price_only h=1: all saved predictions, native reload, scaling, boundaries and latest inference OK
+market h=1: all saved predictions, native reload, scaling, boundaries and latest inference OK
+market_sector h=1: all saved predictions, native reload, scaling, boundaries and latest inference OK
+market_sector_valuation h=1: all saved predictions, native reload, scaling, boundaries and latest inference OK
+market_sector_fundamentals h=1: all saved predictions, native reload, scaling, boundaries and latest inference OK
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6414
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Features created: 18
+Usable rows after feature engineering: 5727
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5791
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6404
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Features created: 18
+Usable rows after feature engineering: 3714
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6410
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6229
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Features created: 18
+Usable rows after feature engineering: 5715
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6416
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Features created: 18
+Usable rows after feature engineering: 5545
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Features created: 18
+Usable rows after feature engineering: 5770
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Features created: 18
+Usable rows after feature engineering: 5532
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Features created: 18
+Usable rows after feature engineering: 5196
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5791
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Features created: 18
+Usable rows after feature engineering: 4470
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Features created: 18
+Usable rows after feature engineering: 6041
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Features created: 18
+Usable rows after feature engineering: 5518
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Features created: 18
+Usable rows after feature engineering: 4745
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Features created: 18
+Usable rows after feature engineering: 5759
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Features created: 18
+Usable rows after feature engineering: 6436
+price_only h=21: all saved predictions, native reload, scaling, boundaries and latest inference OK
+Features created: 18
+Usable rows after feature engineering: 6436
+market h=21: all saved predictions, native reload, scaling, boundaries and latest inference OK
+Features created: 18
+Usable rows after feature engineering: 6436
+market_sector h=21: all saved predictions, native reload, scaling, boundaries and latest inference OK
+Features created: 18
+Usable rows after feature engineering: 6436
+market_sector_valuation h=21: all saved predictions, native reload, scaling, boundaries and latest inference OK
+Features created: 18
+Usable rows after feature engineering: 6436
+market_sector_fundamentals h=21: all saved predictions, native reload, scaling, boundaries and latest inference OK
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6184
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Features created: 18
+Usable rows after feature engineering: 5497
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5561
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6174
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Features created: 18
+Usable rows after feature engineering: 3484
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6180
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 5999
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Features created: 18
+Usable rows after feature engineering: 5485
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6186
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Features created: 18
+Usable rows after feature engineering: 5315
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Features created: 18
+Usable rows after feature engineering: 5540
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Features created: 18
+Usable rows after feature engineering: 5302
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Features created: 18
+Usable rows after feature engineering: 4966
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5561
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Features created: 18
+Usable rows after feature engineering: 4240
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Features created: 18
+Usable rows after feature engineering: 5811
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Features created: 18
+Usable rows after feature engineering: 5288
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Features created: 18
+Usable rows after feature engineering: 4515
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Features created: 18
+Usable rows after feature engineering: 5529
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Features created: 18
+Usable rows after feature engineering: 6436
+price_only h=252: all saved predictions, native reload, scaling, boundaries and latest inference OK
+Features created: 18
+Usable rows after feature engineering: 6436
+market h=252: all saved predictions, native reload, scaling, boundaries and latest inference OK
+Features created: 18
+Usable rows after feature engineering: 6436
+market_sector h=252: all saved predictions, native reload, scaling, boundaries and latest inference OK
+Features created: 18
+Usable rows after feature engineering: 6436
+market_sector_valuation h=252: all saved predictions, native reload, scaling, boundaries and latest inference OK
+Features created: 18
+Usable rows after feature engineering: 6436
+market_sector_fundamentals h=252: all saved predictions, native reload, scaling, boundaries and latest inference OK
+{
+  "verified_models": 15,
+  "source_snapshot_unchanged": true,
+  "common_samples": true,
+  "held_out_exclusion": true,
+  "purged_labels": true,
+  "all_saved_predictions_reproduced": true,
+  "native_model_reload": true,
+  "target_scaling": true,
+  "latest_row_inference": true,
+  "validation_only_selection": true
+}

@@ -39,3 +39,4 @@ websockets==17.3
 wheel==0.48.0
 xgboost==3.4.1
 yfinance==1.7.0
+lightgbm==4.7.0

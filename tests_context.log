@@ -1,0 +1,36 @@
+test_annual_parser_selects_current_period_and_units (test_context_features.ContextTests.test_annual_parser_selects_current_period_and_units) ... ok
+test_context_features_never_see_future (test_context_features.ContextTests.test_context_features_never_see_future) ... ok
+test_growth_uses_only_prior_published_year (test_context_features.ContextTests.test_growth_uses_only_prior_published_year) ... ok
+test_index_observation_is_lagged_and_expires (test_context_features.ContextTests.test_index_observation_is_lagged_and_expires) ... ok
+test_publication_and_revision_do_not_backfill (test_context_features.ContextTests.test_publication_and_revision_do_not_backfill) ... ok
+test_short_annual_history_has_no_bootstrap_interval (test_context_features.ContextTests.test_short_annual_history_has_no_bootstrap_interval) ... ok
+test_constant_price_rsi (test_pipeline.PipelineTests.test_constant_price_rsi) ... ok
+test_features_do_not_see_future (test_pipeline.PipelineTests.test_features_do_not_see_future) ... ok
+test_labels_and_purge (test_pipeline.PipelineTests.test_labels_and_purge) ... ok
+test_price_scale_invariance (test_pipeline.PipelineTests.test_price_scale_invariance) ... ok
+test_dividend_yield_uses_observed_raw_cash (test_reduced_features.ReducedFeatureTests.test_dividend_yield_uses_observed_raw_cash) ... ok
+test_earnings_available_only_after_publication (test_reduced_features.ReducedFeatureTests.test_earnings_available_only_after_publication) ... ok
+test_feature_families_are_causal (test_reduced_features.ReducedFeatureTests.test_feature_families_are_causal) ... ok
+test_mean_and_std_are_not_future_statistics (test_reduced_features.ReducedFeatureTests.test_mean_and_std_are_not_future_statistics) ... ok
+test_mode_is_binned_and_ties_are_deterministic (test_reduced_features.ReducedFeatureTests.test_mode_is_binned_and_ties_are_deterministic) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.999s
+
+OK
+Features created: 18
+Usable rows after feature engineering: 801
+Features created: 18
+Usable rows after feature engineering: 501
+Features created: 18
+Usable rows after feature engineering: 801
+Features created: 35
+Usable rows after feature engineering: 748
+Features created: 35
+Usable rows after feature engineering: 448
+Features created: 35
+Usable rows after feature engineering: 727
+Features created: 35
+Usable rows after feature engineering: 747
+Features created: 35
+Usable rows after feature engineering: 747

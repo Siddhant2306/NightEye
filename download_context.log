@@ -1,0 +1,52 @@
+{'index': 'market', 'name': 'NIFTY 50', 'kind': 'prices', 'rows': 2678, 'start': '2016-01-01', 'end': '2026-10-23'}
+{'index': 'market', 'name': 'NIFTY 50', 'kind': 'valuation', 'rows': 2678, 'start': '2016-01-01', 'end': '2026-10-23'}
+{'index': 'bank', 'name': 'NIFTY BANK', 'kind': 'prices', 'rows': 2678, 'start': '2016-01-01', 'end': '2026-10-23'}
+{'index': 'financial', 'name': 'NIFTY FINANCIAL SERVICES', 'kind': 'prices', 'rows': 2678, 'start': '2016-01-01', 'end': '2026-10-23'}
+{'index': 'it', 'name': 'NIFTY IT', 'kind': 'prices', 'rows': 2678, 'start': '2016-01-01', 'end': '2026-10-23'}
+{'index': 'fmcg', 'name': 'NIFTY FMCG', 'kind': 'prices', 'rows': 2678, 'start': '2016-01-01', 'end': '2026-10-23'}
+{'index': 'auto', 'name': 'NIFTY AUTO', 'kind': 'prices', 'rows': 2678, 'start': '2016-01-01', 'end': '2026-10-23'}
+{'index': 'pharma', 'name': 'NIFTY PHARMA', 'kind': 'prices', 'rows': 2678, 'start': '2016-01-01', 'end': '2026-10-23'}
+{'index': 'metal', 'name': 'NIFTY METAL', 'kind': 'prices', 'rows': 2678, 'start': '2016-01-01', 'end': '2026-10-23'}
+{'index': 'energy', 'name': 'NIFTY ENERGY', 'kind': 'prices', 'rows': 2678, 'start': '2016-01-01', 'end': '2026-10-23'}
+{'index': 'infra', 'name': 'NIFTY INFRASTRUCTURE', 'kind': 'prices', 'rows': 2678, 'start': '2016-01-01', 'end': '2026-10-23'}
+{'index': 'materials', 'name': 'NIFTY COMMODITIES', 'kind': 'prices', 'rows': 2678, 'start': '2016-01-01', 'end': '2026-10-23'}
+{'ticker': 'ASIANPAINT.NS', 'metadata_records': 20, 'usable_filings': 7, 'first_release': '2018-06-15T15:46:21+05:30', 'last_release': '2024-05-09T19:56:15+05:30'}
+{'ticker': 'AXISBANK.NS', 'metadata_records': 18, 'usable_filings': 0, 'first_release': None, 'last_release': None}
+{'ticker': 'BAJAJFINSV.NS', 'metadata_records': 16, 'usable_filings': 4, 'first_release': '2020-05-29T19:08:06+05:30', 'last_release': '2024-04-27T12:57:08+05:30'}
+{'ticker': 'BAJFINANCE.NS', 'metadata_records': 18, 'usable_filings': 4, 'first_release': '2020-05-29T19:12:08+05:30', 'last_release': '2024-04-25T21:18:16+05:30'}
+{'ticker': 'BHARTIARTL.NS', 'metadata_records': 19, 'usable_filings': 6, 'first_release': '2019-05-09T18:16:08+05:30', 'last_release': '2024-05-14T21:58:04+05:30'}
+{'ticker': 'BPCL.NS', 'metadata_records': 20, 'usable_filings': 6, 'first_release': '2019-01-29T11:56:03+05:30', 'last_release': '2024-05-10T12:37:29+05:30'}
+{'ticker': 'BRITANNIA.NS', 'metadata_records': 19, 'usable_filings': 6, 'first_release': '2018-05-25T18:06:16+05:30', 'last_release': '2024-05-04T17:09:32+05:30'}
+{'ticker': 'CIPLA.NS', 'metadata_records': 20, 'usable_filings': 7, 'first_release': '2018-05-25T16:14:47+05:30', 'last_release': '2024-05-11T10:20:20+05:30'}
+{'ticker': 'COALINDIA.NS', 'metadata_records': 20, 'usable_filings': 7, 'first_release': '2018-09-04T15:09:02+05:30', 'last_release': '2024-05-02T18:35:46+05:30'}
+{'ticker': 'DABUR.NS', 'metadata_records': 20, 'usable_filings': 7, 'first_release': '2018-06-21T16:22:44+05:30', 'last_release': '2024-05-03T14:04:13+05:30'}
+{'ticker': 'DRREDDY.NS', 'metadata_records': 20, 'usable_filings': 7, 'first_release': '2018-05-26T11:18:02+05:30', 'last_release': '2024-05-07T20:21:11+05:30'}
+{'ticker': 'EICHERMOT.NS', 'metadata_records': 20, 'usable_filings': 7, 'first_release': '2018-06-15T19:30:37+05:30', 'last_release': '2024-05-11T14:09:57+05:30'}
+{'ticker': 'GAIL.NS', 'metadata_records': 18, 'usable_filings': 7, 'first_release': '2018-06-25T14:28:04+05:30', 'last_release': '2024-05-16T17:20:33+05:30'}
+{'ticker': 'GRASIM.NS', 'metadata_records': 18, 'usable_filings': 7, 'first_release': '2018-06-25T13:48:18+05:30', 'last_release': '2024-05-23T13:19:25+05:30'}
+{'ticker': 'HCLTECH.NS', 'metadata_records': 17, 'usable_filings': 6, 'first_release': '2018-05-26T13:12:19+05:30', 'last_release': '2024-04-26T20:50:16+05:30'}
+{'ticker': 'HDFCBANK.NS', 'metadata_records': 16, 'usable_filings': 0, 'first_release': None, 'last_release': None}
+{'ticker': 'HEROMOTOCO.NS', 'metadata_records': 20, 'usable_filings': 7, 'first_release': '2018-05-26T10:52:38+05:30', 'last_release': '2024-05-08T20:40:24+05:30'}
+{'ticker': 'HINDALCO.NS', 'metadata_records': 21, 'usable_filings': 7, 'first_release': '2018-06-21T17:44:49+05:30', 'last_release': '2024-05-24T17:46:24+05:30'}
+{'ticker': 'HINDUNILVR.NS', 'metadata_records': 20, 'usable_filings': 7, 'first_release': '2018-05-26T17:14:03+05:30', 'last_release': '2024-04-24T21:08:16+05:30'}
+{'ticker': 'ICICIBANK.NS', 'metadata_records': 16, 'usable_filings': 0, 'first_release': None, 'last_release': None}
+{'ticker': 'INDUSINDBK.NS', 'metadata_records': 13, 'usable_filings': 0, 'first_release': None, 'last_release': None}
+{'ticker': 'INFY.NS', 'metadata_records': 17, 'usable_filings': 6, 'first_release': '2019-10-18T18:44:07+05:30', 'last_release': '2024-04-19T11:32:16+05:30'}
+{'ticker': 'ITC.NS', 'metadata_records': 19, 'usable_filings': 7, 'first_release': '2018-06-08T15:30:04+05:30', 'last_release': '2024-05-23T17:03:51+05:30'}
+{'ticker': 'JSWSTEEL.NS', 'metadata_records': 20, 'usable_filings': 7, 'first_release': '2018-06-08T16:20:05+05:30', 'last_release': '2024-05-17T20:13:26+05:30'}
+{'ticker': 'LT.NS', 'metadata_records': 19, 'usable_filings': 7, 'first_release': '2018-06-22T19:56:03+05:30', 'last_release': '2024-05-09T15:54:17+05:30'}
+{'ticker': 'MARUTI.NS', 'metadata_records': 19, 'usable_filings': 6, 'first_release': '2019-05-24T18:38:09+05:30', 'last_release': '2024-04-27T10:26:00+05:30'}
+{'ticker': 'NTPC.NS', 'metadata_records': 19, 'usable_filings': 6, 'first_release': '2019-06-25T21:03:37+05:30', 'last_release': '2024-05-25T00:21:41+05:30'}
+{'ticker': 'ONGC.NS', 'metadata_records': 18, 'usable_filings': 6, 'first_release': '2018-06-22T19:08:03+05:30', 'last_release': '2024-05-21T17:00:33+05:30'}
+{'ticker': 'PIDILITIND.NS', 'metadata_records': 20, 'usable_filings': 7, 'first_release': '2018-06-25T13:40:24+05:30', 'last_release': '2024-05-08T11:07:53+05:30'}
+{'ticker': 'POWERGRID.NS', 'metadata_records': 20, 'usable_filings': 7, 'first_release': '2018-06-22T19:32:21+05:30', 'last_release': '2024-05-23T16:45:25+05:30'}
+{'ticker': 'RELIANCE.NS', 'metadata_records': 17, 'usable_filings': 5, 'first_release': '2019-05-06T14:16:09+05:30', 'last_release': '2024-04-22T19:50:17+05:30'}
+{'ticker': 'SBIN.NS', 'metadata_records': 19, 'usable_filings': 0, 'first_release': None, 'last_release': None}
+{'ticker': 'SHREECEM.NS', 'metadata_records': 18, 'usable_filings': 6, 'first_release': '2019-05-20T18:50:04+05:30', 'last_release': '2024-05-14T19:26:49+05:30'}
+{'ticker': 'SUNPHARMA.NS', 'metadata_records': 19, 'usable_filings': 6, 'first_release': '2018-06-19T19:09:28+05:30', 'last_release': '2024-05-22T20:24:43+05:30'}
+{'ticker': 'TATASTEEL.NS', 'metadata_records': 20, 'usable_filings': 7, 'first_release': '2018-06-19T18:06:17+05:30', 'last_release': '2024-05-29T20:11:15+05:30'}
+{'ticker': 'TCS.NS', 'metadata_records': 20, 'usable_filings': 6, 'first_release': '2019-04-23T18:30:04+05:30', 'last_release': '2024-04-12T21:04:16+05:30'}
+{'ticker': 'TECHM.NS', 'metadata_records': 18, 'usable_filings': 6, 'first_release': '2018-06-20T13:52:47+05:30', 'last_release': '2024-04-25T20:28:16+05:30'}
+{'ticker': 'TITAN.NS', 'metadata_records': 19, 'usable_filings': 7, 'first_release': '2018-06-18T18:31:28+05:30', 'last_release': '2024-05-03T23:30:23+05:30'}
+{'ticker': 'ULTRACEMCO.NS', 'metadata_records': 19, 'usable_filings': 6, 'first_release': '2019-06-26T14:37:41+05:30', 'last_release': '2024-04-29T20:25:29+05:30'}
+{'ticker': 'WIPRO.NS', 'metadata_records': 20, 'usable_filings': 6, 'first_release': '2019-04-23T18:40:14+05:30', 'last_release': '2024-04-19T16:42:16+05:30'}

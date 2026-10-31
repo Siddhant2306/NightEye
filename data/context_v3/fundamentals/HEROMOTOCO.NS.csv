@@ -1,0 +1,8 @@
+period_end,available_at,income,profit,net_margin,income_tag,profit_tag,context,context_inferred_from_annual_template,source,currency,consolidation
+2018-03-31,2018-05-26T10:52:38+05:30,336241100000.0,37221700000.0,0.11069943561331437,Income,ProfitLossForPeriod,FourD,True,https://nsearchives.nseindia.com/corporate/xbrl/INDAS_34812_8160_04052018102559_WEB.xml,INR,Consolidated
+2019-03-31,2019-05-06T15:38:02+05:30,346589600000.0,34663500000.0,0.10001309906586926,Income,ProfitLossForPeriod,FourD,True,https://nsearchives.nseindia.com/corporate/xbrl/INDAS_43660_99669_27042019032910_WEB.xml,INR,Consolidated
+2020-03-31,2020-06-10T16:46:10+05:30,299858800000.0,36594100000.0,0.1220377724448974,Income,ProfitLossForPeriod,FourD,True,https://nsearchives.nseindia.com/corporate/xbrl/INDAS_55743_264535_10062020044247_WEB.xml,INR,Consolidated
+2021-03-31,2021-05-07T17:54:04+05:30,315170900000.0,29360500000.0,0.09315739492446796,Income,ProfitLossForPeriod,FourD,True,https://nsearchives.nseindia.com/corporate/xbrl/INDAS_69754_446384_07052021055058_WEB.xml,INR,Consolidated
+2022-03-31,2022-05-04T16:30:09+05:30,301062900000.0,23290500000.0,0.07736091029482543,Income,ProfitLossForPeriod,FourD,True,https://nsearchives.nseindia.com/corporate/xbrl/INDAS_83920_650881_04052022042719_WEB.xml,INR,Consolidated
+2023-03-31,2023-05-05T10:16:04+05:30,347273900000.0,27999000000.0,0.08062512040208032,Income,ProfitLossForPeriod,FourD,True,https://nsearchives.nseindia.com/corporate/xbrl/INDAS_91212_837593_05052023101040.xml,INR,Consolidated
+2024-03-31,2024-05-08T20:40:24+05:30,386431600000.0,37421600000.0,0.09683887135524114,Income,ProfitLossForPeriod,FourD,True,https://nsearchives.nseindia.com/corporate/xbrl/INDAS_105487_1118473_08052024083952.xml,INR,Consolidated

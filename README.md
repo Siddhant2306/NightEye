@@ -1,5 +1,9 @@
 # NightEye
 
+LightGBM has a separate [training and prediction module](src/LightGBM/README.md), with frozen-feature benchmarks against XGBoost for daily, monthly and annual returns. The active linear-regression package has been removed; its previous generated results are retired under `artifacts/retired_linear_regression`.
+
+The market/sector/financial-context follow-up is documented in [RESEARCH_CONTEXT.md](RESEARCH_CONTEXT.md), with matched-baseline results in [RESULTS_CONTEXT.md](RESULTS_CONTEXT.md).
+
 The follow-up study with smaller statistical feature sets, 40 stocks, historical dividends, and a point-in-time valuation importer is documented in [RESEARCH_V2.md](RESEARCH_V2.md). Its measurements are in [RESULTS_REDUCED.md](RESULTS_REDUCED.md). The original study below remains a separate reference.
 
 Direct-horizon stock return forecasting with XGBoost. Predictions use daily OHLCV available **after the current market close**. Models predict cumulative log return over a specified number of future trading sessions, then convert it to an adjusted price. No Monte Carlo simulation is included.

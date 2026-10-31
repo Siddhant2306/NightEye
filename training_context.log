@@ -1,0 +1,1847 @@
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+price_only h=1 trial=1/12 CV=0.016088
+price_only h=1 trial=2/12 CV=0.016089
+price_only h=1 trial=3/12 CV=0.016088
+price_only h=1 trial=4/12 CV=0.016089
+price_only h=1 trial=5/12 CV=0.016086
+price_only h=1 trial=6/12 CV=0.016090
+price_only h=1 trial=7/12 CV=0.016088
+price_only h=1 trial=8/12 CV=0.016088
+price_only h=1 trial=9/12 CV=0.016089
+price_only h=1 trial=10/12 CV=0.016078
+price_only h=1 trial=11/12 CV=0.016086
+price_only h=1 trial=12/12 CV=0.016083
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+market h=1 trial=1/12 CV=0.016091
+market h=1 trial=2/12 CV=0.016092
+market h=1 trial=3/12 CV=0.016091
+market h=1 trial=4/12 CV=0.016091
+market h=1 trial=5/12 CV=0.016091
+market h=1 trial=6/12 CV=0.016092
+market h=1 trial=7/12 CV=0.016089
+market h=1 trial=8/12 CV=0.016091
+market h=1 trial=9/12 CV=0.016092
+market h=1 trial=10/12 CV=0.016091
+market h=1 trial=11/12 CV=0.016092
+market h=1 trial=12/12 CV=0.016090
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+market_sector h=1 trial=1/12 CV=0.016091
+market_sector h=1 trial=2/12 CV=0.016090
+market_sector h=1 trial=3/12 CV=0.016091
+market_sector h=1 trial=4/12 CV=0.016091
+market_sector h=1 trial=5/12 CV=0.016091
+market_sector h=1 trial=6/12 CV=0.016092
+market_sector h=1 trial=7/12 CV=0.016090
+market_sector h=1 trial=8/12 CV=0.016091
+market_sector h=1 trial=9/12 CV=0.016092
+market_sector h=1 trial=10/12 CV=0.016092
+market_sector h=1 trial=11/12 CV=0.016092
+market_sector h=1 trial=12/12 CV=0.016088
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+market_sector_valuation h=1 trial=1/12 CV=0.016091
+market_sector_valuation h=1 trial=2/12 CV=0.016091
+market_sector_valuation h=1 trial=3/12 CV=0.016091
+market_sector_valuation h=1 trial=4/12 CV=0.016091
+market_sector_valuation h=1 trial=5/12 CV=0.016090
+market_sector_valuation h=1 trial=6/12 CV=0.016091
+market_sector_valuation h=1 trial=7/12 CV=0.016088
+market_sector_valuation h=1 trial=8/12 CV=0.016092
+market_sector_valuation h=1 trial=9/12 CV=0.016091
+market_sector_valuation h=1 trial=10/12 CV=0.016091
+market_sector_valuation h=1 trial=11/12 CV=0.016090
+market_sector_valuation h=1 trial=12/12 CV=0.016090
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+market_sector_fundamentals h=1 trial=1/12 CV=0.016091
+market_sector_fundamentals h=1 trial=2/12 CV=0.016091
+market_sector_fundamentals h=1 trial=3/12 CV=0.016091
+market_sector_fundamentals h=1 trial=4/12 CV=0.016091
+market_sector_fundamentals h=1 trial=5/12 CV=0.016090
+market_sector_fundamentals h=1 trial=6/12 CV=0.016091
+market_sector_fundamentals h=1 trial=7/12 CV=0.016087
+market_sector_fundamentals h=1 trial=8/12 CV=0.016092
+market_sector_fundamentals h=1 trial=9/12 CV=0.016091
+market_sector_fundamentals h=1 trial=10/12 CV=0.016091
+market_sector_fundamentals h=1 trial=11/12 CV=0.016090
+market_sector_fundamentals h=1 trial=12/12 CV=0.016090
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6414
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Features created: 18
+Usable rows after feature engineering: 5727
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5791
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6404
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Features created: 18
+Usable rows after feature engineering: 3714
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6410
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6229
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Features created: 18
+Usable rows after feature engineering: 5715
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Features created: 18
+Usable rows after feature engineering: 5792
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6416
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Features created: 18
+Usable rows after feature engineering: 5545
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Features created: 18
+Usable rows after feature engineering: 5770
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Features created: 18
+Usable rows after feature engineering: 5532
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Features created: 18
+Usable rows after feature engineering: 5196
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5791
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Features created: 18
+Usable rows after feature engineering: 4470
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Features created: 18
+Usable rows after feature engineering: 6041
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Features created: 18
+Usable rows after feature engineering: 5518
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Features created: 18
+Usable rows after feature engineering: 4745
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Features created: 18
+Usable rows after feature engineering: 5759
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6415
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+price_only h=21 trial=1/12 CV=0.070910
+price_only h=21 trial=2/12 CV=0.070905
+price_only h=21 trial=3/12 CV=0.070903
+price_only h=21 trial=4/12 CV=0.070903
+price_only h=21 trial=5/12 CV=0.070906
+price_only h=21 trial=6/12 CV=0.070904
+price_only h=21 trial=7/12 CV=0.070903
+price_only h=21 trial=8/12 CV=0.070900
+price_only h=21 trial=9/12 CV=0.070904
+price_only h=21 trial=10/12 CV=0.070907
+price_only h=21 trial=11/12 CV=0.070904
+price_only h=21 trial=12/12 CV=0.070900
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+market h=21 trial=1/12 CV=0.070967
+market h=21 trial=2/12 CV=0.070756
+market h=21 trial=3/12 CV=0.070943
+market h=21 trial=4/12 CV=0.070874
+market h=21 trial=5/12 CV=0.071003
+market h=21 trial=6/12 CV=0.071006
+market h=21 trial=7/12 CV=0.070872
+market h=21 trial=8/12 CV=0.070933
+market h=21 trial=9/12 CV=0.071009
+market h=21 trial=10/12 CV=0.070915
+market h=21 trial=11/12 CV=0.071009
+market h=21 trial=12/12 CV=0.070907
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+market_sector h=21 trial=1/12 CV=0.070931
+market_sector h=21 trial=2/12 CV=0.070825
+market_sector h=21 trial=3/12 CV=0.070922
+market_sector h=21 trial=4/12 CV=0.070882
+market_sector h=21 trial=5/12 CV=0.070947
+market_sector h=21 trial=6/12 CV=0.070950
+market_sector h=21 trial=7/12 CV=0.070970
+market_sector h=21 trial=8/12 CV=0.070928
+market_sector h=21 trial=9/12 CV=0.070944
+market_sector h=21 trial=10/12 CV=0.070910
+market_sector h=21 trial=11/12 CV=0.070944
+market_sector h=21 trial=12/12 CV=0.070914
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+market_sector_valuation h=21 trial=1/12 CV=0.070930
+market_sector_valuation h=21 trial=2/12 CV=0.070467
+market_sector_valuation h=21 trial=3/12 CV=0.070922
+market_sector_valuation h=21 trial=4/12 CV=0.070550
+market_sector_valuation h=21 trial=5/12 CV=0.070941
+market_sector_valuation h=21 trial=6/12 CV=0.070948
+market_sector_valuation h=21 trial=7/12 CV=0.070680
+market_sector_valuation h=21 trial=8/12 CV=0.070672
+market_sector_valuation h=21 trial=9/12 CV=0.070941
+market_sector_valuation h=21 trial=10/12 CV=0.070910
+market_sector_valuation h=21 trial=11/12 CV=0.070941
+market_sector_valuation h=21 trial=12/12 CV=0.070629
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6415
+market_sector_fundamentals h=21 trial=1/12 CV=0.070854
+market_sector_fundamentals h=21 trial=2/12 CV=0.070576
+market_sector_fundamentals h=21 trial=3/12 CV=0.070878
+market_sector_fundamentals h=21 trial=4/12 CV=0.070635
+market_sector_fundamentals h=21 trial=5/12 CV=0.070854
+market_sector_fundamentals h=21 trial=6/12 CV=0.070869
+market_sector_fundamentals h=21 trial=7/12 CV=0.070569
+market_sector_fundamentals h=21 trial=8/12 CV=0.070432
+market_sector_fundamentals h=21 trial=9/12 CV=0.070841
+market_sector_fundamentals h=21 trial=10/12 CV=0.070909
+market_sector_fundamentals h=21 trial=11/12 CV=0.070841
+market_sector_fundamentals h=21 trial=12/12 CV=0.070734
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6184
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Features created: 18
+Usable rows after feature engineering: 5497
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5561
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6174
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Features created: 18
+Usable rows after feature engineering: 3484
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6180
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 5999
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Features created: 18
+Usable rows after feature engineering: 5485
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Features created: 18
+Usable rows after feature engineering: 5562
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6186
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Features created: 18
+Usable rows after feature engineering: 5315
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Features created: 18
+Usable rows after feature engineering: 5540
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Features created: 18
+Usable rows after feature engineering: 5302
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Features created: 18
+Usable rows after feature engineering: 4966
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Features created: 18
+Usable rows after feature engineering: 5561
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Features created: 18
+Usable rows after feature engineering: 4240
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Features created: 18
+Usable rows after feature engineering: 5811
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Features created: 18
+Usable rows after feature engineering: 5288
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Features created: 18
+Usable rows after feature engineering: 4515
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Features created: 18
+Usable rows after feature engineering: 5529
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Features created: 18
+Usable rows after feature engineering: 6185
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+price_only h=252 trial=1/12 CV=0.211227
+price_only h=252 trial=2/12 CV=0.211085
+price_only h=252 trial=3/12 CV=0.211076
+price_only h=252 trial=4/12 CV=0.211048
+price_only h=252 trial=5/12 CV=0.211554
+price_only h=252 trial=6/12 CV=0.211675
+price_only h=252 trial=7/12 CV=0.211547
+price_only h=252 trial=8/12 CV=0.211595
+price_only h=252 trial=9/12 CV=0.211680
+price_only h=252 trial=10/12 CV=0.210919
+price_only h=252 trial=11/12 CV=0.211679
+price_only h=252 trial=12/12 CV=0.211618
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+market h=252 trial=1/12 CV=0.211669
+market h=252 trial=2/12 CV=0.211078
+market h=252 trial=3/12 CV=0.211269
+market h=252 trial=4/12 CV=0.211149
+market h=252 trial=5/12 CV=0.212046
+market h=252 trial=6/12 CV=0.212133
+market h=252 trial=7/12 CV=0.211728
+market h=252 trial=8/12 CV=0.212050
+market h=252 trial=9/12 CV=0.212147
+market h=252 trial=10/12 CV=0.211029
+market h=252 trial=11/12 CV=0.212147
+market h=252 trial=12/12 CV=0.212073
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+market_sector h=252 trial=1/12 CV=0.211689
+market_sector h=252 trial=2/12 CV=0.211257
+market_sector h=252 trial=3/12 CV=0.211285
+market_sector h=252 trial=4/12 CV=0.211337
+market_sector h=252 trial=5/12 CV=0.212113
+market_sector h=252 trial=6/12 CV=0.211971
+market_sector h=252 trial=7/12 CV=0.212208
+market_sector h=252 trial=8/12 CV=0.212184
+market_sector h=252 trial=9/12 CV=0.211969
+market_sector h=252 trial=10/12 CV=0.211032
+market_sector h=252 trial=11/12 CV=0.211969
+market_sector h=252 trial=12/12 CV=0.212043
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+market_sector_valuation h=252 trial=1/12 CV=0.211995
+market_sector_valuation h=252 trial=2/12 CV=0.210843
+market_sector_valuation h=252 trial=3/12 CV=0.211573
+market_sector_valuation h=252 trial=4/12 CV=0.211301
+market_sector_valuation h=252 trial=5/12 CV=0.212862
+market_sector_valuation h=252 trial=6/12 CV=0.212801
+market_sector_valuation h=252 trial=7/12 CV=0.212204
+market_sector_valuation h=252 trial=8/12 CV=0.212349
+market_sector_valuation h=252 trial=9/12 CV=0.212835
+market_sector_valuation h=252 trial=10/12 CV=0.207424
+market_sector_valuation h=252 trial=11/12 CV=0.212834
+market_sector_valuation h=252 trial=12/12 CV=0.212356
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Features created: 18
+Usable rows after feature engineering: 6185
+market_sector_fundamentals h=252 trial=1/12 CV=0.211642
+market_sector_fundamentals h=252 trial=2/12 CV=0.211249
+market_sector_fundamentals h=252 trial=3/12 CV=0.211501
+market_sector_fundamentals h=252 trial=4/12 CV=0.211187
+market_sector_fundamentals h=252 trial=5/12 CV=0.212677
+market_sector_fundamentals h=252 trial=6/12 CV=0.204901
+market_sector_fundamentals h=252 trial=7/12 CV=0.204574
+market_sector_fundamentals h=252 trial=8/12 CV=0.212250
+market_sector_fundamentals h=252 trial=9/12 CV=0.204417
+market_sector_fundamentals h=252 trial=10/12 CV=0.206565
+market_sector_fundamentals h=252 trial=11/12 CV=0.204402
+market_sector_fundamentals h=252 trial=12/12 CV=0.205037
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6004
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6687
+Data range: 2010-11-04 to 2026-10-23
+Valid rows: 3938
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6009
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6036
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2003-05-08 to 2026-10-23
+Valid rows: 5815
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6038
+Data range: 2003-07-09 to 2026-10-23
+Valid rows: 5771
+Data range: 2004-11-05 to 2026-10-23
+Valid rows: 5424
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2002-07-01 to 2026-10-23
+Valid rows: 6035
+Data range: 2007-10-05 to 2026-10-23
+Valid rows: 4697
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6685
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6686
+Data range: 2001-07-02 to 2026-10-23
+Valid rows: 6295
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6006
+Data range: 2006-08-28 to 2026-10-23
+Valid rows: 4972
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+Data range: 2002-08-12 to 2026-10-23
+Valid rows: 6005
+Data range: 2000-01-03 to 2026-10-23
+Valid rows: 6688
+{
+  "1": {
+    "family": "price_only",
+    "cv_rmse": 0.01607760094974886,
+    "model_path": "C:\\Users\\Siddhant\\NightEye\\artifacts\\context_v3\\price_only\\h1\\model.joblib"
+  },
+  "21": {
+    "family": "market_sector_fundamentals",
+    "cv_rmse": 0.07043170568260596,
+    "model_path": "C:\\Users\\Siddhant\\NightEye\\artifacts\\context_v3\\market_sector_fundamentals\\h21\\model.joblib"
+  },
+  "252": {
+    "family": "market_sector_fundamentals",
+    "cv_rmse": 0.2044015477280922,
+    "model_path": "C:\\Users\\Siddhant\\NightEye\\artifacts\\context_v3\\market_sector_fundamentals\\h252\\model.joblib"
+  }
+}

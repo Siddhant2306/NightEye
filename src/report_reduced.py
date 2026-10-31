@@ -16,6 +16,11 @@ def paired_intervals(frame, horizon, baseline, repeats=1000):
     rng = np.random.default_rng(1701)
     n = len(values)
     block = max(21, horizon)
+    if n < 2*block:
+        return dict(baseline=baseline, block_sessions=block, dates=n,
+                    approximate_mse_difference_ci95=None,
+                    approximate_direction_excess_vs_always_up_ci95=None,
+                    note='Insufficient time coverage for two horizon-sized blocks; no uncertainty interval reported')
     samples = []
     for _ in range(repeats):
         starts = rng.integers(0, n, int(np.ceil(n/block)))

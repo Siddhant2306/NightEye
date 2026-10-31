@@ -1,0 +1,86 @@
+{
+  "retrieved_at": "2026-10-29T20:53:14.142383+00:00",
+  "records": [
+    {
+      "name": "nifty",
+      "url": "https://www.niftyindices.com/reports/historical-data",
+      "status": 200,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-0821T6PLHB",
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js",
+        "https://www.niftyindices.com/assets/js/jquery-3.7.1.min.js",
+        "https://www.niftyindices.com/assets/js/developer.js",
+        "https://liveindexsa.niftyindices.com/assets/js/historicalData.js",
+        "https://liveindexsa.niftyindices.com/assets/js/IISLComponet.js",
+        "https://liveindexsa.niftyindices.com/assets/js/developer.js",
+        "https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.js",
+        "https://liveindexsa.niftyindices.com/assets/js/vendor.js",
+        "https://liveindexsa.niftyindices.com/assets/js/global.js",
+        "https://liveindexsa.niftyindices.com/assets/js/IISLComponet.js"
+      ],
+      "relevant_scripts": [
+        "https://liveindexsa.niftyindices.com/assets/js/historicalData.js"
+      ]
+    },
+    {
+      "name": "nse",
+      "url": "https://www.nseindia.com/companies-listing/corporate-filings-financial-results",
+      "status": 200,
+      "scripts": [
+        "https://www.nseindia.com/dist/js/blinkui/src/blinkui.js?v=16102026",
+        "https://www.nseindia.com/assets/js/nse-min.js?v=16102026",
+        "https://www.googletagmanager.com/gtag/js?id=G-87M7PJ3R97",
+        "https://www.nseindia.com/assets/js/multilingual/library.js",
+        "https://www.nseindia.com/dist/js/realtime/header-nifty.js",
+        "https://www.nseindia.com/assets/js/moment.min.js?v=16102026",
+        "https://www.nseindia.com/dist/js/components/corporate-filing/corporate-governance.js?v=16102026",
+        "https://www.nseindia.com/dist/js/components/corporate-filing/shareholder-pattern.js?v=16102026",
+        "https://www.nseindia.com/dist/js/components/corporate-filing/financial-results.js?v=16102026",
+        "https://www.nseindia.com/dist/js/components/corporate-filing/results-comparison.js?v=16102026",
+        "https://www.nseindia.com/dist/js/components/corporate-filing/financial-results-formats/format14.js?v=16102026",
+        "https://www.nseindia.com/dist/js/components/corporate-filing/financial-results-formats/format13.js?v=16102026",
+        "https://www.nseindia.com/dist/js/components/corporate-filing/financial-results-formats/format11.js?v=16102026",
+        "https://www.nseindia.com/dist/js/components/corporate-filing/financial-results-formats/format10.js?v=16102026",
+        "https://www.nseindia.com/dist/js/components/corporate-filing/financial-results-formats/formatsme.js?v=16102026",
+        "https://www.nseindia.com/dist/js/sections/corporate-filings.js?v=16102026",
+        "https://www.nseindia.com/dist/js/components/corporate-filing/csps/financial-results-csp.js?v=16102026",
+        "https://www.nseindia.com/dist/js/components/quick-links.js?v=16102026",
+        "https://www.nseindia.com/assets/js/jquery-3.6.0.min.js?v=16102026",
+        "https://www.nseindia.com/assets/js/popper.min.js?v=16102026",
+        "https://www.nseindia.com/assets/js/bootstrap.min.js?v=16102026",
+        "https://www.nseindia.com/assets/js/jquery.responsivetabs.js?v=16102026",
+        "https://www.nseindia.com/assets/js/jquery.pmCustomScrollbar.min.js?v=16102026",
+        "https://www.nseindia.com/assets/js/slick.min.js?v=16102026",
+        "https://www.nseindia.com/assets/js/bootstrap-multiselect.min.js?v=16102026",
+        "https://www.nseindia.com/assets/js/stock/highstock.js?v=16102026",
+        "https://www.nseindia.com/assets/js/rangeslider.min.js?v=16102026",
+        "https://www.nseindia.com/assets/js/gijgo.min.js?v=16102026",
+        "https://www.nseindia.com/assets/js/excellentexport.js?v=16102026",
+        "https://www.nseindia.com/assets/js/typeahead.bundle.js?v=16102026",
+        "https://www.nseindia.com/assets/js/polyfill.min.js?v=16102026",
+        "https://www.nseindia.com/assets/js/metisMenu.min.js?v=16102026",
+        "https://www.nseindia.com/assets/js/multilingual/multilang.js?v=16102026",
+        "https://www.nseindia.com/dist/js/static/public/assets/js/common.js?v=16102026",
+        "https://www.nseindia.com/assets/js/pagination.min.js?v=16102026",
+        "https://www.nseindia.com/assets/js/sweetalert.min.js?v=16102026",
+        "https://www.nseindia.com/assets/js/tableExport.js?v=16102026",
+        "https://www.nseindia.com/dist/js/static/public/assets/js/regulatoryStatusModule.js?v=16102026",
+        "https://www.nseindia.com/assets/js/multilingual/P9_Language.js?v=16102026",
+        "https://www.nseindia.com/WTauFd3c/WfZE4IC/fiMQPR0/P_/uJ3cJhLzVQXf6rp3/Vk9uag/JlVeGFl/DbRk"
+      ],
+      "relevant_scripts": [
+        "https://www.nseindia.com/dist/js/components/corporate-filing/corporate-governance.js?v=16102026",
+        "https://www.nseindia.com/dist/js/components/corporate-filing/shareholder-pattern.js?v=16102026",
+        "https://www.nseindia.com/dist/js/components/corporate-filing/financial-results.js?v=16102026",
+        "https://www.nseindia.com/dist/js/components/corporate-filing/results-comparison.js?v=16102026",
+        "https://www.nseindia.com/dist/js/components/corporate-filing/financial-results-formats/format14.js?v=16102026",
+        "https://www.nseindia.com/dist/js/components/corporate-filing/financial-results-formats/format13.js?v=16102026",
+        "https://www.nseindia.com/dist/js/components/corporate-filing/financial-results-formats/format11.js?v=16102026",
+        "https://www.nseindia.com/dist/js/components/corporate-filing/financial-results-formats/format10.js?v=16102026",
+        "https://www.nseindia.com/dist/js/components/corporate-filing/financial-results-formats/formatsme.js?v=16102026",
+        "https://www.nseindia.com/dist/js/sections/corporate-filings.js?v=16102026",
+        "https://www.nseindia.com/dist/js/components/corporate-filing/csps/financial-results-csp.js?v=16102026"
+      ]
+    }
+  ]
+}

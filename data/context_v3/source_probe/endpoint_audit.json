@@ -1,0 +1,92 @@
+[
+  {
+    "name": "nifty_developer",
+    "url": "https://liveindexsa.niftyindices.com/assets/js/developer.js",
+    "status": 200,
+    "bytes": 31049
+  },
+  {
+    "name": "nifty_component",
+    "url": "https://liveindexsa.niftyindices.com/assets/js/IISLComponet.js",
+    "status": 200,
+    "bytes": 191164
+  },
+  {
+    "name": "nifty_new_developer",
+    "url": "https://www.niftyindices.com/assets/js/developer.js",
+    "status": 200,
+    "bytes": 32268
+  },
+  {
+    "name": "nse_results_2020",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=RELIANCE&period=Annual&from_date=01-01-2020&to_date=31-12-2020",
+    "status": 200,
+    "bytes": 1501,
+    "sample": [
+      {
+        "audited": "Audited",
+        "bank": "N",
+        "broadCastDate": "03-Jun-2020 11:45:47",
+        "companyName": "Reliance Industries Limited",
+        "consolidated": "Consolidated",
+        "cumulative": "Cumulative",
+        "difference": "00:02:32",
+        "exchdisstime": "03-Jun-2020 11:48:19",
+        "filingDate": "03-Jun-2020 11:45",
+        "financialYear": "01-Apr-2019 To 31-Mar-2020",
+        "format": "New",
+        "fromDate": "01-Apr-2019",
+        "indAs": "Ind-AS New",
+        "industry": "-",
+        "isin": "INE002A01018",
+        "oldNewFlag": "N",
+        "params": "01-Apr-201931-Mar-2020ANANCCNERELIANCE",
+        "period": "Annual",
+        "reInd": "N",
+        "relatingTo": "Annual",
+        "resultDescription": null,
+        "resultDetailedDataLink": null,
+        "seqNumber": "1081420",
+        "symbol": "RELIANCE",
+        "toDate": "31-Mar-2020",
+        "xbrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_54974_246436_30042020101801_WEB.xml"
+      }
+    ]
+  },
+  {
+    "name": "nse_results_recent",
+    "url": "https://www.nseindia.com/api/corporates-financial-results?index=equities&symbol=RELIANCE&period=Quarterly&from_date=01-01-2024&to_date=31-12-2024",
+    "status": 200,
+    "bytes": 6119,
+    "sample": [
+      {
+        "audited": "Un-Audited",
+        "bank": "N",
+        "broadCastDate": "14-Oct-2024 19:32:45",
+        "companyName": "Reliance Industries Limited",
+        "consolidated": "Consolidated",
+        "cumulative": "Non-cumulative",
+        "difference": "00:00:35",
+        "exchdisstime": "14-Oct-2024 19:33:20",
+        "filingDate": "14-Oct-2024 19:32",
+        "financialYear": "01-Apr-2024 To 31-Mar-2025",
+        "format": "New",
+        "fromDate": "01-Jul-2024",
+        "indAs": "Ind-AS New",
+        "industry": "-",
+        "isin": "INE002A01018",
+        "oldNewFlag": "N",
+        "params": "01-Jul-202430-Sep-2024Q2UNNCNERELIANCE",
+        "period": "Quarterly",
+        "reInd": "N",
+        "relatingTo": "Second Quarter",
+        "resultDescription": null,
+        "resultDetailedDataLink": null,
+        "seqNumber": "1181443",
+        "symbol": "RELIANCE",
+        "toDate": "30-Sep-2024",
+        "xbrl": "https://nsearchives.nseindia.com/corporate/xbrl/INDAS_112771_1269085_14102024073244.xml"
+      }
+    ]
+  }
+]
