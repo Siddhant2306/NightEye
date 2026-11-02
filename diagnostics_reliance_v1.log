@@ -1,0 +1,35 @@
+Plotting xgboost h1; reconstructing selected validation folds
+Plotting lightgbm h1; reconstructing selected validation folds
+Plotting lstm h1; reconstructing selected validation folds
+    epoch 1/8: {'epoch': 1, 'training_loss': 1.182829558050778, 'validation_loss': 0.9091396779223915}
+    epoch 2/8: {'epoch': 2, 'training_loss': 1.1730102556971709, 'validation_loss': 0.9081909957973437}
+    epoch 3/8: {'epoch': 3, 'training_loss': 1.170877453725632, 'validation_loss': 0.9086144822288487}
+    epoch 4/8: {'epoch': 4, 'training_loss': 1.1686958798797988, 'validation_loss': 0.9105053638905729}
+    epoch 5/8: {'epoch': 5, 'training_loss': 1.1681008515472102, 'validation_loss': 0.9093022658851969}
+    epoch 1/8: {'epoch': 1, 'training_loss': 1.180213182071387, 'validation_loss': 0.8739502902381714}
+    epoch 2/8: {'epoch': 2, 'training_loss': 1.1730109891144362, 'validation_loss': 0.8744748463150017}
+    epoch 3/8: {'epoch': 3, 'training_loss': 1.170882602792731, 'validation_loss': 0.8748144674381714}
+    epoch 4/8: {'epoch': 4, 'training_loss': 1.1697473554347517, 'validation_loss': 0.8756857400206838}
+Plotting xgboost h21; reconstructing selected validation folds
+Plotting lightgbm h21; reconstructing selected validation folds
+Plotting lstm h21; reconstructing selected validation folds
+    epoch 1/8: {'epoch': 1, 'training_loss': 1.1348661611789492, 'validation_loss': 0.893735416077021}
+    epoch 2/8: {'epoch': 2, 'training_loss': 1.0455916546812443, 'validation_loss': 0.9342519129738959}
+    epoch 3/8: {'epoch': 3, 'training_loss': 0.9514279225992122, 'validation_loss': 0.9305297096605113}
+    epoch 4/8: {'epoch': 4, 'training_loss': 0.8643139140258268, 'validation_loss': 0.9417849901413525}
+    epoch 1/8: {'epoch': 1, 'training_loss': 1.1369644052664707, 'validation_loss': 0.9037806311871011}
+    epoch 2/8: {'epoch': 2, 'training_loss': 1.0460851476481507, 'validation_loss': 0.9755859565833417}
+    epoch 3/8: {'epoch': 3, 'training_loss': 0.9409841788335532, 'validation_loss': 1.0150669793790128}
+    epoch 4/8: {'epoch': 4, 'training_loss': 0.8572474124169381, 'validation_loss': 1.0373821308279458}
+Plotting xgboost h252; reconstructing selected validation folds
+Plotting lightgbm h252; reconstructing selected validation folds
+Plotting lstm h252; reconstructing selected validation folds
+    epoch 1/8: {'epoch': 1, 'training_loss': 1.1201749657655438, 'validation_loss': 2.4231357029900167}
+    epoch 2/8: {'epoch': 2, 'training_loss': 1.0057678788934536, 'validation_loss': 3.4062648546260066}
+    epoch 3/8: {'epoch': 3, 'training_loss': 0.9117949798822754, 'validation_loss': 3.598993493007253}
+    epoch 4/8: {'epoch': 4, 'training_loss': 0.8256828792360268, 'validation_loss': 3.5930463466780567}
+    epoch 1/8: {'epoch': 1, 'training_loss': 0.9918459954228166, 'validation_loss': 0.7380714678706607}
+    epoch 2/8: {'epoch': 2, 'training_loss': 0.7890414298260922, 'validation_loss': 0.7975623520057927}
+    epoch 3/8: {'epoch': 3, 'training_loss': 0.7112618463849373, 'validation_loss': 0.8969457574532348}
+    epoch 4/8: {'epoch': 4, 'training_loss': 0.6498973191609307, 'validation_loss': 0.9649464174662911}
+Charts: C:\Users\Siddhant\NightEye\artifacts\diagnostics\reliance_v1\index.html

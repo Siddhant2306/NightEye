@@ -1,0 +1,24 @@
+Data range: 2016-01-01 to 2026-10-30
+Valid rows: 2675
+Reported xgboost h1
+Reported lightgbm h1
+Reported lstm h1
+Features created: 18
+Usable rows after feature engineering: 2474
+Reported xgboost h21
+Features created: 18
+Usable rows after feature engineering: 2474
+Reported lightgbm h21
+Features created: 18
+Usable rows after feature engineering: 2474
+Reported lstm h21
+Features created: 18
+Usable rows after feature engineering: 2474
+Reported xgboost h252
+Features created: 18
+Usable rows after feature engineering: 2474
+Reported lightgbm h252
+Features created: 18
+Usable rows after feature engineering: 2474
+Reported lstm h252
+Completed C:\Users\Siddhant\NightEye\artifacts\forecasting\repair_study_v1

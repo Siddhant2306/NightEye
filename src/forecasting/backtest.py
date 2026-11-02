@@ -158,15 +158,23 @@ def main():
                 model=joblib.load(experiment/f"h{h}"/algorithm/"model.joblib")
                 if context_hashes(Path(model["context_dir"]))!=manifest["context_hashes"]:
                     raise ValueError("Context snapshot no longer matches experiment")
-                if h not in panels:
-                    panels[h]=prepare(inference_histories,h,Path(model["context_dir"]))[0]
-                panel=panels[h]
-                if algorithm=="lstm":
+                is_v2=model.get("feature_schema","").startswith("nighteye-features-v2")
+                cache_key=(h,str(experiment.resolve()) if is_v2 else "legacy")
+                if cache_key not in panels:
+                    if is_v2:
+                        panels[cache_key]=joblib.load(experiment/"data"/f"unlabeled_h{h}.joblib")
+                    else: panels[cache_key]=prepare(inference_histories,h,Path(model["context_dir"]))[0]
+                panel=panels[cache_key]
+                if is_v2:
+                    from src.feature_engineering_v2.inference import predict_pair
+                    panel=predict_pair(model,panel)
+                elif algorithm=="lstm":
                     from src.LSTM.model import sequences
                     panel=sequences(panel,model["regression"]["columns"],model["regression"]["lookback"])
                 frame=panel.loc[panel.index>=pd.Timestamp(manifest["boundaries"]["test"])].copy()
-                frame["regression"]=raw_predict(model["regression"],frame)
-                frame["probability_up"]=probability(model["direction"],frame,model["calibrator"])
+                if not is_v2:
+                    frame["regression"]=raw_predict(model["regression"],frame)
+                    frame["probability_up"]=probability(model["direction"],frame,model["calibrator"])
                 if args.tickers:
                     if set(args.tickers)-set(frame.ticker): raise ValueError("Requested ticker not in test")
                     frame=frame.loc[frame.ticker.isin(args.tickers)]

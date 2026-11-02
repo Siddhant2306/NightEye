@@ -1,5 +1,11 @@
 # NightEye
 
+[Controlled repair study](REPAIR_STUDY.md) records the code/feature review, validation-only trials, baseline comparisons and dated final prediction charts.
+
+[Feature engineering v2](FEATURE_ENGINEERING_V2.md) documents the isolated feature/regularization study, safe reuse of trained weights, independent LSTM checkpoints, final comparisons and Monte Carlo path reports.
+
+[Training, validation and test graphs](MODEL_GRAPHS.md) provides separate actual/predicted price, return and error panels plus learning curves for every algorithm and horizon. Run `python -m src.forecasting.diagnostics` with a stock ticker and a new diagnostics output folder.
+
 [LSTM, backtesting and fresh market paper testing](LSTM_MARKET_TESTING.md) adds a PyTorch sequence model, cost-aware next-open historical backtests, and an immutable forecast journal scored after future sessions occur. LSTM reuses the Monte Carlo reports. No broker orders are placed.
 
 The new [forecasting pipeline](FORECASTING.md) trains **both XGBoost and LightGBM** with chronological 80/20 development/test dates, purged validation, separate direction classifiers, probability calibration, selected technical features and Monte Carlo scenario reports. Use `python -m src.forecasting.train` and `python -m src.forecasting.predict` for this complete output; the older commands below remain historical benchmarks.

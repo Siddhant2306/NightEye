@@ -18,6 +18,9 @@ from src.LightGBM.train import protected_hashes
 
 def verify(directory):
     protocol = json.loads((directory/"protocol.json").read_text())
+    if protocol.get("feature_schema","").startswith("nighteye-features-v2"):
+        from src.feature_engineering_v2.verify import verify as verify_v2
+        return verify_v2(directory)
     if protocol.get("version") != VERSION:
         raise ValueError("Wrong experiment version")
     for source in protocol["source_prices"]:

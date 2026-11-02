@@ -18,15 +18,20 @@ def forecast(history, bundle, ticker, paths=5000, seed=42, context_dir=None):
     if bundle.get("version") != VERSION:
         raise ValueError("Unsupported forecast bundle")
     horizon = bundle["horizon"]
-    frame, _ = build(history, horizon, ticker, context_dir or bundle["context_dir"], include_target=False)
-    if bundle["algorithm"] == "lstm":
+    is_v2=bundle.get("feature_schema","").startswith("nighteye-features-v2")
+    if is_v2:
+        from src.feature_engineering_v2.inference import build_one,predict_pair
+        frame=predict_pair(bundle,build_one(history,bundle,ticker,context_dir))
+    else:
+        frame, _ = build(history, horizon, ticker, context_dir or bundle["context_dir"], include_target=False)
+    if bundle["algorithm"] == "lstm" and not is_v2:
         from src.LSTM.model import sequences
         frame = sequences(frame, bundle["regression"]["columns"], bundle["regression"]["lookback"])
     if frame.empty or frame.index[-1] != history.index.max():
         raise ValueError("Latest stock row lacks eligible context/features; update stock and context together")
     row = frame.iloc[[-1]]
-    estimate = float(raw_predict(bundle["regression"], row)[0])
-    p = float(probability(bundle["direction"], row, bundle["calibrator"])[0])
+    estimate = float(row.regression.iloc[0]) if is_v2 else float(raw_predict(bundle["regression"], row)[0])
+    p = float(row.probability_up.iloc[0]) if is_v2 else float(probability(bundle["direction"], row, bundle["calibrator"])[0])
     threshold = bundle["threshold"]
     signal = "UP" if p >= threshold else "NOT_UP" if p <= 1-threshold else "NO_SIGNAL"
     current, risk = float(row.close.iloc[0]), float(row.risk_scale.iloc[0])

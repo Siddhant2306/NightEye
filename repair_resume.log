@@ -1,0 +1,21 @@
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\Siddhant\NightEye\src\repair_study\study.py", line 278, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "C:\Users\Siddhant\NightEye\src\repair_study\study.py", line 269, in main
+    for task in as_completed([pool.submit(worker,a) for a in ['xgboost','lightgbm','lstm']]):task.result()
+                                                                                             ^^^^^^^^^^^^^
+  File "C:\Users\Siddhant\miniconda3\envs\NightEye\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siddhant\miniconda3\envs\NightEye\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Users\Siddhant\miniconda3\envs\NightEye\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siddhant\NightEye\src\repair_study\study.py", line 267, in worker
+    if process.returncode:raise RuntimeError(f'{stage} {a} failed; inspect log')
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: final lstm failed; inspect log

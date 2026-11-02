@@ -22,7 +22,7 @@ def candidates(count):
     return result
 
 
-def fit(algorithm, task, frame, columns, params, rounds, valid=None, patience=40):
+def fit(algorithm, task, frame, columns, params, rounds, valid=None, patience=40, record_training=False):
     classification = task == "direction"
     center = 0. if classification else float(frame.target.mean())
     scale = 1. if classification else max(float(frame.target.std()), 1e-8)
@@ -42,6 +42,8 @@ def fit(algorithm, task, frame, columns, params, rounds, valid=None, patience=40
                             eval_metric="logloss" if classification else "rmse",
                             early_stopping_rounds=patience if valid is not None else None)
         kwargs = {} if valid is None else dict(eval_set=[(ordered_features(valid, columns), val_y)], verbose=False)
+        if valid is not None and record_training:
+            kwargs["eval_set"].insert(0, (X, y))
         model.fit(X, y, sample_weight=weights(frame), **kwargs)
         trees = model.best_iteration+1 if valid is not None else rounds
         learning = model.evals_result() if valid is not None else {}
@@ -58,6 +60,9 @@ def fit(algorithm, task, frame, columns, params, rounds, valid=None, patience=40
             callbacks += [lgb.early_stopping(patience, first_metric_only=True, verbose=False)]
             kwargs["valid_sets"] = [lgb.Dataset(ordered_features(valid, columns), label=val_y, reference=training)]
             kwargs["valid_names"] = ["validation"]
+            if record_training:
+                kwargs["valid_sets"].insert(0, training)
+                kwargs["valid_names"].insert(0, "training")
         model = lgb.train(config, training, num_boost_round=rounds, callbacks=callbacks, **kwargs)
         trees = model.best_iteration if valid is not None else model.current_iteration()
     else:
