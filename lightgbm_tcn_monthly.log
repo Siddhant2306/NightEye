@@ -1,0 +1,25 @@
+Fold 1 return: recipe 0, 44 rounds
+Fold 1 direction: recipe 2, 16 rounds
+Fold 2 return: recipe 1, 1 rounds
+Fold 2 direction: recipe 2, 7 rounds
+Fold 3 return: recipe 1, 3 rounds
+Fold 3 direction: recipe 2, 17 rounds
+                model  group     rmse  balanced_accuracy    brier  log_loss
+             lightgbm    all 0.069502           0.500000 0.255866  0.705020
+             lightgbm unseen 0.065029           0.500000 0.254760  0.702808
+                  tcn    all 0.068944           0.500968 0.252048  0.697339
+                  tcn unseen 0.066470           0.485060 0.254938  0.703215
+      repair_lightgbm    all 0.067909           0.500000 0.250330  0.693807
+      repair_lightgbm unseen 0.064258           0.500000 0.250057  0.693262
+            unchanged    all 0.068020           0.500000 0.250000  0.693147
+            unchanged unseen 0.064850           0.500000 0.250000  0.693147
+strengthened_lightgbm    all 0.069478           0.500000 0.256155  0.705638
+strengthened_lightgbm unseen 0.065038           0.500000 0.254654  0.702589
+             fixed_90    all 0.069227           0.500000 0.255553  0.704397
+             fixed_90 unseen 0.064987           0.500000 0.254478  0.702225
+             fixed_75    all 0.068932           0.500000 0.254729  0.702710
+             fixed_75 unseen 0.064992           0.500000 0.254298  0.701859
+             fixed_50    all 0.068660           0.500000 0.253569  0.700358
+             fixed_50 unseen 0.065218           0.500000 0.254226  0.701724
+             selected    all 0.069478           0.500000 0.256155  0.705638
+             selected unseen 0.065038           0.500000 0.254654  0.702589
