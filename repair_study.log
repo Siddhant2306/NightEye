@@ -1,0 +1,21 @@
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\Siddhant\NightEye\src\repair_study\study.py", line 250, in <module>
+    result.to_csv(out/'test_predictions.csv',index_label='Date',float_format='%.17g');save_json(out/'metrics.json',metrics)
+                    ^^^^^^
+  File "C:\Users\Siddhant\NightEye\src\repair_study\study.py", line 241, in main
+    p=result if group=='all' else result.loc[result.group==group]
+                                                                  
+  File "C:\Users\Siddhant\miniconda3\envs\NightEye\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siddhant\miniconda3\envs\NightEye\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Users\Siddhant\miniconda3\envs\NightEye\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siddhant\NightEye\src\repair_study\study.py", line 239, in worker
+    metrics={}
+               
+RuntimeError: final lstm failed; inspect log

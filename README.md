@@ -1,12 +1,22 @@
 # NightEye
 
+[Controlled repair study](REPAIR_STUDY.md) records the code/feature review, validation-only trials, baseline comparisons and dated final prediction charts.
+
+[Feature engineering v2](FEATURE_ENGINEERING_V2.md) documents the isolated feature/regularization study, safe reuse of trained weights, independent LSTM checkpoints, final comparisons and Monte Carlo path reports.
+
+[Training, validation and test graphs](MODEL_GRAPHS.md) provides separate actual/predicted price, return and error panels plus learning curves for every algorithm and horizon. Run `python -m src.forecasting.diagnostics` with a stock ticker and a new diagnostics output folder.
+
+[LSTM, backtesting and fresh market paper testing](LSTM_MARKET_TESTING.md) adds a PyTorch sequence model, cost-aware next-open historical backtests, and an immutable forecast journal scored after future sessions occur. LSTM reuses the Monte Carlo reports. No broker orders are placed.
+
+The new [forecasting pipeline](FORECASTING.md) trains **both XGBoost and LightGBM** with chronological 80/20 development/test dates, purged validation, separate direction classifiers, probability calibration, selected technical features and Monte Carlo scenario reports. Use `python -m src.forecasting.train` and `python -m src.forecasting.predict` for this complete output; the older commands below remain historical benchmarks.
+
 LightGBM has a separate [training and prediction module](src/LightGBM/README.md), with frozen-feature benchmarks against XGBoost for daily, monthly and annual returns. The active linear-regression package has been removed; its previous generated results are retired under `artifacts/retired_linear_regression`.
 
 The market/sector/financial-context follow-up is documented in [RESEARCH_CONTEXT.md](RESEARCH_CONTEXT.md), with matched-baseline results in [RESULTS_CONTEXT.md](RESULTS_CONTEXT.md).
 
 The follow-up study with smaller statistical feature sets, 40 stocks, historical dividends, and a point-in-time valuation importer is documented in [RESEARCH_V2.md](RESEARCH_V2.md). Its measurements are in [RESULTS_REDUCED.md](RESULTS_REDUCED.md). The original study below remains a separate reference.
 
-Direct-horizon stock return forecasting with XGBoost. Predictions use daily OHLCV available **after the current market close**. Models predict cumulative log return over a specified number of future trading sessions, then convert it to an adjusted price. No Monte Carlo simulation is included.
+The original benchmark below performs direct-horizon stock return forecasting with XGBoost. Predictions use daily OHLCV available **after the current market close**. Models predict cumulative log return over a specified number of future trading sessions, then convert it to an adjusted price. Monte Carlo is available in the new forecasting pipeline above.
 
 ## Run
 

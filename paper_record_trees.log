@@ -1,0 +1,16 @@
+Data range: 2016-01-01 to 2026-10-30
+Valid rows: 2675
+Recorded aade0aadd8b1139fd37b89f2: xgboost / 1 sessions / 2026-10-30
+Recorded 2e6f6b14ea71dfb2aceb64fb: lightgbm / 1 sessions / 2026-10-30
+Features created: 18
+Usable rows after feature engineering: 2474
+Recorded 923020dc802f7078be522851: xgboost / 21 sessions / 2026-10-30
+Features created: 18
+Usable rows after feature engineering: 2474
+Recorded d59815d93e625f45a1193c01: lightgbm / 21 sessions / 2026-10-30
+Features created: 18
+Usable rows after feature engineering: 2474
+Recorded 09fbf8ec54a622d33062a5b8: xgboost / 252 sessions / 2026-10-30
+Features created: 18
+Usable rows after feature engineering: 2474
+Recorded ddb12842d784d58b20386493: lightgbm / 252 sessions / 2026-10-30

@@ -1,0 +1,6 @@
+intensive_v1_h1_xgboost: return=0.00%, trades=0
+intensive_v1_h1_lightgbm: return=0.23%, trades=8
+intensive_v1_h21_xgboost: return=-6.29%, trades=846
+intensive_v1_h21_lightgbm: return=-7.96%, trades=920
+intensive_v1_h252_xgboost: return=6.56%, trades=40
+intensive_v1_h252_lightgbm: return=6.56%, trades=40

@@ -1,0 +1,9 @@
+Data range: 2016-01-01 to 2026-10-30
+Valid rows: 2675
+Recorded 97b9b81d7ff2e04e782beb79: lstm / 1 sessions / 2026-10-30
+Features created: 18
+Usable rows after feature engineering: 2474
+Recorded 2c35e9aa533112e26200e8b0: lstm / 21 sessions / 2026-10-30
+Features created: 18
+Usable rows after feature engineering: 2474
+Recorded 5e15ea76a76876e870238171: lstm / 252 sessions / 2026-10-30
