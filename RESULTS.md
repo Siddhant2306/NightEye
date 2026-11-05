@@ -4,6 +4,9 @@ All hyperparameters were selected on three purged chronological validation folds
 
 | Experiment | Sessions | Stocks | Test rows | Direction | Always-up direction | Return RMSE | Zero RMSE | Mean RMSE |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
+| my_experiment | 1 | 15 | 21496 | 50.77% | 50.67% | 0.015126 | 0.015122 | 0.015118 |
+| my_experiment | 21 | 15 | 21196 | 55.38% | 55.38% | 0.067265 | 0.067614 | 0.067414 |
+| my_experiment | 252 | 15 | 17746 | 71.81% | 71.81% | 0.206488 | 0.230580 | 0.212646 |
 | pooled_extended | 1 | 15 | 21496 | 50.77% | 50.67% | 0.015126 | 0.015122 | 0.015118 |
 | pooled_extended | 21 | 15 | 21196 | 55.38% | 55.38% | 0.067265 | 0.067614 | 0.067414 |
 | pooled_extended | 252 | 15 | 17746 | 71.81% | 71.81% | 0.206488 | 0.230580 | 0.212646 |

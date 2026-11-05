@@ -67,6 +67,40 @@ def forecast(history, bundle, ticker, paths=5000, seed=42, context_dir=None):
     return result, prices
 
 
+def final_summary(result):
+    """Readable research conclusion; scenario percentiles are not buy evidence."""
+    q = result['monte_carlo']['terminal_price_quantiles']
+    outlook = 'upward' if result['predicted_return_pct'] > 0 else 'downward' if result['predicted_return_pct'] < 0 else 'flat'
+    reasons = list(result.get('reliability_warnings', []))
+    conclusion = (
+        f"The model has an {outlook} price outlook. "
+        "This historical research forecast does not establish that you should invest. "
+        "Investment suitability and a reliable live trading edge have not been established."
+    )
+    if result.get('heads_disagree'):
+        conclusion += ' The return predictor and direction classifier disagree.'
+    return dict(
+        assessment='INSUFFICIENT EVIDENCE FOR AN INVESTMENT RECOMMENDATION',
+        monte_carlo_range=dict(lower=q['p10'], upper=q['p90'],
+            description='10th–90th percentiles of simulated terminal adjusted prices; nominal 80% scenario range, not guaranteed coverage'),
+        model_price_prediction=result['predicted_adjusted_price'],
+        final_answer=conclusion, reasons=reasons)
+
+
+def summary_text(result):
+    s = result['final_summary']; band = s['monte_carlo_range']
+    return (
+        f"{result['ticker']} | {result['algorithm']} | {result['horizon_trading_sessions']} trading sessions | As of {result['as_of']}\n"
+        f"Starting adjusted price: INR {result['current_adjusted_close']:,.2f}\n"
+        f"Monte Carlo price range (10th–90th percentiles): INR {band['lower']:,.2f} to INR {band['upper']:,.2f}\n"
+        f"Model price prediction: INR {s['model_price_prediction']:,.2f} ({result['predicted_return_pct']:+.2f}%)\n"
+        f"Classifier probability of UP: {result['classifier_probability_up']:.1%}\n"
+        f"Investment assessment: {s['assessment']}\n"
+        f"Final answer: {s['final_answer']}\n"
+        "Range describes simulated endpoints, not guaranteed future prices. Prices are vendor-adjusted."
+    )
+
+
 def write_html(path, result, prices):
     """Standalone local report; no external scripts, requests or browser dependencies."""
     lo, hi = float(prices.min()), float(prices.max())
@@ -79,6 +113,7 @@ def write_html(path, result, prices):
     lines = "".join(polyline(p, "#68a9df", .12) for p in prices[:60])
     for q in [.1, .5, .9]:
         lines += polyline(np.quantile(prices, q, axis=0), "#ffba49" if q == .5 else "#eee", 1, 2)
+    result['final_summary'] = final_summary(result)
     s = result
     table = "".join(f"<tr><td>{html.escape(k)}</td><td>{html.escape(str(v))}</td></tr>" for k,v in {
         "As of":s["as_of"], "Algorithm":s["algorithm"], "Trading sessions":s["horizon_trading_sessions"],
@@ -94,6 +129,7 @@ def write_html(path, result, prices):
 <title>NightEye forecast</title><style>body{{font:16px system-ui;background:#101923;color:#ecf1f7;max-width:1000px;margin:32px auto;padding:20px}}td{{padding:8px 20px 8px 0;border-bottom:1px solid #354354}}svg{{width:100%;background:#172533;margin-top:24px}}p{{line-height:1.6;color:#c8d3e0}}pre{{white-space:pre-wrap;overflow-wrap:anywhere}}</style>
 <h1>{html.escape(s['ticker'])} · {s['horizon_trading_sessions']} sessions</h1>
 <p>Historical evaluation model · input date {html.escape(s['as_of'])}. Scenario ranges depend on assumptions and are not guaranteed.</p>
+<h2>Forecast summary</h2><pre>{html.escape(summary_text(result))}</pre>
 <p><strong>Reliability:</strong> {html.escape(warnings or 'Inspect the historical evaluation before relying on this output.')}</p>
 <table>{table}</table><svg viewBox="0 0 {width} {height}" role="img" aria-label="Illustrative Monte Carlo adjusted price paths">{lines}<text x="40" y="18" fill="white">{hi:.2f}</text><text x="40" y="{height-8}" fill="white">{lo:.2f} · Session 0 → {s['horizon_trading_sessions']}</text></svg>
 <p>Blue: sample paths. White: scenario 10th/90th percentiles. Gold: scenario median. Path behavior is illustrative; inspect test interval coverage and probability calibration in the experiment report.</p>
@@ -134,6 +170,7 @@ def add_diagnostics(result, model_path):
         warnings.append("Historical test diagnostics are missing.")
     result["reliability_warnings"] = warnings
     result["forecast_status"] = "EXPERIMENTAL" if warnings else "RESEARCH_EVALUATION_ONLY"
+    result['final_summary'] = final_summary(result)
     return result
 
 
@@ -154,11 +191,12 @@ def main():
     add_diagnostics(result, args.model)
     args.output.mkdir(parents=True)
     save_json(args.output/"forecast.json", result)
+    (args.output/"summary.txt").write_text(summary_text(result), encoding='utf-8')
     pd.DataFrame(np.quantile(prices, [.025, .1, .5, .9, .975], axis=0).T,
                  columns=["p2_5", "p10", "p50", "p90", "p97_5"]).to_csv(args.output/"path_quantiles.csv", index_label="session")
     pd.DataFrame(prices[:100].T).to_csv(args.output/"sample_paths.csv", index_label="session")
     write_html(args.output/"forecast.html", result, prices)
-    print(json.dumps(result, indent=2))
+    print(summary_text(result))
     print(f"Report: {(args.output/'forecast.html').resolve()}")
 
 
